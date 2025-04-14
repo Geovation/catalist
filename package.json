@@ -1,0 +1,16 @@
+{
+  "name": "catalist",
+  "version": "1.0.0",
+  "description": "A catalogue of geospatial data sources for the geovation community",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geovation",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-table": "^3.0.4",
+    "papaparse": "^5.5.2"
+  }
+}
