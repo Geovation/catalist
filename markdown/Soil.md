@@ -2,7 +2,7 @@
 title: Soil
 has_children: false
 parent: Catalist
-nav_order: 1
+nav_order: 5
 ---
 
 # Soil

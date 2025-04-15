@@ -2,7 +2,7 @@
 title: Vegetation
 has_children: false
 parent: Catalist
-nav_order: 1
+nav_order: 7
 ---
 
 # Vegetation

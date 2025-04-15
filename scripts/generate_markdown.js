@@ -21,8 +21,13 @@ for (const row of parsedData.data) {
   }
 }
 
+// Order the set alphabetically
+const orderedCategories = Array.from(categories).sort((a, b) =>
+  a.localeCompare(b)
+);
+
 // for each category get all the rows that belong to it
-for (const category of categories) {
+for (const category of orderedCategories) {
   const rows = parsedData.data.filter(
     (row) =>
       row["Category"] === category || row["Secondary Category"] === category
@@ -32,7 +37,7 @@ for (const category of categories) {
 title: ${category}
 has_children: false
 parent: Catalist
-nav_order: 1
+nav_order: ${orderedCategories.indexOf(category) + 1}
 ---
 
 # ${category}
@@ -72,5 +77,5 @@ ${row["Description"]}
 
   const markdown = `${markdownheader}${table}${markdowndescriptionsections}`;
   // write the markdown file
-  fs.writeFileSync(`./data/${category}.md`, markdown);
+  fs.writeFileSync(`./markdown/${category}.md`, markdown);
 }
