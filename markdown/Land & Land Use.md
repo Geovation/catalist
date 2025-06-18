@@ -72,8 +72,7 @@ Designed to help users gain an understanding of large areas or regions, or ident
 - **Category:** Land & Land Use
 - **Secondary Category:** 
 - **Licensing:** Premium
-- **Data link:** [Data link](https://digimap.edina.ac.uk/verisk
-https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
+- **Data link:** [Data link 1](https://digimap.edina.ac.uk/verisk), [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
 - **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukland/)
 
 

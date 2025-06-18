@@ -21,8 +21,7 @@ Information about UK (ccod) and overseas (ocod) companies that own property in t
 - **Category:** Retail
 - **Secondary Category:** Buildings
 - **Licensing:** Open
-- **Data link:** [Data link](https://use-land-property-data.service.gov.uk/datasets/ccod
-https://use-land-property-data.service.gov.uk/datasets/ocod)
+- **Data link:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod), [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod)
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)
 
 

@@ -87,7 +87,7 @@ ${row["Description"]}
 - **Category:** ${row["Category"]}
 - **Secondary Category:** ${row["Secondary Category"]}
 - **Licensing:** ${row["Licensing"]}
-- **Data link:** ${formatLinks(row["Data Link"])})
+- **Data link:** ${formatLinks(row["Data Link"])}
 - **Docs link:** [Docs link](${row["Docs Link"].trim()})
 `;
     })

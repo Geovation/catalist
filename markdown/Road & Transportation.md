@@ -59,8 +59,7 @@ Details about road collisions, including location, severity, date and time, and 
 - **Category:** Road & Transportation
 - **Secondary Category:** 
 - **Licensing:** Open
-- **Data link:** [Data link](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data
-https://cran.r-project.org/web/packages/stats19/index.html)
+- **Data link:** [Data link 1](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data), [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html)
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance)
 
 

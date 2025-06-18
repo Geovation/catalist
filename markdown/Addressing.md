@@ -32,8 +32,7 @@ A national database of building characteristics to provide detailed information 
 - **Category:** Buildings
 - **Secondary Category:** Addressing
 - **Licensing:** Premium
-- **Data link:** [Data link](https://digimap.edina.ac.uk/verisk
-https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
+- **Data link:** [Data link 1](https://digimap.edina.ac.uk/verisk), [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
 - **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)
 
 

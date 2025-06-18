@@ -34,8 +34,7 @@ Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV, 
 - **Category:** Climate & Weather
 - **Secondary Category:** 
 - **Licensing:** Open
-- **Data link:** [Data link](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis
-https://browser.dataspace.copernicus.eu/)
+- **Data link:** [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis), [Data link 2](https://browser.dataspace.copernicus.eu/)
 - **Docs link:** [Docs link](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data.html)
 
 
