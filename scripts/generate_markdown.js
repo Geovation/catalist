@@ -2,6 +2,7 @@ import fs from "fs";
 import Papa from "papaparse";
 
 import { markdownTable } from "markdown-table";
+import { format } from "path";
 
 const filePath = "./data/catalist.csv";
 
@@ -44,6 +45,23 @@ nav_order: ${orderedCategories.indexOf(category) + 1}
 
 `;
 
+function formatLinks(input) {
+    // Trim whitespace from the input string
+    const trimmedInput = input.trim();
+    
+    // Split the string into an array at spaces
+    const elements = trimmedInput.split(/\s+/);
+    
+    // Handle different cases based on the number of elements
+    if (elements.length === 1) {
+        return `[Data link](${elements[0]})`;
+    } else if (elements.length === 2) {
+        return `[Data link 1](${elements[0]}), [Data link 2](${elements[1]})`;
+    } else {
+        return 'Invalid input: More than two elements are not supported.';
+    }
+};
+
   // Generate the markdown table
   const table = markdownTable([
     ["Name", "Licensing", "Data link", "Docs link"],
@@ -53,7 +71,7 @@ nav_order: ${orderedCategories.indexOf(category) + 1}
         .replace(/ /g, "-")
         .toLowerCase()})`,
       row["Licensing"],
-      `[Data link](${row["Data Link"].trim()})`,
+      formatLinks(row["Data Link"]),
       `[Docs link](${row["Docs Link"].trim()})`,
     ]),
   ]);
