@@ -11,7 +11,8 @@
   "author": "Geovation",
   "license": "MIT",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "markdown-table": "^3.0.4",
-    "papaparse": "^5.5.2"
+    "papaparse": "^5.5.3"
   }
 }
