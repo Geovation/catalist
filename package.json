@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "markdown-table": "^3.0.4",
-    "papaparse": "^5.5.2"
+    "papaparse": "^5.5.3"
   }
 }

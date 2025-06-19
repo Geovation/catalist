@@ -18,8 +18,24 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install paraparse
+          npm install papaparse
 
       - name: Run markdown generator
         run: |
           node scripts/generate_markdown.js
+
+      - name: check for changes
+        run: git status
+
+      - name: commit changed files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Auto update of markdown files"
+
+      - name: fetch from origin
+        run: git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
+
+      - name: push code to remote
+        run: git push origin HEAD
