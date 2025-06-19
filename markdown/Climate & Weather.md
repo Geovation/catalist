@@ -7,6 +7,7 @@ nav_order: 5
 
 # Climate & Weather
 
+<<<<<<< HEAD
 | Name                                                                        | Licensing | Data link                                                                                                                                                                     | Docs link                                                                                           |
 | --------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [HadUK](#haduk)                                                             | Open      | [Data link](https://data.ceda.ac.uk/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid)                                                                                      | [Docs link](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid) |
@@ -15,6 +16,15 @@ https://browser.dataspace.copernicus.eu/) | [Docs link](https://documentation.da
 | [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map) | Open      | [Data link](https://registry.opendata.aws/dataforgood-fb-forests/)                                                                                                            | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                |
 | [National River Flow Archive](#national-river-flow-archive)                 | Open      | [Data link](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)                                                                                                                    | [Docs link](https://nrfa.ceh.ac.uk/)                                                                |
 | [Sewage discharges](#sewage-discharges)                                     | Open      | [Data link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                                     | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)           |
+=======
+| Name                                                                        | Licensing | Data link                                                                                                                                                                                       | Docs link                                                                                           |
+| --------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [HadUK](#haduk)                                                             | Open      | [Data link](https://data.ceda.ac.uk/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid)                                                                                                        | [Docs link](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid) |
+| [Sentinel Atmospheric Monitering](#sentinel-atmospheric-monitering)         | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis), [Data link 2](https://browser.dataspace.copernicus.eu/) | [Docs link](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data.html)               |
+| [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map) | Open      | [Data link](https://registry.opendata.aws/dataforgood-fb-forests/)                                                                                                                              | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                |
+| [National River Flow Archive](#national-river-flow-archive)                 | Open      | [Data link](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)                                                                                                                                      | [Docs link](https://nrfa.ceh.ac.uk/)                                                                |
+| [Sewage discharges](#sewage-discharges)                                     | Open      | [Data link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)           |
+>>>>>>> feat/updating-content
 
 ## HadUK
 
@@ -35,8 +45,12 @@ Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV, 
 - **Category:** Climate & Weather
 - **Secondary Category:** 
 - **Licensing:** Open
+<<<<<<< HEAD
 - **Data link:** [Data link](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis
 https://browser.dataspace.copernicus.eu/)
+=======
+- **Data link:** [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis), [Data link 2](https://browser.dataspace.copernicus.eu/)
+>>>>>>> feat/updating-content
 - **Docs link:** [Docs link](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data.html)
 
 
@@ -67,7 +81,11 @@ Daily water flow data from 1600 stations across the UK, covering many decades un
 
 ## Sewage discharges
 
+<<<<<<< HEAD
 Releases of raw, untreated sewage into waterbodies, usually through storm overflow outlets.UNFINISHED
+=======
+Releases of raw, untreated sewage into waterbodies, usually through storm overflow outlets.
+>>>>>>> feat/updating-content
 
 - **Category:** Climate & Weather
 - **Secondary Category:** Water & Hydrology

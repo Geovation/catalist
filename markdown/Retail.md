@@ -7,6 +7,7 @@ nav_order: 11
 
 # Retail
 
+<<<<<<< HEAD
 | Name                                                                        | Licensing | Data link                                                                                                                                | Docs link                                                                                                                                                |
 | --------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [HMLR UK Companies Data](#hmlr-uk-companies-data)                           | Open      | [Data link](https://use-land-property-data.service.gov.uk/datasets/ccod
@@ -15,6 +16,14 @@ https://use-land-property-data.service.gov.uk/datasets/ocod)     | [Docs link](h
 | [VOA Non-Domestic Valuations](#voa-non-domestic-valuations)                 | Open      | [Data link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)                                                               | [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf) |
 | [Google Places](#google-places)                                             | Premium   | [Data link](https://developers.google.com/maps/documentation/places/web-service/op-overview)                                             | [Docs link](https://developers.google.com/maps/documentation/places/web-service)                                                                         |
 | [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions) | Premium   | [Data link](https://tripadvisor-content-api.readme.io/reference/overview)                                                                | [Docs link](https://www.tripadvisor.com/developers)                                                                                                      |
+=======
+| Name                                                        | Licensing | Data link                                                                                                                                              | Docs link                                                                                                                                                |
+| ----------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [HMLR UK Companies Data](#hmlr-uk-companies-data)           | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod), [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod) | [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)                                                                       |
+| [Retail Centre Boundaries](#retail-centre-boundaries)       | Open      | [Data link](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators/resource/00b4e06a-8189-4771-8ff3-c2dbe9cbd606)               | [Docs link](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators)                                                               |
+| [VOA Non-Domestic Valuations](#voa-non-domestic-valuations) | Open      | [Data link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)                                                                             | [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf) |
+| [Google Places](#google-places)                             | Premium   | [Data link](https://developers.google.com/maps/documentation/places/web-service/op-overview)                                                           | [Docs link](https://developers.google.com/maps/documentation/places/web-service)                                                                         |
+>>>>>>> feat/updating-content
 
 ## HMLR UK Companies Data
 
@@ -23,8 +32,12 @@ Information about UK (ccod) and overseas (ocod) companies that own property in t
 - **Category:** Retail
 - **Secondary Category:** Buildings
 - **Licensing:** Open
+<<<<<<< HEAD
 - **Data link:** [Data link](https://use-land-property-data.service.gov.uk/datasets/ccod
 https://use-land-property-data.service.gov.uk/datasets/ocod)
+=======
+- **Data link:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod), [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod)
+>>>>>>> feat/updating-content
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)
 
 
@@ -62,6 +75,7 @@ Categorised places with various details including opening hours, amenities, rati
 - **Licensing:** Premium
 - **Data link:** [Data link](https://developers.google.com/maps/documentation/places/web-service/op-overview)
 - **Docs link:** [Docs link](https://developers.google.com/maps/documentation/places/web-service)
+<<<<<<< HEAD
 
 
 
@@ -74,3 +88,5 @@ Name, address, rating, URLs, reviews and photos of various attractions and locat
 - **Licensing:** Premium
 - **Data link:** [Data link](https://tripadvisor-content-api.readme.io/reference/overview)
 - **Docs link:** [Docs link](https://www.tripadvisor.com/developers)
+=======
+>>>>>>> feat/updating-content
