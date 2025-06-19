@@ -7,22 +7,6 @@ nav_order: 4
 
 # Buildings
 
-<<<<<<< HEAD
-| Name                                                                                      | Licensing | Data link                                                                                                                                      | Docs link                                                                                                                                                |
-| ----------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [EPCs](#epcs)                                                                             | Open      | [Data link](https://epc.opendatacommunities.org/domestic/search)                                                                               | [Docs link](https://epc.opendatacommunities.org/docs/api)                                                                                                |
-| [National Polygon Service](#national-polygon-service)                                     | Premium   | [Data link](https://use-land-property-data.service.gov.uk/datasets/nps)                                                                        | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                                                      |
-| [Overture Maps Foundation - Buildings Layer](#overture-maps-foundation---buildings-layer) | Open      | [Data link](https://docs.overturemaps.org/getting-data/)                                                                                       | [Docs link](https://docs.overturemaps.org/guides/buildings/)                                                                                             |
-| [Ordnance Survey NGD Buildings](#ordnance-survey-ngd-buildings)                           | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                          | [Docs link](https://docs.os.uk/osngd/data-structure/buildings)                                                                                           |
-| [Verisk UKBuildings](#verisk-ukbuildings)                                                 | Premium   | [Data link](https://digimap.edina.ac.uk/verisk
-https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)         | [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)                                                                                          |
-| [HMLR UK Companies Data](#hmlr-uk-companies-data)                                         | Open      | [Data link](https://use-land-property-data.service.gov.uk/datasets/ccod
-https://use-land-property-data.service.gov.uk/datasets/ocod)           | [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)                                                                       |
-| [HMLR Price Paid Data](#hmlr-price-paid-data)                                             | Open      | [Data link](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)                                                     | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)                                                                                       |
-| [VOA Non-Domestic Valuations](#voa-non-domestic-valuations)                               | Open      | [Data link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)                                                                     | [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf) |
-| [Google Solar](#google-solar)                                                             | Premium   | [Data link](https://developers.google.com/maps/documentation/solar/reference/rest)                                                             | [Docs link](https://developers.google.com/maps/documentation/solar/overview)                                                                             |
-| [Listed Buildings & Sites](#listed-buildings-&-sites)                                     | Open      | [Data link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3) | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)             |
-=======
 | Name                                                                                      | Licensing | Data link                                                                                                                                                | Docs link                                                                                                                                                |
 | ----------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [EPCs](#epcs)                                                                             | Open      | [Data link](https://epc.opendatacommunities.org/domestic/search)                                                                                         | [Docs link](https://epc.opendatacommunities.org/docs/api)                                                                                                |
@@ -35,7 +19,6 @@ https://use-land-property-data.service.gov.uk/datasets/ocod)           | [Docs l
 | [VOA Non-Domestic Valuations](#voa-non-domestic-valuations)                               | Open      | [Data link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)                                                                               | [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf) |
 | [Google Solar](#google-solar)                                                             | Premium   | [Data link](https://developers.google.com/maps/documentation/solar/reference/rest)                                                                       | [Docs link](https://developers.google.com/maps/documentation/solar/overview)                                                                             |
 | [Listed Buildings & Sites](#listed-buildings-&-sites)                                     | Open      | [Data link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)           | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)             |
->>>>>>> feat/updating-content
 
 ## EPCs
 
@@ -92,12 +75,7 @@ A national database of building characteristics to provide detailed information 
 - **Category:** Buildings
 - **Secondary Category:** Addressing
 - **Licensing:** Premium
-<<<<<<< HEAD
-- **Data link:** [Data link](https://digimap.edina.ac.uk/verisk
-https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
-=======
 - **Data link:** [Data link 1](https://digimap.edina.ac.uk/verisk), [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
->>>>>>> feat/updating-content
 - **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)
 
 
@@ -109,12 +87,7 @@ Information about UK (ccod) and overseas (ocod) companies that own property in t
 - **Category:** Retail
 - **Secondary Category:** Buildings
 - **Licensing:** Open
-<<<<<<< HEAD
-- **Data link:** [Data link](https://use-land-property-data.service.gov.uk/datasets/ccod
-https://use-land-property-data.service.gov.uk/datasets/ocod)
-=======
 - **Data link:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod), [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod)
->>>>>>> feat/updating-content
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)
 
 

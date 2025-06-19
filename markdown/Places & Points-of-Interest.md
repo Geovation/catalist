@@ -12,10 +12,7 @@ nav_order: 10
 | [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Open      | [Data link](https://docs.foursquare.com/data-products/docs/places-delivery-overview)         | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)      |
 | [Overture Maps Foundation - Places Layer](#overture-maps-foundation---places-layer) | Open      | [Data link](https://docs.overturemaps.org/getting-data/)                                     | [Docs link](https://docs.overturemaps.org/guides/places/)                        |
 | [Google Places](#google-places)                                                     | Premium   | [Data link](https://developers.google.com/maps/documentation/places/web-service/op-overview) | [Docs link](https://developers.google.com/maps/documentation/places/web-service) |
-<<<<<<< HEAD
 | [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)         | Premium   | [Data link](https://tripadvisor-content-api.readme.io/reference/overview)                    | [Docs link](https://www.tripadvisor.com/developers)                              |
-=======
->>>>>>> feat/updating-content
 
 ## Foursquare Points-Of-Interest
 
@@ -50,7 +47,6 @@ Categorised places with various details including opening hours, amenities, rati
 - **Licensing:** Premium
 - **Data link:** [Data link](https://developers.google.com/maps/documentation/places/web-service/op-overview)
 - **Docs link:** [Docs link](https://developers.google.com/maps/documentation/places/web-service)
-<<<<<<< HEAD
 
 
 
@@ -63,5 +59,3 @@ Name, address, rating, URLs, reviews and photos of various attractions and locat
 - **Licensing:** Premium
 - **Data link:** [Data link](https://tripadvisor-content-api.readme.io/reference/overview)
 - **Docs link:** [Docs link](https://www.tripadvisor.com/developers)
-=======
->>>>>>> feat/updating-content

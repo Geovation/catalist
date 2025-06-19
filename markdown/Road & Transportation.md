@@ -7,17 +7,6 @@ nav_order: 12
 
 # Road & Transportation
 
-<<<<<<< HEAD
-| Name                                                                                            | Licensing | Data link                                                                                                                                                               | Docs link                                                                             |
-| ----------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [Overture Maps Foundation - Transporting Layer](#overture-maps-foundation---transporting-layer) | Open      | [Data link](https://docs.overturemaps.org/getting-data/)                                                                                                                | [Docs link](https://docs.overturemaps.org/guides/transportation/)                     |
-| [Ordnance Survey NGD Transport](#ordnance-survey-ngd-transport)                                 | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/transport)                        |
-| [Network Rail Data Feeds](#network-rail-data-feeds)                                             | Open      | [Data link](https://www.rspaccreditation.org/publicDocumentation.php#RSPS5xxx)                                                                                          | [Docs link](https://publicdatafeeds.networkrail.co.uk/ntrod/account/profile)          |
-| [Road Collisions](#road-collisions)                                                             | Open      | [Data link](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data
-https://cran.r-project.org/web/packages/stats19/index.html) | [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance) |
-| [Real-Time Location Estimates](#real-time-location-estimates)                                   | Premium   | [Data link](https://activeintelligence.bt.com/get-in-touch)                                                                                                             | [Docs link](https://developer.bt.com/products/real-time-location-insights)            |
-| [Rail Insights](#rail-insights)                                                                 | Premium   | [Data link](https://activeintelligence.bt.com/get-in-touch)                                                                                                             | [Docs link](https://developer.bt.com/products/rail-network-api)                       |
-=======
 | Name                                                                                            | Licensing | Data link                                                                                                                                                                                 | Docs link                                                                             |
 | ----------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [Overture Maps Foundation - Transporting Layer](#overture-maps-foundation---transporting-layer) | Open      | [Data link](https://docs.overturemaps.org/getting-data/)                                                                                                                                  | [Docs link](https://docs.overturemaps.org/guides/transportation/)                     |
@@ -26,7 +15,6 @@ https://cran.r-project.org/web/packages/stats19/index.html) | [Docs link](https:
 | [Road Collisions](#road-collisions)                                                             | Open      | [Data link 1](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data), [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html) | [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance) |
 | [Real-Time Location Estimates](#real-time-location-estimates)                                   | Premium   | [Data link](https://activeintelligence.bt.com/get-in-touch)                                                                                                                               | [Docs link](https://developer.bt.com/products/real-time-location-insights)            |
 | [Rail Insights](#rail-insights)                                                                 | Premium   | [Data link](https://activeintelligence.bt.com/get-in-touch)                                                                                                                               | [Docs link](https://developer.bt.com/products/rail-network-api)                       |
->>>>>>> feat/updating-content
 
 ## Overture Maps Foundation - Transporting Layer
 
@@ -71,12 +59,7 @@ Details about road collisions, including location, severity, date and time, and 
 - **Category:** Road & Transportation
 - **Secondary Category:** 
 - **Licensing:** Open
-<<<<<<< HEAD
-- **Data link:** [Data link](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data
-https://cran.r-project.org/web/packages/stats19/index.html)
-=======
 - **Data link:** [Data link 1](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data), [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html)
->>>>>>> feat/updating-content
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance)
 
 
