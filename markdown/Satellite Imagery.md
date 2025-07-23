@@ -13,7 +13,7 @@ nav_order: 13
 
 ## Sentinel 2 Imagery
 
-Imagery at 10m resolution every ~3 days.
+Imagery at 10m resolution every ~3 days. Does not guarantee absence of cloud.
 
 - **Category:** Satellite Imagery
 - **Secondary Category:** 

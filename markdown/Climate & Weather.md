@@ -29,7 +29,7 @@ nav_order: 5
 
 ## Sentinel Atmospheric Monitering
 
-Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV,  stratospheric ozone, climate, and solar radiation data. Low resolution (7 or 8km).
+Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV, stratospheric ozone, climate, and solar radiation data. Low resolution (7 or 8km).
 
 - **Category:** Climate & Weather
 - **Secondary Category:** 

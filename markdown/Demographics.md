@@ -15,7 +15,7 @@ nav_order: 6
 
 ## MHCLG Open Data
 
-Various housing, community, and social, statistics by quarter/year, by administrative unit.
+Various housing, community, and social statistics by quarter/year, by administrative unit.
 
 - **Category:** Demographics
 - **Secondary Category:** 
