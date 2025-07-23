@@ -2,7 +2,7 @@
 title: History
 has_children: false
 parent: Catalist
-nav_order: 8
+nav_order: 7
 ---
 
 # History

@@ -2,7 +2,7 @@
 title: Places & Points-of-Interest
 has_children: false
 parent: Catalist
-nav_order: 10
+nav_order: 9
 ---
 
 # Places & Points-of-Interest
