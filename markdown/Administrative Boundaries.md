@@ -11,7 +11,7 @@ nav_order: 2
 | ----------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ONS Boundaries](#ons-boundaries)                                                                                 | Open      | [Data link](https://geoportal.statistics.gov.uk/search?collection=dataset&q=BDY_ADM&sort=Date%20Created%7Ccreated%7Cdesc&tags=Boundaries) | [Docs link](https://webarchive.nationalarchives.gov.uk/ukgwa/20160106185615/http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/index.html) |
 | [Ordnance Survey NGD Administrative & Statistical Units](#ordnance-survey-ngd-administrative-&-statistical-units) | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                     | [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units)                                                                 |
-| [Ordnance Survey Open Built Up Areas](#ordnance-survey-open-built-up-areas)                                       | Open      | [Data link](https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas)                                                             | [Docs link]()                                                                                                                                             |
+| [Ordnance Survey Open Built Up Areas](#ordnance-survey-open-built-up-areas)                                       | Open      | [Data link](https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas)                                                             | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-built-up-areas)                                                               |
 | [Ordnance Survey Boundaryline](#ordnance-survey-boundaryline)                                                     | Open      | [Data link](https://www.ordnancesurvey.co.uk/products/boundary-line)                                                                      | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/boundary-line)                                                                        |
 
 ## ONS Boundaries
@@ -46,7 +46,7 @@ A dataset representing Built Up Areas of Great Britain designed to underpin stat
 - **Secondary Category:** 
 - **Licensing:** Open
 - **Data link:** [Data link](https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas)
-- **Docs link:** [Docs link]()
+- **Docs link:** [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-built-up-areas)
 
 
 

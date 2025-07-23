@@ -13,7 +13,7 @@ nav_order: 17
 | [Risk of Flooding from Rivers and Sea](#risk-of-flooding-from-rivers-and-sea)   | Open      | [Data link](https://environment.data.gov.uk/dataset/96ab4342-82c1-4095-87f1-0082e8d84ef1)                           | [Docs link](https://environment.data.gov.uk/file-management-open/data-sets/cf7e9513-2004-4ab7-befa-12294eedde0f/files/RoFRS%20Product%20Description.pdf) |
 | [Nutrient Neutrality Catchments](#nutrient-neutrality-catchments)               | Open      | [Data link](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about) | [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)                                                          |
 | [National River Flow Archive](#national-river-flow-archive)                     | Open      | [Data link](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)                                                          | [Docs link](https://nrfa.ceh.ac.uk/)                                                                                                                     |
-| [Sewage discharges](#sewage-discharges)                                         | Open      | [Data link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                           | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                |
+| [Sewage Discharges](#sewage-discharges)                                         | Open      | [Data link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                           | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                |
 
 ## Overture Maps Foundation - Base Layer
 
@@ -63,7 +63,7 @@ Daily water flow data from 1600 stations across the UK, covering many decades un
 
 
 
-## Sewage discharges
+## Sewage Discharges
 
 Releases of raw, untreated sewage into waterbodies, usually through storm overflow outlets.UNFINISHED
 

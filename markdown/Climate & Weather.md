@@ -13,7 +13,7 @@ nav_order: 5
 | [Sentinel Atmospheric Monitering](#sentinel-atmospheric-monitering)         | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis), [Data link 2](https://browser.dataspace.copernicus.eu/) | [Docs link](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data.html)               |
 | [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map) | Open      | [Data link](https://registry.opendata.aws/dataforgood-fb-forests/)                                                                                                                              | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                |
 | [National River Flow Archive](#national-river-flow-archive)                 | Open      | [Data link](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)                                                                                                                                      | [Docs link](https://nrfa.ceh.ac.uk/)                                                                |
-| [Sewage discharges](#sewage-discharges)                                     | Open      | [Data link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)           |
+| [Sewage Discharges](#sewage-discharges)                                     | Open      | [Data link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)           |
 
 ## HadUK
 
@@ -63,7 +63,7 @@ Daily water flow data from 1600 stations across the UK, covering many decades un
 
 
 
-## Sewage discharges
+## Sewage Discharges
 
 Releases of raw, untreated sewage into waterbodies, usually through storm overflow outlets.UNFINISHED
 
