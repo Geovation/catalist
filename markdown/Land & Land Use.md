@@ -11,7 +11,7 @@ nav_order: 8
 | ------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | [National Polygon Service](#national-polygon-service)                           | Premium   | [Data link](https://use-land-property-data.service.gov.uk/datasets/nps)                                                                                                                                 | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1) |
 | [Overture Maps Foundation - Base Layer](#overture-maps-foundation---base-layer) | Open      | [Data link](https://docs.overturemaps.org/getting-data/)                                                                                                                                                | [Docs link](https://docs.overturemaps.org/guides/base/)                             |
-| [Ordnance Survey NGD Land](#ordnance-survey-ngd-land)                           | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/land)                           |
+| [OS NGD Land](#os-ngd-land)                                                     | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/land)                           |
 | [Ordnance Survey Open Greenspace](#ordnance-survey-open-greenspace)             | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace), [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)          |
 | [Verisk UKLand](#verisk-ukland)                                                 | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk), [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                                                | [Docs link](https://www.verisk.com/en-gb/products/ukland/)                          |
 | [UK Planning Data Platform](#uk-planning-data-platform)                         | Open      | [Data link](https://www.planning.data.gov.uk/dataset/)                                                                                                                                                  | [Docs link](https://www.planning.data.gov.uk/docs)                                  |
@@ -41,7 +41,7 @@ Structures (bridges, comms towers etc.), water, land cover, and land use data. C
 
 
 
-## Ordnance Survey NGD Land
+## OS NGD Land
 
 The OS NGD Land Use Features Collection gives you access to the most current and comprehensive land use sites and site access data captured by Ordnance Survey.
 

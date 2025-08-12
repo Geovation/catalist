@@ -9,10 +9,10 @@ nav_order: 3
 
 | Name                                                                                      | Licensing | Data link                                                                                                                                                | Docs link                                                                                                                                                |
 | ----------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [EPCs](#epcs)                                                                             | Open      | [Data link](https://epc.opendatacommunities.org/domestic/search)                                                                                         | [Docs link](https://epc.opendatacommunities.org/docs/api)                                                                                                |
+| [Energy Perfornmance Certificates](#energy-perfornmance-certificates)                     | Open      | [Data link](https://epc.opendatacommunities.org/domestic/search)                                                                                         | [Docs link](https://epc.opendatacommunities.org/docs/api)                                                                                                |
 | [National Polygon Service](#national-polygon-service)                                     | Premium   | [Data link](https://use-land-property-data.service.gov.uk/datasets/nps)                                                                                  | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                                                      |
 | [Overture Maps Foundation - Buildings Layer](#overture-maps-foundation---buildings-layer) | Open      | [Data link](https://docs.overturemaps.org/getting-data/)                                                                                                 | [Docs link](https://docs.overturemaps.org/guides/buildings/)                                                                                             |
-| [Ordnance Survey NGD Buildings](#ordnance-survey-ngd-buildings)                           | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                                    | [Docs link](https://docs.os.uk/osngd/data-structure/buildings)                                                                                           |
+| [OS NGD Buildings](#os-ngd-buildings)                                                     | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                                    | [Docs link](https://docs.os.uk/osngd/data-structure/buildings)                                                                                           |
 | [Verisk UKBuildings](#verisk-ukbuildings)                                                 | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk), [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api) | [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)                                                                                          |
 | [HMLR UK Companies Data](#hmlr-uk-companies-data)                                         | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod), [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod)   | [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)                                                                       |
 | [HMLR Price Paid Data](#hmlr-price-paid-data)                                             | Open      | [Data link](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)                                                               | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)                                                                                       |
@@ -20,7 +20,7 @@ nav_order: 3
 | [Google Solar](#google-solar)                                                             | Premium   | [Data link](https://developers.google.com/maps/documentation/solar/reference/rest)                                                                       | [Docs link](https://developers.google.com/maps/documentation/solar/overview)                                                                             |
 | [Listed Buildings & Sites](#listed-buildings-&-sites)                                     | Open      | [Data link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)           | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)             |
 
-## EPCs
+## Energy Perfornmance Certificates
 
 EPC rating for properties, along with other energy-related stats. About 60% have UPRNs
 
@@ -56,7 +56,7 @@ Building and building-part data, sometimes with some basic attribution such as h
 
 
 
-## Ordnance Survey NGD Buildings
+## OS NGD Buildings
 
 The OS NGD Building Features Collection gives you access to the most current and comprehensive buildings data captured by Ordnance Survey as a standalone collection. Within this collection, there is the Building Line, Building Part and Building Feature type. 
 

@@ -56,7 +56,7 @@ Real-time arrival and departure predictions, platform numbers, delay estimates, 
 
 ## Road Collisions
 
-Details about road collisions, including location, severity, date and time, and various details about the road and pedestrian infrastructure and conditions surrounding the incident. Two separate tables provide details about the casualties and vehicles respectively. Files are split by year, and can be accessed programmatically using an R Package. 
+Details about road collisions, including location, severity, date and time, and various details about the road and pedestrian infrastructure and conditions surrounding the incident. Two separate tables provide details about the casualties and vehicles respectively. Files are split by year, and can be accessed programmatically using an R Package
 
 - **Category:** Road & Transportation
 - **Secondary Category:** 
