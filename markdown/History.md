@@ -13,6 +13,7 @@ nav_order: 7
 | [Lost Habitats](#lost-habitats)                           | Premium   | [Data link](https://www.archai.io/contact)                                                                                                     | [Docs link](https://www.archai.io/historichabitats)                                                                                          |
 | [Lost Boundaries](#lost-boundaries)                       | Premium   | [Data link](https://www.archai.io/contact)                                                                                                     | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                                   |
 | [Listed Buildings & Sites](#listed-buildings-&-sites)     | Open      | [Data link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3) | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3) |
+| [X API](#x-api)                                           | Premium   | [Data link](https://developer.x.com/en/portal/dashboard)                                                                                       | [Docs link](https://docs.x.com/x-api/introduction)                                                                                           |
 
 ## Historic OS Maps Catalogue
 
@@ -59,3 +60,15 @@ Official, up to date, register of all nationally protected historic buildings an
 - **Licensing:** Open
 - **Data link:** [Data link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)
 - **Docs link:** [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)
+
+
+
+## X API
+
+Collection of X/Twitter data points, including tweets, users, media (ie. images/videos/links within tweets), engagements (eg. likes/replies/retweets) and trends (ie. hashtags/keywords/topics. NOTE THAT not much of the data is geospatial, as location coordinates are only supplied for a small subset of tweets. Otherwise, any location information must be extracted from the tweet body using Natual Language Processing.  The archive extends back to 2006. Different tiers give different levels of access.
+
+- **Category:** Places & Points-of-Interest
+- **Secondary Category:** History
+- **Licensing:** Premium
+- **Data link:** [Data link](https://developer.x.com/en/portal/dashboard)
+- **Docs link:** [Docs link](https://docs.x.com/x-api/introduction)

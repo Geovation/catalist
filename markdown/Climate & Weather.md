@@ -65,7 +65,7 @@ Daily water flow data from 1600 stations across the UK, covering many decades un
 
 ## Sewage Discharges
 
-Releases of raw, untreated sewage into waterbodies, usually through storm overflow outlets.UNFINISHED
+Data about releases of raw, untreated sewage into waterbodies through storm overflow outlets. Data provided annually from the 10 Water and Sewerage Companies with storm overflows in England. Includes frequency and duration of discharges, and (post-2021) poteintial causes of high spill counts.
 
 - **Category:** Climate & Weather
 - **Secondary Category:** Water & Hydrology

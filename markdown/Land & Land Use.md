@@ -12,10 +12,11 @@ nav_order: 8
 | [National Polygon Service](#national-polygon-service)                           | Premium   | [Data link](https://use-land-property-data.service.gov.uk/datasets/nps)                                                                                                                                 | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1) |
 | [Overture Maps Foundation - Base Layer](#overture-maps-foundation---base-layer) | Open      | [Data link](https://docs.overturemaps.org/getting-data/)                                                                                                                                                | [Docs link](https://docs.overturemaps.org/guides/base/)                             |
 | [OS NGD Land](#os-ngd-land)                                                     | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/land)                           |
-| [Ordnance Survey Open Greenspace](#ordnance-survey-open-greenspace)             | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace), [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)          |
+| [OS Open Greenspace](#os-open-greenspace)                                       | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace), [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)          |
 | [Verisk UKLand](#verisk-ukland)                                                 | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk), [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                                                | [Docs link](https://www.verisk.com/en-gb/products/ukland/)                          |
 | [UK Planning Data Platform](#uk-planning-data-platform)                         | Open      | [Data link](https://www.planning.data.gov.uk/dataset/)                                                                                                                                                  | [Docs link](https://www.planning.data.gov.uk/docs)                                  |
 | [Lost Boundaries](#lost-boundaries)                                             | Premium   | [Data link](https://www.archai.io/contact)                                                                                                                                                              | [Docs link](https://www.archai.io/historicfieldboundaries)                          |
+| [Planning Applications](#planning-applications)                                 | Premium   | [Data link](https://docs.searchland.co.uk/#tag/Planning)                                                                                                                                                | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                |
 
 ## National Polygon Service
 
@@ -53,7 +54,7 @@ The OS NGD Land Use Features Collection gives you access to the most current and
 
 
 
-## Ordnance Survey Open Greenspace
+## OS Open Greenspace
 
 OS Open Greenspace depicts the location and extent of spaces, such as parks and sports facilities, which are likely to be accessible to the public. Spatial files can be downloaded for the whole of GB or for specific British National Grid squares, either from the OS Data Hub or through the OS Downloads API.
 
@@ -98,3 +99,15 @@ Historic field boundaries, categories when known, from the last 200 years, infer
 - **Licensing:** Premium
 - **Data link:** [Data link](https://www.archai.io/contact)
 - **Docs link:** [Docs link](https://www.archai.io/historicfieldboundaries)
+
+
+
+## Planning Applications
+
+Large compilation of planning applications published by local councils since 1990 until the present. Data includes application type, key dates, decision/stage, the assigned case officer, and associated documents.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Buildings
+- **Licensing:** Premium
+- **Data link:** [Data link](https://docs.searchland.co.uk/#tag/Planning)
+- **Docs link:** [Docs link](https://searchland.co.uk/our-apis/planning-applications)
