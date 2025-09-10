@@ -9,7 +9,7 @@ nav_order: 3
 
 | Name                                                                                      | Licensing | Data link                                                                                                                                                | Docs link                                                                                                                                                |
 | ----------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Energy Perfornmance Certificates](#energy-perfornmance-certificates)                     | Open      | [Data link](https://epc.opendatacommunities.org/domestic/search)                                                                                         | [Docs link](https://epc.opendatacommunities.org/docs/api)                                                                                                |
+| [EPCs](#epcs)                                                                             | Open      | [Data link](https://epc.opendatacommunities.org/domestic/search)                                                                                         | [Docs link](https://epc.opendatacommunities.org/docs/api)                                                                                                |
 | [National Polygon Service](#national-polygon-service)                                     | Premium   | [Data link](https://use-land-property-data.service.gov.uk/datasets/nps)                                                                                  | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                                                      |
 | [Overture Maps Foundation - Buildings Layer](#overture-maps-foundation---buildings-layer) | Open      | [Data link](https://docs.overturemaps.org/getting-data/)                                                                                                 | [Docs link](https://docs.overturemaps.org/guides/buildings/)                                                                                             |
 | [OS NGD Buildings](#os-ngd-buildings)                                                     | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                                    | [Docs link](https://docs.os.uk/osngd/data-structure/buildings)                                                                                           |
@@ -19,8 +19,11 @@ nav_order: 3
 | [VOA Non-Domestic Valuations](#voa-non-domestic-valuations)                               | Open      | [Data link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)                                                                               | [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf) |
 | [Google Solar](#google-solar)                                                             | Premium   | [Data link](https://developers.google.com/maps/documentation/solar/reference/rest)                                                                       | [Docs link](https://developers.google.com/maps/documentation/solar/overview)                                                                             |
 | [Listed Buildings & Sites](#listed-buildings-&-sites)                                     | Open      | [Data link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)           | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)             |
+| [Rightmove Property Data](#rightmove-property-data)                                       | Premium   | [Data link](https://www.rightmove.co.uk/property-data/)                                                                                                  | [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/)                                                                         |
+| [Planning Applications](#planning-applications)                                           | Premium   | [Data link](https://docs.searchland.co.uk/#tag/Planning)                                                                                                 | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                                                     |
+| [OS Open UPRN](#os-open-uprn)                                                             | Open      | [Data link](https://osdatahub.os.uk/downloads/open/OpenUPRN)                                                                                             | [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)                                                                                    |
 
-## Energy Perfornmance Certificates
+## EPCs
 
 EPC rating for properties, along with other energy-related stats. About 60% have UPRNs
 
@@ -137,3 +140,39 @@ Official, up to date, register of all nationally protected historic buildings an
 - **Licensing:** Open
 - **Data link:** [Data link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)
 - **Docs link:** [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)
+
+
+
+## Rightmove Property Data
+
+Data created by property listings, visits, and leads on Rightmove. Includes data on asking prices, price reductions, rental yields, available stock, sales, time on market, and enquiries (eg. calls, emails). They also incorporate contextual third party data, including from HMLR. Includes historic data going back to the 2000s.
+
+- **Category:** Addressing
+- **Secondary Category:** Buildings
+- **Licensing:** Premium
+- **Data link:** [Data link](https://www.rightmove.co.uk/property-data/)
+- **Docs link:** [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/)
+
+
+
+## Planning Applications
+
+Large compilation of planning applications published by local councils since 1990 until the present. Data includes application type, key dates, decision/stage, the assigned case officer, and associated documents.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Buildings
+- **Licensing:** Premium
+- **Data link:** [Data link](https://docs.searchland.co.uk/#tag/Planning)
+- **Docs link:** [Docs link](https://searchland.co.uk/our-apis/planning-applications)
+
+
+
+## OS Open UPRN
+
+Contains Unique Property Reference Numbers (UPRNs) for addressable locations in Great Britain. Enables linking and sharing of property-related data. Includes persistent identifiers for residential, commercial, and non-postal locations. Syncronised to the release of OS AddressBase Premium. Updated every six weeks.
+
+- **Category:** Addressing
+- **Secondary Category:** Buildings
+- **Licensing:** Open
+- **Data link:** [Data link](https://osdatahub.os.uk/downloads/open/OpenUPRN)
+- **Docs link:** [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)

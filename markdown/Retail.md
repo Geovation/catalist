@@ -13,7 +13,7 @@ nav_order: 10
 | [Retail Centre Boundaries](#retail-centre-boundaries)                       | Open      | [Data link](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators/resource/00b4e06a-8189-4771-8ff3-c2dbe9cbd606)               | [Docs link](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators)                                                               |
 | [VOA Non-Domestic Valuations](#voa-non-domestic-valuations)                 | Open      | [Data link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)                                                                             | [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf) |
 | [Google Places](#google-places)                                             | Premium   | [Data link](https://developers.google.com/maps/documentation/places/web-service/op-overview)                                                           | [Docs link](https://developers.google.com/maps/documentation/places/web-service)                                                                         |
-| [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions) | Premium   | [Data link](https://tripadvisor-content-api.readme.io/reference/overview)                                                                              | [Docs link](https://www.tripadvisor.com/developers)                                                                                                      |
+| [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions) | Premium   | [Data link](https://www.tripadvisor.com/developers?screen=credentials)                                                                                 | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)                                                                                |
 
 ## HMLR UK Companies Data
 
@@ -70,5 +70,5 @@ Name, address, rating, URLs, reviews and photos of various attractions and locat
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** Retail
 - **Licensing:** Premium
-- **Data link:** [Data link](https://tripadvisor-content-api.readme.io/reference/overview)
-- **Docs link:** [Docs link](https://www.tripadvisor.com/developers)
+- **Data link:** [Data link](https://www.tripadvisor.com/developers?screen=credentials)
+- **Docs link:** [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)

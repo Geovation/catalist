@@ -7,12 +7,12 @@ nav_order: 2
 
 # Administrative Boundaries
 
-| Name                                                                                                              | Licensing | Data link                                                                                                                                 | Docs link                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ONS Boundaries](#ons-boundaries)                                                                                 | Open      | [Data link](https://geoportal.statistics.gov.uk/search?collection=dataset&q=BDY_ADM&sort=Date%20Created%7Ccreated%7Cdesc&tags=Boundaries) | [Docs link](https://webarchive.nationalarchives.gov.uk/ukgwa/20160106185615/http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/index.html) |
-| [Ordnance Survey NGD Administrative & Statistical Units](#ordnance-survey-ngd-administrative-&-statistical-units) | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                     | [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units)                                                                 |
-| [Ordnance Survey Open Built Up Areas](#ordnance-survey-open-built-up-areas)                                       | Open      | [Data link](https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas)                                                             | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-built-up-areas)                                                               |
-| [Ordnance Survey Boundaryline](#ordnance-survey-boundaryline)                                                     | Open      | [Data link](https://www.ordnancesurvey.co.uk/products/boundary-line)                                                                      | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/boundary-line)                                                                        |
+| Name                                                                                    | Licensing | Data link                                                                                                                                 | Docs link                                                                                                                                                 |
+| --------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ONS Boundaries](#ons-boundaries)                                                       | Open      | [Data link](https://geoportal.statistics.gov.uk/search?collection=dataset&q=BDY_ADM&sort=Date%20Created%7Ccreated%7Cdesc&tags=Boundaries) | [Docs link](https://webarchive.nationalarchives.gov.uk/ukgwa/20160106185615/http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/index.html) |
+| [OS NGD Administrative & Statistical Units](#os-ngd-administrative-&-statistical-units) | Premium   | [Data link](https://osdatahub.os.uk/)                                                                                                     | [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units)                                                                 |
+| [OS Open Built Up Areas](#os-open-built-up-areas)                                       | Open      | [Data link](https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas)                                                             | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-built-up-areas)                                                               |
+| [OS Boundaryline](#os-boundaryline)                                                     | Open      | [Data link](https://www.ordnancesurvey.co.uk/products/boundary-line)                                                                      | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/boundary-line)                                                                        |
 
 ## ONS Boundaries
 
@@ -26,7 +26,7 @@ Geometry and codes for various administrative/census/electoral boundaries
 
 
 
-## Ordnance Survey NGD Administrative & Statistical Units
+## OS NGD Administrative & Statistical Units
 
 The OS NGD Administrative and Statistical Units Theme provides a definitive dataset of administrative and electoral boundaries and their names for England, Wales and Scotland.
 
@@ -38,7 +38,7 @@ The OS NGD Administrative and Statistical Units Theme provides a definitive data
 
 
 
-## Ordnance Survey Open Built Up Areas
+## OS Open Built Up Areas
 
 A dataset representing Built Up Areas of Great Britain designed to underpin statistical analysis and contribute to policy enablement across the public sector.
 
@@ -50,7 +50,7 @@ A dataset representing Built Up Areas of Great Britain designed to underpin stat
 
 
 
-## Ordnance Survey Boundaryline
+## OS Boundaryline
 
 From parliamentary constituencies to council wards, Boundary-Line maps every administrative boundary in detail for you. And what's more, it's completely free to download and use.
 
