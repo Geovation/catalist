@@ -7,10 +7,10 @@ nav_order: 6
 
 # Energy & Infrastructure
 
-| Name                                    | Licensing | Data link                                                                          | Docs link                                                                    |
-| --------------------------------------- | --------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [OS NGD Structures](#os-ngd-structures) | Premium   | [Data link](https://osdatahub.os.uk/)                                              | [Docs link](https://docs.os.uk/osngd/data-structure/structures)              |
-| [Google Solar](#google-solar)           | Premium   | [Data link](https://developers.google.com/maps/documentation/solar/reference/rest) | [Docs link](https://developers.google.com/maps/documentation/solar/overview) |
+| Name                                    | Licensing | Data link 1                                                                          | Data link 2     | Docs link                                                                    |
+| --------------------------------------- | --------- | ------------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------- |
+| [OS NGD Structures](#os-ngd-structures) | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)     | [Data link 2]() | [Docs link](https://docs.os.uk/osngd/data-structure/structures)              |
+| [Google Solar](#google-solar)           | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest) | [Data link 2]() | [Docs link](https://developers.google.com/maps/documentation/solar/overview) |
 
 ## OS NGD Structures
 
@@ -19,7 +19,8 @@ The OS NGD Structure Features Collection gives you access to a standalone datase
 - **Category:** Energy & Infrastructure
 - **Secondary Category:** 
 - **Licensing:** Premium
-- **Data link:** [Data link](https://osdatahub.os.uk/)
+- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)
+- **Data link 2:** [Data link 2]()
 - **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/structures)
 
 
@@ -31,5 +32,6 @@ Insights about the location and dimensions of buildings, and estimated solar pot
 - **Category:** Energy & Infrastructure
 - **Secondary Category:** Buildings
 - **Licensing:** Premium
-- **Data link:** [Data link](https://developers.google.com/maps/documentation/solar/reference/rest)
+- **Data link 1:** [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest)
+- **Data link 2:** [Data link 2]()
 - **Docs link:** [Docs link](https://developers.google.com/maps/documentation/solar/overview)

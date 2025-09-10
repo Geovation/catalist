@@ -7,13 +7,13 @@ nav_order: 1
 
 # Addressing
 
-| Name                                                | Licensing | Data link                                                                                                                                                | Docs link                                                                        |
-| --------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [OS NGD Address](#os-ngd-address)                   | Premium   | [Data link](https://docs.os.uk/osngd/data-structure/address)                                                                                             | [Docs link]()                                                                    |
-| [Verisk UKBuildings](#verisk-ukbuildings)           | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk), [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api) | [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)                  |
-| [HMLR Price Paid Data](#hmlr-price-paid-data)       | Open      | [Data link](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)                                                               | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)               |
-| [Rightmove Property Data](#rightmove-property-data) | Premium   | [Data link](https://www.rightmove.co.uk/property-data/)                                                                                                  | [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/) |
-| [OS Open UPRN](#os-open-uprn)                       | Open      | [Data link](https://osdatahub.os.uk/downloads/open/OpenUPRN)                                                                                             | [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)            |
+| Name                                                | Licensing | Data link 1                                                                                  | Data link 2                                                                                                                       | Docs link                                                                        |
+| --------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [OS NGD Address](#os-ngd-address)                   | Premium   | [Data link 1](https://docs.os.uk/osngd/data-structure/address)                               | [Data link 2]()                                                                                                                   | [Docs link]()                                                                    |
+| [Verisk UKBuildings](#verisk-ukbuildings)           | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                            | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                             | [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)                  |
+| [HMLR Price Paid Data](#hmlr-price-paid-data)       | Open      | [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) | [Data link 2]()                                                                                                                   | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)               |
+| [Rightmove Property Data](#rightmove-property-data) | Premium   | [Data link 1](https://www.rightmove.co.uk/property-data/)                                    | [Data link 2]()                                                                                                                   | [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/) |
+| [OS Open UPRN](#os-open-uprn)                       | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenUPRN)                               | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)            |
 
 ## OS NGD Address
 
@@ -22,7 +22,8 @@ A complete and definitive view of UK address data. Includes address lifecycle, v
 - **Category:** Addressing
 - **Secondary Category:** 
 - **Licensing:** Premium
-- **Data link:** [Data link](https://docs.os.uk/osngd/data-structure/address)
+- **Data link 1:** [Data link 1](https://docs.os.uk/osngd/data-structure/address)
+- **Data link 2:** [Data link 2]()
 - **Docs link:** [Docs link]()
 
 
@@ -34,7 +35,8 @@ A national database of building characteristics to provide detailed information 
 - **Category:** Buildings
 - **Secondary Category:** Addressing
 - **Licensing:** Premium
-- **Data link:** [Data link 1](https://digimap.edina.ac.uk/verisk), [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
+- **Data link 1:** [Data link 1](https://digimap.edina.ac.uk/verisk)
+- **Data link 2:** [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
 - **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)
 
 
@@ -46,7 +48,8 @@ The price paid for properties, and the completion date. Address included, but no
 - **Category:** Addressing
 - **Secondary Category:** Buildings
 - **Licensing:** Open
-- **Data link:** [Data link](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
+- **Data link 1:** [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
+- **Data link 2:** [Data link 2]()
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)
 
 
@@ -58,7 +61,8 @@ Data created by property listings, visits, and leads on Rightmove. Includes data
 - **Category:** Addressing
 - **Secondary Category:** Buildings
 - **Licensing:** Premium
-- **Data link:** [Data link](https://www.rightmove.co.uk/property-data/)
+- **Data link 1:** [Data link 1](https://www.rightmove.co.uk/property-data/)
+- **Data link 2:** [Data link 2]()
 - **Docs link:** [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/)
 
 
@@ -70,5 +74,6 @@ Contains Unique Property Reference Numbers (UPRNs) for addressable locations in 
 - **Category:** Addressing
 - **Secondary Category:** Buildings
 - **Licensing:** Open
-- **Data link:** [Data link](https://osdatahub.os.uk/downloads/open/OpenUPRN)
+- **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenUPRN)
+- **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)

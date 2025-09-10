@@ -7,13 +7,14 @@ nav_order: 4
 
 # Climate & Weather
 
-| Name                                                                        | Licensing | Data link                                                                                                                                                                                       | Docs link                                                                                           |
-| --------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [HadUK](#haduk)                                                             | Open      | [Data link](https://data.ceda.ac.uk/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid)                                                                                                        | [Docs link](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid) |
-| [Sentinel Atmospheric Monitering](#sentinel-atmospheric-monitering)         | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis), [Data link 2](https://browser.dataspace.copernicus.eu/) | [Docs link](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data.html)               |
-| [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map) | Open      | [Data link](https://registry.opendata.aws/dataforgood-fb-forests/)                                                                                                                              | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                |
-| [National River Flow Archive](#national-river-flow-archive)                 | Open      | [Data link](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)                                                                                                                                      | [Docs link](https://nrfa.ceh.ac.uk/)                                                                |
-| [Sewage Discharges](#sewage-discharges)                                     | Open      | [Data link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)           |
+| Name                                                                          | Licensing | Data link 1                                                                                                                            | Data link 2                                                                                                             | Docs link                                                                                                                        |
+| ----------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [HadUK](#haduk)                                                               | Open      | [Data link 1](https://data.ceda.ac.uk/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid)                                             | [Data link 2]()                                                                                                         | [Docs link](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid)                              |
+| [Sentinel Atmospheric Monitering](#sentinel-atmospheric-monitering)           | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis) | [Data link 2](https://browser.dataspace.copernicus.eu/)                                                                 | [Docs link](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data.html)                                            |
+| [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map)   | Open      | [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)                                                                   | [Data link 2]()                                                                                                         | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                                             |
+| [National River Flow Archive](#national-river-flow-archive)                   | Open      | [Data link 1](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)                                                                           | [Data link 2]()                                                                                                         | [Docs link](https://nrfa.ceh.ac.uk/)                                                                                             |
+| [Sewage Discharges](#sewage-discharges)                                       | Open      | [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                            | [Data link 2]()                                                                                                         | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                        |
+| [Sites of Special Scientific Interest](#sites-of-special-scientific-interest) | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)   | [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1) | [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about) |
 
 ## HadUK
 
@@ -22,7 +23,8 @@ nav_order: 4
 - **Category:** Climate & Weather
 - **Secondary Category:** 
 - **Licensing:** Open
-- **Data link:** [Data link](https://data.ceda.ac.uk/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid)
+- **Data link 1:** [Data link 1](https://data.ceda.ac.uk/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid)
+- **Data link 2:** [Data link 2]()
 - **Docs link:** [Docs link](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid)
 
 
@@ -34,7 +36,8 @@ Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV, 
 - **Category:** Climate & Weather
 - **Secondary Category:** 
 - **Licensing:** Open
-- **Data link:** [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis), [Data link 2](https://browser.dataspace.copernicus.eu/)
+- **Data link 1:** [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis)
+- **Data link 2:** [Data link 2](https://browser.dataspace.copernicus.eu/)
 - **Docs link:** [Docs link](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data.html)
 
 
@@ -46,7 +49,8 @@ Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV, 
 - **Category:** Vegetation
 - **Secondary Category:** Climate & Weather
 - **Licensing:** Open
-- **Data link:** [Data link](https://registry.opendata.aws/dataforgood-fb-forests/)
+- **Data link 1:** [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)
+- **Data link 2:** [Data link 2]()
 - **Docs link:** [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)
 
 
@@ -58,7 +62,8 @@ Daily water flow data from 1600 stations across the UK, covering many decades un
 - **Category:** Water & Hydrology
 - **Secondary Category:** Climate & Weather
 - **Licensing:** Open
-- **Data link:** [Data link](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)
+- **Data link 1:** [Data link 1](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)
+- **Data link 2:** [Data link 2]()
 - **Docs link:** [Docs link](https://nrfa.ceh.ac.uk/)
 
 
@@ -70,5 +75,19 @@ Data about releases of raw, untreated sewage into waterbodies through storm over
 - **Category:** Climate & Weather
 - **Secondary Category:** Water & Hydrology
 - **Licensing:** Open
-- **Data link:** [Data link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
+- **Data link 2:** [Data link 2]()
 - **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
+
+
+
+## Sites of Special Scientific Interest
+
+Sites for wildlife and natural features in England, supporting many characteristic, rare and endangered species, habitats and natural features. Covers land notified as an SSSI under the Wildlife and Countryside Act (1981).
+
+- **Category:** Climate & Weather
+- **Secondary Category:** Land & Land Use
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)
+- **Data link 2:** [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1)
+- **Docs link:** [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about)
