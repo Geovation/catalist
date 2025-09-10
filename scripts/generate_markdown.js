@@ -44,33 +44,17 @@ nav_order: ${orderedCategories.indexOf(category) + 1}
 
 `;
 
-function formatLinks(input) {
-    // Trim whitespace from the input string
-    const trimmedInput = input.trim();
-    
-    // Split the string into an array at spaces
-    const elements = trimmedInput.split(/\s+/);
-    
-    // Handle different cases based on the number of elements
-    if (elements.length === 1) {
-        return `[Data link](${elements[0]})`;
-    } else if (elements.length === 2) {
-        return `[Data link 1](${elements[0]}), [Data link 2](${elements[1]})`;
-    } else {
-        return 'Invalid input: More than two elements are not supported.';
-    }
-};
-
   // Generate the markdown table
   const table = markdownTable([
-    ["Name", "Licensing", "Data link", "Docs link"],
+    ["Name", "Licensing", "Data link 1", "Data link 2", "Docs link"],
     ...rows.map((row) => [
       // From the dataset name link to a subheader later down the page
       `[${row["Dataset Name"]}](#${row["Dataset Name"]
         .replace(/ /g, "-")
         .toLowerCase()})`,
       row["Licensing"],
-      formatLinks(row["Data Link"]),
+      `[Data link 1](${row["Data Link 1"].trim()})`,
+      `[Data link 2](${row["Data Link 2"].trim()})`,
       `[Docs link](${row["Docs Link"].trim()})`,
     ]),
   ]);
@@ -86,7 +70,8 @@ ${row["Description"]}
 - **Category:** ${row["Category"]}
 - **Secondary Category:** ${row["Secondary Category"]}
 - **Licensing:** ${row["Licensing"]}
-- **Data link:** ${formatLinks(row["Data Link"])}
+- **Data link 1:** [Data link 1](${row["Data Link 1"].trim()})
+- **Data link 2:** [Data link 2](${row["Data Link 2"].trim()})
 - **Docs link:** [Docs link](${row["Docs Link"].trim()})
 `;
     })
