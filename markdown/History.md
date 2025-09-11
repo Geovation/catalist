@@ -7,13 +7,13 @@ nav_order: 7
 
 # History
 
-| Name                                                      | Licensing | Data link 1                                                                                                                                      | Data link 2     | Docs link                                                                                                                                    |
-| --------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Historic OS Maps Catalogue](#historic-os-maps-catalogue) | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                                                                                                     | [Data link 2]() | [Docs link](https://maps.nls.uk/os/)                                                                                                         |
-| [Lost Habitats](#lost-habitats)                           | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                     | [Data link 2]() | [Docs link](https://www.archai.io/historichabitats)                                                                                          |
-| [Lost Boundaries](#lost-boundaries)                       | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                     | [Data link 2]() | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                                   |
-| [Listed Buildings & Sites](#listed-buildings-&-sites)     | Open      | [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3) | [Data link 2]() | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3) |
-| [X API](#x-api)                                           | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                                                                       | [Data link 2]() | [Docs link](https://docs.x.com/x-api/introduction)                                                                                           |
+| Name                                                      | Provider                     | Licensing | Data link 1                                                                                                                                      | Data link 2     | Docs link                                                                                                                                    |
+| --------------------------------------------------------- | ---------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Historic OS Maps Catalogue](#historic-os-maps-catalogue) | National Library of Scotland | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                                                                                                     | [Data link 2]() | [Docs link](https://maps.nls.uk/os/)                                                                                                         |
+| [Lost Habitats](#lost-habitats)                           | ArchAI                       | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                     | [Data link 2]() | [Docs link](https://www.archai.io/historichabitats)                                                                                          |
+| [Lost Boundaries](#lost-boundaries)                       | ArchAI                       | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                     | [Data link 2]() | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                                   |
+| [Listed Buildings & Sites](#listed-buildings-&-sites)     | Historic England             | Open      | [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3) | [Data link 2]() | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3) |
+| [X API](#x-api)                                           | X                            | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                                                                       | [Data link 2]() | [Docs link](https://docs.x.com/x-api/introduction)                                                                                           |
 
 ## Historic OS Maps Catalogue
 
@@ -21,6 +21,7 @@ Maps published by Ordnance Survey and related bodies, including the War Office (
 
 - **Category:** History
 - **Secondary Category:** Basemaps
+- **Provider:** National Library of Scotland
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://maps.nls.uk/geo/find/)
 - **Data link 2:** [Data link 2]()
@@ -34,6 +35,7 @@ Past natural habitats from the last 200 years, vectorised from historic OS maps.
 
 - **Category:** Vegetation
 - **Secondary Category:** History
+- **Provider:** ArchAI
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.archai.io/contact)
 - **Data link 2:** [Data link 2]()
@@ -47,6 +49,7 @@ Historic field boundaries, categories when known, from the last 200 years, infer
 
 - **Category:** Land & Land Use
 - **Secondary Category:** History
+- **Provider:** ArchAI
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.archai.io/contact)
 - **Data link 2:** [Data link 2]()
@@ -60,6 +63,7 @@ Official, up to date, register of all nationally protected historic buildings an
 
 - **Category:** Buildings
 - **Secondary Category:** History
+- **Provider:** Historic England
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)
 - **Data link 2:** [Data link 2]()
@@ -73,6 +77,7 @@ Collection of X/Twitter data points, including tweets, users, media (ie. images/
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** History
+- **Provider:** X
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://developer.x.com/en/portal/dashboard)
 - **Data link 2:** [Data link 2]()

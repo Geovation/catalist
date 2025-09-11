@@ -7,14 +7,14 @@ nav_order: 9
 
 # Places & Points-of-Interest
 
-| Name                                                                                | Licensing | Data link 1                                                                                    | Data link 2                                                                                                                       | Docs link                                                                          |
-| ----------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Open      | [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)         | [Data link 2]()                                                                                                                   | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)        |
-| [Overture Maps Foundation - Places Layer](#overture-maps-foundation---places-layer) | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                     | [Data link 2]()                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/places/)                          |
-| [Google Places](#google-places)                                                     | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview) | [Data link 2]()                                                                                                                   | [Docs link](https://developers.google.com/maps/documentation/places/web-service)   |
-| [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)         | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                       | [Data link 2]()                                                                                                                   | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)          |
-| [X API](#x-api)                                                                     | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                     | [Data link 2]()                                                                                                                   | [Docs link](https://docs.x.com/x-api/introduction)                                 |
-| [OS Open Names](#os-open-names)                                                     | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)                                | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names) |
+| Name                                                                                | Provider                 | Licensing | Data link 1                                                                                    | Data link 2                                                                                                                       | Docs link                                                                          |
+| ----------------------------------------------------------------------------------- | ------------------------ | --------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Foursquare               | Open      | [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)         | [Data link 2]()                                                                                                                   | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)        |
+| [Overture Maps Foundation - Places Layer](#overture-maps-foundation---places-layer) | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                     | [Data link 2]()                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/places/)                          |
+| [Google Places](#google-places)                                                     | Google                   | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview) | [Data link 2]()                                                                                                                   | [Docs link](https://developers.google.com/maps/documentation/places/web-service)   |
+| [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)         | TripAdvisor              | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                       | [Data link 2]()                                                                                                                   | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)          |
+| [X API](#x-api)                                                                     | X                        | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                     | [Data link 2]()                                                                                                                   | [Docs link](https://docs.x.com/x-api/introduction)                                 |
+| [OS Open Names](#os-open-names)                                                     | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)                                | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names) |
 
 ## Foursquare Points-Of-Interest
 
@@ -22,6 +22,7 @@ Global Open POI dataset, including places linked together hierarchically
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** 
+- **Provider:** Foursquare
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)
 - **Data link 2:** [Data link 2]()
@@ -35,6 +36,7 @@ Real-world entities and points of interest: schools, businesses, hospitals, reli
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** 
+- **Provider:** Overture Maps Foundation
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://docs.overturemaps.org/getting-data/)
 - **Data link 2:** [Data link 2]()
@@ -48,6 +50,7 @@ Categorised places with various details including opening hours, amenities, rati
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** Retail
+- **Provider:** Google
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview)
 - **Data link 2:** [Data link 2]()
@@ -61,6 +64,7 @@ Name, address, rating, URLs, reviews and photos of various attractions and locat
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** Retail
+- **Provider:** TripAdvisor
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)
 - **Data link 2:** [Data link 2]()
@@ -74,6 +78,7 @@ Collection of X/Twitter data points, including tweets, users, media (ie. images/
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** History
+- **Provider:** X
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://developer.x.com/en/portal/dashboard)
 - **Data link 2:** [Data link 2]()
@@ -87,6 +92,7 @@ Comprehensive dataset of settlement names, road names and numbers, and postcodes
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** 
+- **Provider:** Ordnance Survey
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
