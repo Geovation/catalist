@@ -46,12 +46,13 @@ nav_order: ${orderedCategories.indexOf(category) + 1}
 
   // Generate the markdown table
   const table = markdownTable([
-    ["Name", "Licensing", "Data link 1", "Data link 2", "Docs link"],
+    ["Name", "Provider", "Licensing", "Data link 1", "Data link 2", "Docs link"],
     ...rows.map((row) => [
       // From the dataset name link to a subheader later down the page
       `[${row["Dataset Name"]}](#${row["Dataset Name"]
         .replace(/ /g, "-")
         .toLowerCase()})`,
+      row["Provider"],
       row["Licensing"],
       `[Data link 1](${row["Data Link 1"].trim()})`,
       `[Data link 2](${row["Data Link 2"].trim()})`,
@@ -69,6 +70,7 @@ ${row["Description"]}
 
 - **Category:** ${row["Category"]}
 - **Secondary Category:** ${row["Secondary Category"]}
+- **Provider:** ${row["Provider"]}
 - **Licensing:** ${row["Licensing"]}
 - **Data link 1:** [Data link 1](${row["Data Link 1"].trim()})
 - **Data link 2:** [Data link 2](${row["Data Link 2"].trim()})
