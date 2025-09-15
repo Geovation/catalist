@@ -2,7 +2,7 @@
 title: Buildings
 has_children: false
 parent: Catalist
-nav_order: 3
+nav_order: 4
 ---
 
 # Buildings

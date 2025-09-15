@@ -2,7 +2,7 @@
 title: Water & Hydrology
 has_children: false
 parent: Catalist
-nav_order: 16
+nav_order: 17
 ---
 
 # Water & Hydrology
@@ -63,7 +63,7 @@ Data about releases of raw, untreated sewage into waterbodies through storm over
 High-level view of watercourses in Great Britain including rivers, estuaries, and canals. A link-and-node network indicating flow direction, with links approximating the centre of watercourses. Tidal and inland rivers differentiated. Useful for environmental analysis and water quality data sharing. Links to other more details OS water data products. Updated every six months.
 
 - **Category:** Water & Hydrology
-- **Secondary Category:** Basemaps
+- **Secondary Category:** Basemaps & Terrain
 - **Provider:** Ordnance Survey
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)

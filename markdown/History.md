@@ -2,7 +2,7 @@
 title: History
 has_children: false
 parent: Catalist
-nav_order: 7
+nav_order: 9
 ---
 
 # History
@@ -62,7 +62,7 @@ Official, up to date, register of all nationally protected historic buildings an
 Maps published by Ordnance Survey and related bodies, including the War Office (ca. 1840s-1960s)
 
 - **Category:** History
-- **Secondary Category:** Basemaps
+- **Secondary Category:** Basemaps & Terrain
 - **Provider:** National Library of Scotland
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://maps.nls.uk/geo/find/)

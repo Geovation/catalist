@@ -2,16 +2,17 @@
 title: Demographics
 has_children: false
 parent: Catalist
-nav_order: 5
+nav_order: 6
 ---
 
 # Demographics
 
-| Name                                                          | Provider                                            | Licensing | Data link 1                                                                                                                         | Data link 2 | Docs link                                                                                                                  |
-| ------------------------------------------------------------- | --------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [Real-Time Location Estimates](#real-time-location-estimates) | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)                                        |             | [Docs link](https://developer.bt.com/products/real-time-location-insights)                                                 |
-| [Rail Insights](#rail-insights)                               | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)                                         |             | [Docs link](https://developer.bt.com/products/rail-network-api)                                                            |
-| [MHCLG Open Data](#mhclg-open-data)                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes) |             | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
+| Name                                                          | Provider                                            | Licensing | Data link 1                                                                                                                         | Data link 2                                 | Docs link                                                                                                                  |
+| ------------------------------------------------------------- | --------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [Real-Time Location Estimates](#real-time-location-estimates) | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)                                        |                                             | [Docs link](https://developer.bt.com/products/real-time-location-insights)                                                 |
+| [Rail Insights](#rail-insights)                               | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)                                         |                                             | [Docs link](https://developer.bt.com/products/rail-network-api)                                                            |
+| [MHCLG Open Data](#mhclg-open-data)                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes) |                                             | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
+| [Police Indicents and Arrests](#police-indicents-and-arrests) | Police UK                                           | Open      | [Data link 1](https://data.police.uk/data/)                                                                                         | [Data link 2](https://data.police.uk/docs/) | [Docs link](https://data.police.uk/about/)                                                                                 |
 
 ## Real-Time Location Estimates
 
@@ -54,3 +55,17 @@ Various housing, community, and social statistics by quarter/year, by administra
 - **Data link 1:** [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics)
+
+
+
+## Police Indicents and Arrests
+
+Various data about crimes and policing, including details, approximate location, and outcomes of individual crimes, arrests, and stop-and-searches. Locaitons are approximated to the street level, though the free-text location description field could enable further geolocation. Various aggregated and contextual datasets are also available, as are details of police activity such as 101 call handling. Crimes are categorised, and stop-and-searches include demographic information (gender/age band/ethnicity). Covers England, Wales, Northern Irelandand extends back to August 2022.
+
+- **Category:** Health & Safety
+- **Secondary Category:** Demographics
+- **Provider:** Police UK
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://data.police.uk/data/)
+- **Data link 2:** [Data link 2](https://data.police.uk/docs/)
+- **Docs link:** [Docs link](https://data.police.uk/about/)

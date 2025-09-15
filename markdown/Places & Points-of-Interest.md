@@ -2,19 +2,20 @@
 title: Places & Points-of-Interest
 has_children: false
 parent: Catalist
-nav_order: 9
+nav_order: 11
 ---
 
 # Places & Points-of-Interest
 
-| Name                                                                                | Provider                 | Licensing | Data link 1                                                                                    | Data link 2                                                                                                                       | Docs link                                                                          |
-| ----------------------------------------------------------------------------------- | ------------------------ | --------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Foursquare               | Open      | [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)         |                                                                                                                                   | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)        |
-| [Google Places](#google-places)                                                     | Google                   | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview) |                                                                                                                                   | [Docs link](https://developers.google.com/maps/documentation/places/web-service)   |
-| [OS Open Names](#os-open-names)                                                     | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)                                | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names) |
-| [Overture Maps Foundation - Places Layer](#overture-maps-foundation---places-layer) | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                     |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/places/)                          |
-| [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)         | TripAdvisor              | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                       |                                                                                                                                   | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)          |
-| [X API](#x-api)                                                                     | X                        | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                     |                                                                                                                                   | [Docs link](https://docs.x.com/x-api/introduction)                                 |
+| Name                                                                                | Provider                 | Licensing | Data link 1                                                                                    | Data link 2                                                                                                                       | Docs link                                                                               |
+| ----------------------------------------------------------------------------------- | ------------------------ | --------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Foursquare               | Open      | [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)         |                                                                                                                                   | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)             |
+| [Google Places](#google-places)                                                     | Google                   | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview) |                                                                                                                                   | [Docs link](https://developers.google.com/maps/documentation/places/web-service)        |
+| [OS Open Names](#os-open-names)                                                     | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)                                | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names)      |
+| [Points of Interest](#points-of-interest)                                           | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/points-of-interest#get)                |                                                                                                                                   | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/points-of-interest) |
+| [Overture Maps Foundation - Places Layer](#overture-maps-foundation---places-layer) | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                     |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/places/)                               |
+| [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)         | TripAdvisor              | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                       |                                                                                                                                   | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)               |
+| [X API](#x-api)                                                                     | X                        | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                     |                                                                                                                                   | [Docs link](https://docs.x.com/x-api/introduction)                                      |
 
 ## Foursquare Points-Of-Interest
 
@@ -55,6 +56,20 @@ Comprehensive dataset of settlement names, road names and numbers, and postcodes
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names)
+
+
+
+## Points of Interest
+
+Detailed dataset of over 4 million points of interest across Great Britain, including businesses, public amenities, and attractions. Useful for location-based services, retail analysis, and urban planning. Updated quarterly.
+
+- **Category:** Places & Points-of-Interest
+- **Secondary Category:** Business & Leisure
+- **Provider:** Ordnance Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/points-of-interest#get)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/points-of-interest)
 
 
 
