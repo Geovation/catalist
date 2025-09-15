@@ -9,16 +9,30 @@ nav_order: 8
 
 | Name                                                                            | Provider                                            | Licensing | Data link 1                                                                                                                          | Data link 2                                                                                                                       | Docs link                                                                                                                        |
 | ------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [National Polygon Service](#national-polygon-service)                           | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps)                                                            | [Data link 2]()                                                                                                                   | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                              |
-| [Overture Maps Foundation - Base Layer](#overture-maps-foundation---base-layer) | Overture Maps Foundation                            | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                           | [Data link 2]()                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                          |
-| [OS NGD Land](#os-ngd-land)                                                     | Ordance Survey                                      | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                     | [Data link 2]()                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/land)                                                                        |
-| [OS Open Greenspace](#os-open-greenspace)                                       | Ordance Survey                                      | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace)                                                                 | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)                                                       |
-| [Verisk UKLand](#verisk-ukland)                                                 | Verisk                                              | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                                                                    | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                             | [Docs link](https://www.verisk.com/en-gb/products/ukland/)                                                                       |
-| [UK Planning Data Platform](#uk-planning-data-platform)                         | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                             | [Data link 2]()                                                                                                                   | [Docs link](https://www.planning.data.gov.uk/docs)                                                                               |
-| [Lost Boundaries](#lost-boundaries)                                             | ArchAI                                              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                         | [Data link 2]()                                                                                                                   | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                       |
-| [Planning Applications](#planning-applications)                                 | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                           | [Data link 2]()                                                                                                                   | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                             |
+| [Lost Boundaries](#lost-boundaries)                                             | ArchAI                                              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                         |                                                                                                                                   | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                       |
+| [National Polygon Service](#national-polygon-service)                           | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps)                                                            |                                                                                                                                   | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                              |
+| [UK Planning Data Platform](#uk-planning-data-platform)                         | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                             |                                                                                                                                   | [Docs link](https://www.planning.data.gov.uk/docs)                                                                               |
+| [Brownfield Land Points](#brownfield-land-points)                               | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/brownfield-land)                                                              |                                                                                                                                   | [Docs link](https://design.planning.data.gov.uk/planning-consideration/brownfield-land)                                          |
 | [Sites of Special Scientific Interest](#sites-of-special-scientific-interest)   | Natural England                                     | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore) | [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1)           | [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about) |
-| [Brownfield Land Points](#brownfield-land-points)                               | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/brownfield-land)                                                              | [Data link 2]()                                                                                                                   | [Docs link](https://design.planning.data.gov.uk/planning-consideration/brownfield-land)                                          |
+| [OS NGD Land](#os-ngd-land)                                                     | Ordance Survey                                      | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                     |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/land)                                                                        |
+| [OS Open Greenspace](#os-open-greenspace)                                       | Ordance Survey                                      | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace)                                                                 | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)                                                       |
+| [Overture Maps Foundation - Base Layer](#overture-maps-foundation---base-layer) | Overture Maps Foundation                            | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                           |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                          |
+| [Planning Applications](#planning-applications)                                 | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                           |                                                                                                                                   | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                             |
+| [Verisk UKLand](#verisk-ukland)                                                 | Verisk                                              | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                                                                    | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                             | [Docs link](https://www.verisk.com/en-gb/products/ukland/)                                                                       |
+
+## Lost Boundaries
+
+Historic field boundaries, categories when known, from the last 200 years, inferred from historic OS maps. Changes are tracked against current OS maps.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** History
+- **Provider:** ArchAI
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.archai.io/contact)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.archai.io/historicfieldboundaries)
+
+
 
 ## National Polygon Service
 
@@ -29,22 +43,50 @@ Title boundaries, with title numbers, and separate lookup tables providing estat
 - **Provider:** HM Land Registry
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps)
-- **Data link 2:** [Data link 2]()
+- **Data link 2:** 
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)
 
 
 
-## Overture Maps Foundation - Base Layer
+## UK Planning Data Platform
 
-Structures (bridges, comms towers etc.), water, land cover, and land use data. Compiled from OpenStreeMap, ESA WorldCover, and open bathymetry datasets.
+A large, growing, but incomplete database of housing and planning data, including application documents and timelines. The data downloads are in a variety of formats, incluing pdfs.
 
 - **Category:** Land & Land Use
-- **Secondary Category:** Water & Hydrology
-- **Provider:** Overture Maps Foundation
+- **Secondary Category:** 
+- **Provider:** Ministry of Housing, Communities & Local Government
 - **Licensing:** Open
-- **Data link 1:** [Data link 1](https://docs.overturemaps.org/getting-data/)
-- **Data link 2:** [Data link 2]()
-- **Docs link:** [Docs link](https://docs.overturemaps.org/guides/base/)
+- **Data link 1:** [Data link 1](https://www.planning.data.gov.uk/dataset/)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.planning.data.gov.uk/docs)
+
+
+
+## Brownfield Land Points
+
+Point locations of brownfield sites in the UK, including historic ones now developed. Though polygons are not supplied, includes land area, and approximate minimium/maximum number of dwellings. Includes links to site plans. Planning permission status is often included.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** 
+- **Provider:** Ministry of Housing, Communities & Local Government
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.planning.data.gov.uk/dataset/brownfield-land)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://design.planning.data.gov.uk/planning-consideration/brownfield-land)
+
+
+
+## Sites of Special Scientific Interest
+
+Sites for wildlife and natural features in England, supporting many characteristic, rare and endangered species, habitats and natural features. Covers land notified as an SSSI under the Wildlife and Countryside Act (1981).
+
+- **Category:** Climate & Weather
+- **Secondary Category:** Land & Land Use
+- **Provider:** Natural England
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)
+- **Data link 2:** [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1)
+- **Docs link:** [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about)
 
 
 
@@ -57,7 +99,7 @@ The OS NGD Land Use Features Collection gives you access to the most current and
 - **Provider:** Ordance Survey
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)
-- **Data link 2:** [Data link 2]()
+- **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/land)
 
 
@@ -76,45 +118,17 @@ OS Open Greenspace depicts the location and extent of spaces, such as parks and 
 
 
 
-## Verisk UKLand
+## Overture Maps Foundation - Base Layer
 
-Designed to help users gain an understanding of large areas or regions, or identify specific areas, and offers a comprehensive and consistent view of the use of the land across the UK.
-
-- **Category:** Land & Land Use
-- **Secondary Category:** 
-- **Provider:** Verisk
-- **Licensing:** Premium
-- **Data link 1:** [Data link 1](https://digimap.edina.ac.uk/verisk)
-- **Data link 2:** [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
-- **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukland/)
-
-
-
-## UK Planning Data Platform
-
-A large, growing, but incomplete database of housing and planning data, including application documents and timelines. The data downloads are in a variety of formats, incluing pdfs.
+Structures (bridges, comms towers etc.), water, land cover, and land use data. Compiled from OpenStreeMap, ESA WorldCover, and open bathymetry datasets.
 
 - **Category:** Land & Land Use
-- **Secondary Category:** 
-- **Provider:** Ministry of Housing, Communities & Local Government
+- **Secondary Category:** Water & Hydrology
+- **Provider:** Overture Maps Foundation
 - **Licensing:** Open
-- **Data link 1:** [Data link 1](https://www.planning.data.gov.uk/dataset/)
-- **Data link 2:** [Data link 2]()
-- **Docs link:** [Docs link](https://www.planning.data.gov.uk/docs)
-
-
-
-## Lost Boundaries
-
-Historic field boundaries, categories when known, from the last 200 years, inferred from historic OS maps. Changes are tracked against current OS maps.
-
-- **Category:** Land & Land Use
-- **Secondary Category:** History
-- **Provider:** ArchAI
-- **Licensing:** Premium
-- **Data link 1:** [Data link 1](https://www.archai.io/contact)
-- **Data link 2:** [Data link 2]()
-- **Docs link:** [Docs link](https://www.archai.io/historicfieldboundaries)
+- **Data link 1:** [Data link 1](https://docs.overturemaps.org/getting-data/)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://docs.overturemaps.org/guides/base/)
 
 
 
@@ -127,33 +141,19 @@ Large compilation of planning applications published by local councils since 199
 - **Provider:** Searchland
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://docs.searchland.co.uk/#tag/Planning)
-- **Data link 2:** [Data link 2]()
+- **Data link 2:** 
 - **Docs link:** [Docs link](https://searchland.co.uk/our-apis/planning-applications)
 
 
 
-## Sites of Special Scientific Interest
+## Verisk UKLand
 
-Sites for wildlife and natural features in England, supporting many characteristic, rare and endangered species, habitats and natural features. Covers land notified as an SSSI under the Wildlife and Countryside Act (1981).
-
-- **Category:** Climate & Weather
-- **Secondary Category:** Land & Land Use
-- **Provider:** Natural England
-- **Licensing:** Open
-- **Data link 1:** [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)
-- **Data link 2:** [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1)
-- **Docs link:** [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about)
-
-
-
-## Brownfield Land Points
-
-Point locations of brownfield sites in the UK, including historic ones now developed. Though polygons are not supplied, includes land area, and approximate minimium/maximum number of dwellings. Includes links to site plans. Planning permission status is often included.
+Designed to help users gain an understanding of large areas or regions, or identify specific areas, and offers a comprehensive and consistent view of the use of the land across the UK.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** 
-- **Provider:** Ministry of Housing, Communities & Local Government
-- **Licensing:** Open
-- **Data link 1:** [Data link 1](https://www.planning.data.gov.uk/dataset/brownfield-land)
-- **Data link 2:** [Data link 2]()
-- **Docs link:** [Docs link](https://design.planning.data.gov.uk/planning-consideration/brownfield-land)
+- **Provider:** Verisk
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://digimap.edina.ac.uk/verisk)
+- **Data link 2:** [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
+- **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukland/)

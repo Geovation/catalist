@@ -7,25 +7,11 @@ nav_order: 5
 
 # Demographics
 
-| Name                                                          | Provider                                            | Licensing | Data link 1                                                                                                                         | Data link 2     | Docs link                                                                                                                  |
-| ------------------------------------------------------------- | --------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [MHCLG Open Data](#mhclg-open-data)                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes) | [Data link 2]() | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
-| [Real-Time Location Estimates](#real-time-location-estimates) | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)                                        | [Data link 2]() | [Docs link](https://developer.bt.com/products/real-time-location-insights)                                                 |
-| [Rail Insights](#rail-insights)                               | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)                                         | [Data link 2]() | [Docs link](https://developer.bt.com/products/rail-network-api)                                                            |
-
-## MHCLG Open Data
-
-Various housing, community, and social statistics by quarter/year, by administrative unit.
-
-- **Category:** Demographics
-- **Secondary Category:** 
-- **Provider:** Ministry of Housing, Communities & Local Government
-- **Licensing:** Open
-- **Data link 1:** [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)
-- **Data link 2:** [Data link 2]()
-- **Docs link:** [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics)
-
-
+| Name                                                          | Provider                                            | Licensing | Data link 1                                                                                                                         | Data link 2 | Docs link                                                                                                                  |
+| ------------------------------------------------------------- | --------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [Real-Time Location Estimates](#real-time-location-estimates) | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)                                        |             | [Docs link](https://developer.bt.com/products/real-time-location-insights)                                                 |
+| [Rail Insights](#rail-insights)                               | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)                                         |             | [Docs link](https://developer.bt.com/products/rail-network-api)                                                            |
+| [MHCLG Open Data](#mhclg-open-data)                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes) |             | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
 
 ## Real-Time Location Estimates
 
@@ -38,7 +24,7 @@ Vodafone - https://developer.vodafone.com/api-catalogue/vodafone-analytics-realt
 - **Provider:** BT
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)
-- **Data link 2:** [Data link 2]()
+- **Data link 2:** 
 - **Docs link:** [Docs link](https://developer.bt.com/products/real-time-location-insights)
 
 
@@ -52,5 +38,19 @@ Various insights into rail demographics and statistics: passenger volumes, stati
 - **Provider:** BT
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)
-- **Data link 2:** [Data link 2]()
+- **Data link 2:** 
 - **Docs link:** [Docs link](https://developer.bt.com/products/rail-network-api)
+
+
+
+## MHCLG Open Data
+
+Various housing, community, and social statistics by quarter/year, by administrative unit.
+
+- **Category:** Demographics
+- **Secondary Category:** 
+- **Provider:** Ministry of Housing, Communities & Local Government
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics)

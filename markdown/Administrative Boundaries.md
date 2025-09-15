@@ -9,8 +9,8 @@ nav_order: 2
 
 | Name                                                                                    | Provider                       | Licensing | Data link 1                                                                                                                                 | Data link 2                                                                                                                       | Docs link                                                                                                                                                 |
 | --------------------------------------------------------------------------------------- | ------------------------------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ONS Boundaries](#ons-boundaries)                                                       | Office for National Statistics | Open      | [Data link 1](https://geoportal.statistics.gov.uk/search?collection=dataset&q=BDY_ADM&sort=Date%20Created%7Ccreated%7Cdesc&tags=Boundaries) | [Data link 2]()                                                                                                                   | [Docs link](https://webarchive.nationalarchives.gov.uk/ukgwa/20160106185615/http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/index.html) |
-| [OS NGD Administrative & Statistical Units](#os-ngd-administrative-&-statistical-units) | Ordance Survey                 | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                            | [Data link 2]()                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units)                                                                 |
+| [ONS Boundaries](#ons-boundaries)                                                       | Office for National Statistics | Open      | [Data link 1](https://geoportal.statistics.gov.uk/search?collection=dataset&q=BDY_ADM&sort=Date%20Created%7Ccreated%7Cdesc&tags=Boundaries) |                                                                                                                                   | [Docs link](https://webarchive.nationalarchives.gov.uk/ukgwa/20160106185615/http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/index.html) |
+| [OS NGD Administrative & Statistical Units](#os-ngd-administrative-&-statistical-units) | Ordance Survey                 | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                            |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units)                                                                 |
 | [OS Open Built Up Areas](#os-open-built-up-areas)                                       | Ordance Survey                 | Open      | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas)                                                             | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-built-up-areas)                                                               |
 | [OS Boundaryline](#os-boundaryline)                                                     | Ordnance Survey                | Open      | [Data link 1](https://www.ordnancesurvey.co.uk/products/boundary-line)                                                                      | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/boundary-line)                                                                        |
 
@@ -23,7 +23,7 @@ Geometry and codes for various administrative/census/electoral boundaries
 - **Provider:** Office for National Statistics
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://geoportal.statistics.gov.uk/search?collection=dataset&q=BDY_ADM&sort=Date%20Created%7Ccreated%7Cdesc&tags=Boundaries)
-- **Data link 2:** [Data link 2]()
+- **Data link 2:** 
 - **Docs link:** [Docs link](https://webarchive.nationalarchives.gov.uk/ukgwa/20160106185615/http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/index.html)
 
 
@@ -37,7 +37,7 @@ The OS NGD Administrative and Statistical Units Theme provides a definitive data
 - **Provider:** Ordance Survey
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)
-- **Data link 2:** [Data link 2]()
+- **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units)
 
 
