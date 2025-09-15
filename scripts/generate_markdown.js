@@ -12,6 +12,12 @@ const parsedData = Papa.parse(csvdata, {
   skipEmptyLines: true,
 });
 
+parsedData.data.sort((a, b) => {
+  const providerA = (a["Provider"] || "").toLowerCase();
+  const providerB = (b["Provider"] || "").toLowerCase();
+  return providerA.localeCompare(providerB);
+});
+
 // get combined list of all unique categories and secondary categories (the same list)
 const categories = new Set();
 for (const row of parsedData.data) {
@@ -48,14 +54,15 @@ nav_order: ${orderedCategories.indexOf(category) + 1}
   const table = markdownTable([
     ["Name", "Provider", "Licensing", "Data link 1", "Data link 2", "Docs link"],
     ...rows.map((row) => [
-      // From the dataset name link to a subheader later down the page
       `[${row["Dataset Name"]}](#${row["Dataset Name"]
         .replace(/ /g, "-")
         .toLowerCase()})`,
       row["Provider"],
       row["Licensing"],
       `[Data link 1](${row["Data Link 1"].trim()})`,
-      `[Data link 2](${row["Data Link 2"].trim()})`,
+      row["Data Link 2"] && row["Data Link 2"].trim()
+        ? `[Data link 2](${row["Data Link 2"].trim()})`
+        : "",
       `[Docs link](${row["Docs Link"].trim()})`,
     ]),
   ]);
@@ -73,8 +80,12 @@ ${row["Description"]}
 - **Provider:** ${row["Provider"]}
 - **Licensing:** ${row["Licensing"]}
 - **Data link 1:** [Data link 1](${row["Data Link 1"].trim()})
-- **Data link 2:** [Data link 2](${row["Data Link 2"].trim()})
-- **Docs link:** [Docs link](${row["Docs Link"].trim()})
+- **Data link 2:** ${row["Data Link 2"] && row["Data Link 2"].trim()
+  ? `[Data link 2](${row["Data Link 2"].trim()})`
+  : ""}
+- **Docs link:** ${row["Docs Link"] && row["Docs Link"].trim()
+  ? `[Docs link](${row["Docs Link"].trim()})`
+  : ""}
 `;
     })
     .join("\n");
