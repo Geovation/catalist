@@ -2,15 +2,15 @@
 title: Satellite & Aerial Imagery
 has_children: false
 parent: Catalist
-nav_order: 14
+nav_order: 15
 ---
 
 # Satellite & Aerial Imagery
 
 | Name                                                                | Provider              | Licensing | Data link 1                                                                                                                            | Data link 2                                                         | Docs link                                                                                                     |
 | ------------------------------------------------------------------- | --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [BlueSky Imagery](#bluesky-imagery)                                 | BlueSky               | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res?x=531566&y=180144&z=3&w=1000&h=1000&f=&p=[]&m=)                  |                                                                     | [Docs link](https://www.blueskymapshop.com/products/aerial-photography)                                       |
-| [Sentinel 2 Imagery](#sentinel-2-imagery)                           | European Space Agency | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis) | [Data link 2](https://browser.dataspace.copernicus.eu/)             | [Docs link](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data.html)                         |
+| [BlueSky Imagery](#bluesky-imagery)                                 | BlueSky               | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res)                                                                 |                                                                     | [Docs link](https://www.blueskymapshop.com/products/aerial-photography)                                       |
+| [Sentinel 2 Imagery](#sentinel-2-imagery)                           | European Space Agency | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis) | [Data link 2](https://browser.dataspace.copernicus.eu/)             | [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel2.html)               |
 | [GetMapping Aerial Content](#getmapping-aerial-content)             | GetMapping            | Premium   | [Data link 1](https://www.getmapping.co.uk/contact-getmapping/)                                                                        | [Data link 2](https://www.getmapping.co.uk/content-on-demand/)      | [Docs link](https://www.getmapping.co.uk/aerial-content/)                                                     |
 | [Hyperspectral Imagery](#hyperspectral-imagery)                     | Pixxel                | Premium   | [Data link 1](https://www.pixxel.space/hyperspectral-imagery)                                                                          | [Data link 2](https://docs.pixxel.space/api-reference/introduction) | [Docs link](https://support.pixxel.space/hc/en-us/articles/9588039261724-Pixxel-Product-Specifications-Guide) |
 | [PlanetScope (Planet Monitoring)](#planetscope-(planet-monitoring)) | Planet                | Premium   | [Data link 1](https://www.planet.com/products/satellite-monitoring/)                                                                   | [Data link 2](https://docs.planet.com/develop/apis/data/)           | [Docs link](https://docs.planet.com/data/imagery/planetscope/)                                                |
@@ -24,7 +24,7 @@ nav_order: 14
 - **Secondary Category:** 
 - **Provider:** BlueSky
 - **Licensing:** Premium
-- **Data link 1:** [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res?x=531566&y=180144&z=3&w=1000&h=1000&f=&p=[]&m=)
+- **Data link 1:** [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.blueskymapshop.com/products/aerial-photography)
 
@@ -40,7 +40,7 @@ Satellite imagery at 10m resolution every ~3 days. Does not guarantee absence of
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis)
 - **Data link 2:** [Data link 2](https://browser.dataspace.copernicus.eu/)
-- **Docs link:** [Docs link](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data.html)
+- **Docs link:** [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel2.html)
 
 
 

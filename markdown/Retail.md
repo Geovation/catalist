@@ -2,7 +2,7 @@
 title: Retail
 has_children: false
 parent: Catalist
-nav_order: 12
+nav_order: 13
 ---
 
 # Retail
