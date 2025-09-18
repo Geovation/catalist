@@ -7,10 +7,13 @@ nav_order: 8
 
 # Health & Safety
 
-| Name                                                          | Provider                 | Licensing | Data link 1                                                                                                    | Data link 2                                                               | Docs link                                                                             |
-| ------------------------------------------------------------- | ------------------------ | --------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [Road Collisions](#road-collisions)                           | Department for Transport | Open      | [Data link 1](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data) | [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html) | [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance) |
-| [Police Indicents and Arrests](#police-indicents-and-arrests) | Police UK                | Open      | [Data link 1](https://data.police.uk/data/)                                                                    | [Data link 2](https://data.police.uk/docs/)                               | [Docs link](https://data.police.uk/about/)                                            |
+| Name                                                                                                      | Provider                       | Licensing | Data link 1                                                                                                    | Data link 2                                                               | Docs link                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------ | --------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [Road Collisions](#road-collisions)                                                                       | Department for Transport       | Open      | [Data link 1](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data) | [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html) | [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance)                                        |
+| [Sewage Discharges](#sewage-discharges)                                                                   | Environmental Agency           | Open      | [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                    |                                                                           | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                    |
+| [Summary Hospital-level Mortality Indicators (SHMI)](#summary-hospital-level-mortality-indicators-(shmi)) | NHS Digital                    | Open      | [Data link 1](https://digital.nhs.uk/data-and-information/publications/statistical/shmi#latest-statistics)     |                                                                           | [Docs link](https://digital.nhs.uk/data-and-information/publications/ci-hub/summary-hospital-level-mortality-indicator-shmi) |
+| [2021 Census Statistics](#2021-census-statistics)                                                         | Office for National Statistics | Open      | [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)                                              | [Data link 2](https://www.nomisweb.co.uk/api/v01/help)                    | [Docs link](https://www.ons.gov.uk/census/census2021dictionary)                                                              |
+| [Police Indicents and Arrests](#police-indicents-and-arrests)                                             | Police UK                      | Open      | [Data link 1](https://data.police.uk/data/)                                                                    | [Data link 2](https://data.police.uk/docs/)                               | [Docs link](https://data.police.uk/about/)                                                                                   |
 
 ## Road Collisions
 
@@ -19,10 +22,52 @@ Details about road collisions, including location, severity, date and time, and 
 - **Category:** Road & Transportation
 - **Secondary Category:** Health & Safety
 - **Provider:** Department for Transport
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data)
 - **Data link 2:** [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html)
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance)
+
+
+
+## Sewage Discharges
+
+Data about releases of raw, untreated sewage into waterbodies through storm overflow outlets. Data provided annually from the 10 Water and Sewerage Companies with storm overflows in England. Includes frequency and duration of discharges, and (post-2021) poteintial causes of high spill counts.
+
+- **Category:** Health & Safety
+- **Secondary Category:** Water & Hydrology
+- **Provider:** Environmental Agency
+- **Licensing:** Openca
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
+
+
+
+## Summary Hospital-level Mortality Indicators (SHMI)
+
+the ratio between the actual number of patients who die following hospitalisation at the trust and the number that would be expected to die on the basis of average England figures. Data is updated annually, and provided at both site and health trust-level.
+
+- **Category:** Health & Safety
+- **Secondary Category:** 
+- **Provider:** NHS Digital
+- **Licensing:** Openca
+- **Data link 1:** [Data link 1](https://digital.nhs.uk/data-and-information/publications/statistical/shmi#latest-statistics)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://digital.nhs.uk/data-and-information/publications/ci-hub/summary-hospital-level-mortality-indicator-shmi)
+
+
+
+## 2021 Census Statistics
+
+Various aggregated statistics from the 2021 census. Historic census statistics are also available. Covers various topics including population demographics, ethnicity, housing, health, occupation/labour market. Available at various geographical units, down to Output Areas, although the level of spatial disaggregation depends on the dataset.
+
+- **Category:** Demographics
+- **Secondary Category:** Health & Safety
+- **Provider:** Office for National Statistics
+- **Licensing:** Openca
+- **Data link 1:** [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)
+- **Data link 2:** [Data link 2](https://www.nomisweb.co.uk/api/v01/help)
+- **Docs link:** [Docs link](https://www.ons.gov.uk/census/census2021dictionary)
 
 
 
@@ -33,7 +78,7 @@ Various data about crimes and policing, including details, approximate location,
 - **Category:** Health & Safety
 - **Secondary Category:** Demographics
 - **Provider:** Police UK
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://data.police.uk/data/)
 - **Data link 2:** [Data link 2](https://data.police.uk/docs/)
 - **Docs link:** [Docs link](https://data.police.uk/about/)

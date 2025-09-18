@@ -2,7 +2,7 @@
 title: Retail
 has_children: false
 parent: Catalist
-nav_order: 12
+nav_order: 13
 ---
 
 # Retail
@@ -24,7 +24,7 @@ Hexagon-based named spatial boundaries of retail centres and high streets across
 - **Category:** Retail
 - **Secondary Category:** 
 - **Provider:** Geographic Data Service
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators/resource/00b4e06a-8189-4771-8ff3-c2dbe9cbd606)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators)
@@ -38,7 +38,7 @@ National datasets of supermarket locations and addresses. Covers a wide range of
 - **Category:** Retail
 - **Secondary Category:** 
 - **Provider:** Geolytix
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://drive.google.com/file/d/1B8M7m86rQg2sx2TsHhFa2d-x-dZ1DbSy/view?pli=1)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://geolytix.com/blog/supermarket-retail-points/)
@@ -52,7 +52,7 @@ National datasets of bank and building society locations and postcodes, includin
 - **Category:** Retail
 - **Secondary Category:** 
 - **Provider:** Geolytix
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://drive.google.com/file/d/1RjyAK7qa-qoKtU25KI4e-_mmdxW601tj/view)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://geolytix.co.uk/blog/banking-building-societies-locations/)
@@ -66,7 +66,7 @@ Categorised places with various details including opening hours, amenities, rati
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** Retail
 - **Provider:** Google
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://developers.google.com/maps/documentation/places/web-service)
@@ -80,7 +80,7 @@ Information about UK (ccod) and overseas (ocod) companies that own property in t
 - **Category:** Retail
 - **Secondary Category:** Buildings
 - **Provider:** HM Land Registry
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod)
 - **Data link 2:** [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod)
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)
@@ -94,7 +94,7 @@ Name, address, rating, URLs, reviews and photos of various attractions and locat
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** Retail
 - **Provider:** TripAdvisor
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)
@@ -108,7 +108,7 @@ Non-domestic rating lists and summary valuations of rateable properties. Include
 - **Category:** Buildings
 - **Secondary Category:** Retail
 - **Provider:** Valuation Office Agency
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf)

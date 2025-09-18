@@ -12,6 +12,7 @@ nav_order: 6
 | [Real-Time Location Estimates](#real-time-location-estimates) | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)                                                                                          |                                                                     | [Docs link](https://developer.bt.com/products/real-time-location-insights)                                                 |
 | [Rail Insights](#rail-insights)                               | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)                                                                                           |                                                                     | [Docs link](https://developer.bt.com/products/rail-network-api)                                                            |
 | [MHCLG Open Data](#mhclg-open-data)                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)                                                   |                                                                     | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
+| [2021 Census Statistics](#2021-census-statistics)             | Office for National Statistics                      | Open      | [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)                                                                                                                     | [Data link 2](https://www.nomisweb.co.uk/api/v01/help)              | [Docs link](https://www.ons.gov.uk/census/census2021dictionary)                                                            |
 | [Police Indicents and Arrests](#police-indicents-and-arrests) | Police UK                                           | Open      | [Data link 1](https://data.police.uk/data/)                                                                                                                                           | [Data link 2](https://data.police.uk/docs/)                         | [Docs link](https://data.police.uk/about/)                                                                                 |
 | ["Spatial Signatures"](#"spatial-signatures")                 | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures) | [Docs link](https://urbangrammarai.xyz/story/)                                                                             |
 
@@ -24,7 +25,7 @@ Vodafone - https://developer.vodafone.com/api-catalogue/vodafone-analytics-realt
 - **Category:** Demographics
 - **Secondary Category:** Road & Transportation
 - **Provider:** BT
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://developer.bt.com/products/real-time-location-insights)
@@ -38,7 +39,7 @@ Various insights into rail demographics and statistics: passenger volumes, stati
 - **Category:** Road & Transportation
 - **Secondary Category:** Demographics
 - **Provider:** BT
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://developer.bt.com/products/rail-network-api)
@@ -52,10 +53,24 @@ Various housing, community, and social statistics by quarter/year, by administra
 - **Category:** Demographics
 - **Secondary Category:** 
 - **Provider:** Ministry of Housing, Communities & Local Government
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics)
+
+
+
+## 2021 Census Statistics
+
+Various aggregated statistics from the 2021 census. Historic census statistics are also available. Covers various topics including population demographics, ethnicity, housing, health, occupation/labour market. Available at various geographical units, down to Output Areas, although the level of spatial disaggregation depends on the dataset.
+
+- **Category:** Demographics
+- **Secondary Category:** Health & Safety
+- **Provider:** Office for National Statistics
+- **Licensing:** Openca
+- **Data link 1:** [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)
+- **Data link 2:** [Data link 2](https://www.nomisweb.co.uk/api/v01/help)
+- **Docs link:** [Docs link](https://www.ons.gov.uk/census/census2021dictionary)
 
 
 
@@ -66,7 +81,7 @@ Various data about crimes and policing, including details, approximate location,
 - **Category:** Health & Safety
 - **Secondary Category:** Demographics
 - **Provider:** Police UK
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://data.police.uk/data/)
 - **Data link 2:** [Data link 2](https://data.police.uk/docs/)
 - **Docs link:** [Docs link](https://data.police.uk/about/)
@@ -80,7 +95,7 @@ The result of a research project (https://www.nature.com/articles/s41597-022-016
 - **Category:** Land & Land Use
 - **Secondary Category:** Demographics
 - **Provider:** Urban Grammar
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196)
 - **Data link 2:** [Data link 2](https://github.com/urbangrammarai/spatial_signatures)
 - **Docs link:** [Docs link](https://urbangrammarai.xyz/story/)

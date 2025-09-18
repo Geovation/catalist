@@ -22,7 +22,7 @@ Past natural habitats from the last 200 years, vectorised from historic OS maps.
 - **Category:** Vegetation
 - **Secondary Category:** History
 - **Provider:** ArchAI
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.archai.io/contact)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.archai.io/historichabitats)
@@ -36,7 +36,7 @@ Historic field boundaries, categories when known, from the last 200 years, infer
 - **Category:** Land & Land Use
 - **Secondary Category:** History
 - **Provider:** ArchAI
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.archai.io/contact)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.archai.io/historicfieldboundaries)
@@ -50,7 +50,7 @@ Official, up to date, register of all nationally protected historic buildings an
 - **Category:** Buildings
 - **Secondary Category:** History
 - **Provider:** Historic England
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)
@@ -64,7 +64,7 @@ Maps published by Ordnance Survey and related bodies, including the War Office (
 - **Category:** History
 - **Secondary Category:** Basemaps & Terrain
 - **Provider:** National Library of Scotland
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://maps.nls.uk/geo/find/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://maps.nls.uk/os/)
@@ -78,7 +78,7 @@ Collection of X/Twitter data points, including tweets, users, media (ie. images/
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** History
 - **Provider:** X
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://developer.x.com/en/portal/dashboard)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.x.com/x-api/introduction)

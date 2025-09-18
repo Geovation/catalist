@@ -2,7 +2,7 @@
 title: Vegetation
 has_children: false
 parent: Catalist
-nav_order: 16
+nav_order: 17
 ---
 
 # Vegetation
@@ -21,7 +21,7 @@ Past natural habitats from the last 200 years, vectorised from historic OS maps.
 - **Category:** Vegetation
 - **Secondary Category:** History
 - **Provider:** ArchAI
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.archai.io/contact)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.archai.io/historichabitats)
@@ -35,7 +35,7 @@ Canopy, idealised crowns, and centroids of trees, an height
 - **Category:** Vegetation
 - **Secondary Category:** 
 - **Provider:** BlueSky
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.blueskymapshop.com/maps/ntm-v2)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://bluesky-world.com/ntm/)
@@ -49,7 +49,7 @@ Trees above 3 metres and 5m2 area outside of woodland, including small woods, gr
 - **Category:** Vegetation
 - **Secondary Category:** 
 - **Provider:** Forest Research
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://data-forestry.opendata.arcgis.com/documents/01667a77c65f4fd9aaf6a45279373a25/explore)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.forestresearch.gov.uk/tools-and-resources/fthr/trees-outside-woodland-map/)
@@ -63,7 +63,7 @@ Trees above 3 metres and 5m2 area outside of woodland, including small woods, gr
 - **Category:** Vegetation
 - **Secondary Category:** Climate & Weather
 - **Provider:** META
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)

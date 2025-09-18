@@ -2,7 +2,7 @@
 title: Satellite & Aerial Imagery
 has_children: false
 parent: Catalist
-nav_order: 14
+nav_order: 15
 ---
 
 # Satellite & Aerial Imagery
@@ -23,7 +23,7 @@ nav_order: 14
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
 - **Provider:** BlueSky
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.blueskymapshop.com/products/aerial-photography)
@@ -37,7 +37,7 @@ Satellite imagery at 10m resolution every ~3 days. Does not guarantee absence of
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
 - **Provider:** European Space Agency
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis)
 - **Data link 2:** [Data link 2](https://browser.dataspace.copernicus.eu/)
 - **Docs link:** [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel2.html)
@@ -51,7 +51,7 @@ Aerial imagery across GB. Updated every three years. Includes a historic backlog
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
 - **Provider:** GetMapping
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.getmapping.co.uk/contact-getmapping/)
 - **Data link 2:** [Data link 2](https://www.getmapping.co.uk/content-on-demand/)
 - **Docs link:** [Docs link](https://www.getmapping.co.uk/aerial-content/)
@@ -65,7 +65,7 @@ Hyperspectral imagery at 5m resolution and 470-900 nm spectral range. Updated ev
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
 - **Provider:** Pixxel
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.pixxel.space/hyperspectral-imagery)
 - **Data link 2:** [Data link 2](https://docs.pixxel.space/api-reference/introduction)
 - **Docs link:** [Docs link](https://support.pixxel.space/hc/en-us/articles/9588039261724-Pixxel-Product-Specifications-Guide)
@@ -79,7 +79,7 @@ Medium-resolution imagery captured by a fleet of satellites, updated at least da
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
 - **Provider:** Planet
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.planet.com/products/satellite-monitoring/)
 - **Data link 2:** [Data link 2](https://docs.planet.com/develop/apis/data/)
 - **Docs link:** [Docs link](https://docs.planet.com/data/imagery/planetscope/)
@@ -93,7 +93,7 @@ High-resolution imagery captured by a fleet of satellites, updated up to 10 time
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
 - **Provider:** Planet
-- **Licensing:** Premium
+- **Licensing:** Premiumca
 - **Data link 1:** [Data link 1](https://www.planet.com/products/high-resolution-satellite-imagery/)
 - **Data link 2:** [Data link 2](https://docs.planet.com/develop/apis/data/)
 - **Docs link:** [Docs link](https://docs.planet.com/data/imagery/skysat/)

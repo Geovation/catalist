@@ -21,7 +21,7 @@ nav_order: 3
 - **Category:** Basemaps & Terrain
 - **Secondary Category:** 
 - **Provider:** Environment Agency
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/survey)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme)
@@ -35,7 +35,7 @@ Maps published by Ordnance Survey and related bodies, including the War Office (
 - **Category:** History
 - **Secondary Category:** Basemaps & Terrain
 - **Provider:** National Library of Scotland
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://maps.nls.uk/geo/find/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://maps.nls.uk/os/)
@@ -49,7 +49,7 @@ High-level view of watercourses in Great Britain including rivers, estuaries, an
 - **Category:** Water & Hydrology
 - **Secondary Category:** Basemaps & Terrain
 - **Provider:** Ordnance Survey
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/networks/os-open-rivers)
@@ -63,7 +63,7 @@ A detailed vector map of Great Britain at a local scale, including buildings, ro
 - **Category:** Basemaps & Terrain
 - **Secondary Category:** 
 - **Provider:** Ordnance Survey
-- **Licensing:** Open
+- **Licensing:** Openca
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenMapLocal)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-openmap-local)
