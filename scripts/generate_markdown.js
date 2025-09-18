@@ -78,7 +78,7 @@ ${row["Description"]}
 - **Category:** ${row["Category"]}
 - **Secondary Category:** ${row["Secondary Category"]}
 - **Provider:** ${row["Provider"]}
-- **Licensing:** ${row["Licensing"]}ca
+- **Licensing:** ${row["Licensing"]}
 - **Data link 1:** [Data link 1](${row["Data Link 1"].trim()})
 - **Data link 2:** ${row["Data Link 2"] && row["Data Link 2"].trim()
   ? `[Data link 2](${row["Data Link 2"].trim()})`
