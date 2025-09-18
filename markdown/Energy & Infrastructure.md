@@ -20,7 +20,7 @@ EPC rating for properties, along with other energy-related stats. About 60% have
 - **Category:** Buildings
 - **Secondary Category:** Energy & Infrastructure
 - **Provider:** Department for Levelling Up, Housing & Communities
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://epc.opendatacommunities.org/domestic/search)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://epc.opendatacommunities.org/docs/api)
@@ -34,7 +34,7 @@ Insights about the location and dimensions of buildings, and estimated solar pot
 - **Category:** Energy & Infrastructure
 - **Secondary Category:** Buildings
 - **Provider:** Google
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://developers.google.com/maps/documentation/solar/overview)
@@ -48,7 +48,7 @@ The OS NGD Structure Features Collection gives you access to a standalone datase
 - **Category:** Energy & Infrastructure
 - **Secondary Category:** 
 - **Provider:** Ordance Survey
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/structures)

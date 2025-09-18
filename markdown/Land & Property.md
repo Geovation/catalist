@@ -18,7 +18,7 @@ Open dataset developed to comply with the INSPIRE Directive. Contains indicative
 - **Category:** Land & Property
 - **Secondary Category:** 
 - **Provider:** HM Land Registry
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/inspire-index-polygons-spatial-data)

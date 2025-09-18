@@ -22,7 +22,7 @@ Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV, 
 - **Category:** Climate & Weather
 - **Secondary Category:** 
 - **Provider:** European Space Agency
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis)
 - **Data link 2:** [Data link 2](https://browser.dataspace.copernicus.eu/)
 - **Docs link:** [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel5P.html)
@@ -36,7 +36,7 @@ Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV, 
 - **Category:** Climate & Weather
 - **Secondary Category:** 
 - **Provider:** Met Office
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://data.ceda.ac.uk/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid)
@@ -50,7 +50,7 @@ Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV, 
 - **Category:** Vegetation
 - **Secondary Category:** Climate & Weather
 - **Provider:** META
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)
@@ -64,7 +64,7 @@ Sites for wildlife and natural features in England, supporting many characterist
 - **Category:** Climate & Weather
 - **Secondary Category:** Land & Land Use
 - **Provider:** Natural England
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)
 - **Data link 2:** [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1)
 - **Docs link:** [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about)
@@ -78,7 +78,7 @@ Daily water flow data from 1600 stations across the UK, covering many decades un
 - **Category:** Water & Hydrology
 - **Secondary Category:** Climate & Weather
 - **Provider:** UK Centre for Ecology & Hydrology
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://nrfa.ceh.ac.uk/)

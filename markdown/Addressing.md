@@ -24,7 +24,7 @@ The price paid for properties, and the completion date. Address included, but no
 - **Category:** Addressing
 - **Secondary Category:** Buildings
 - **Provider:** HM Land Registry
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)
@@ -38,7 +38,7 @@ A complete and definitive view of UK address data. Includes address lifecycle, v
 - **Category:** Addressing
 - **Secondary Category:** 
 - **Provider:** Ordnance Survey
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://docs.os.uk/osngd/data-structure/address)
 - **Data link 2:** 
 - **Docs link:** 
@@ -52,7 +52,7 @@ Contains Unique Property Reference Numbers (UPRNs) for addressable locations in 
 - **Category:** Addressing
 - **Secondary Category:** Buildings
 - **Provider:** Ordnance Survey
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenUPRN)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)
@@ -66,7 +66,7 @@ Provides a mapping between postcodes and geographic coordinates for Great Britai
 - **Category:** Addressing
 - **Secondary Category:** 
 - **Provider:** Ordnance Survey
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/CodePointOpen)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/code-point-open)
@@ -80,7 +80,7 @@ Provides postcode unit boundaries as polygons for Great Britain. Useful for demo
 - **Category:** Addressing
 - **Secondary Category:** 
 - **Provider:** Ordnance Survey
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/code-point-polygons#get)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/code-point-with-polygons)
@@ -94,7 +94,7 @@ Data created by property listings, visits, and leads on Rightmove. Includes data
 - **Category:** Addressing
 - **Secondary Category:** Buildings
 - **Provider:** Rightmove
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.rightmove.co.uk/property-data/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/)
@@ -108,7 +108,7 @@ A national database of building characteristics to provide detailed information 
 - **Category:** Buildings
 - **Secondary Category:** Addressing
 - **Provider:** Verisk
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://digimap.edina.ac.uk/verisk)
 - **Data link 2:** [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
 - **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)

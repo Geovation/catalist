@@ -30,7 +30,7 @@ EPC rating for properties, along with other energy-related stats. About 60% have
 - **Category:** Buildings
 - **Secondary Category:** Energy & Infrastructure
 - **Provider:** Department for Levelling Up, Housing & Communities
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://epc.opendatacommunities.org/domestic/search)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://epc.opendatacommunities.org/docs/api)
@@ -44,7 +44,7 @@ Insights about the location and dimensions of buildings, and estimated solar pot
 - **Category:** Energy & Infrastructure
 - **Secondary Category:** Buildings
 - **Provider:** Google
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://developers.google.com/maps/documentation/solar/overview)
@@ -58,7 +58,7 @@ Official, up to date, register of all nationally protected historic buildings an
 - **Category:** Buildings
 - **Secondary Category:** History
 - **Provider:** Historic England
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)
@@ -72,7 +72,7 @@ Title boundaries, with title numbers, and separate lookup tables providing estat
 - **Category:** Buildings
 - **Secondary Category:** Land & Land Use
 - **Provider:** HM Land Registry
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps#dataset)
@@ -86,7 +86,7 @@ Information about UK (ccod) and overseas (ocod) companies that own property in t
 - **Category:** Retail
 - **Secondary Category:** Buildings
 - **Provider:** HM Land Registry
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod)
 - **Data link 2:** [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod)
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)
@@ -100,7 +100,7 @@ The price paid for properties, and the completion date. Address included, but no
 - **Category:** Addressing
 - **Secondary Category:** Buildings
 - **Provider:** HM Land Registry
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)
@@ -114,7 +114,7 @@ The OS NGD Building Features Collection gives you access to the most current and
 - **Category:** Buildings
 - **Secondary Category:** 
 - **Provider:** Ordance Survey
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/buildings)
@@ -128,7 +128,7 @@ Contains Unique Property Reference Numbers (UPRNs) for addressable locations in 
 - **Category:** Addressing
 - **Secondary Category:** Buildings
 - **Provider:** Ordnance Survey
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenUPRN)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)
@@ -142,7 +142,7 @@ Building and building-part data, sometimes with some basic attribution such as h
 - **Category:** Buildings
 - **Secondary Category:** 
 - **Provider:** Overture Maps Foundation
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://docs.overturemaps.org/getting-data/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.overturemaps.org/guides/buildings/)
@@ -156,7 +156,7 @@ Data created by property listings, visits, and leads on Rightmove. Includes data
 - **Category:** Addressing
 - **Secondary Category:** Buildings
 - **Provider:** Rightmove
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.rightmove.co.uk/property-data/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/)
@@ -170,7 +170,7 @@ Large compilation of planning applications published by local councils since 199
 - **Category:** Land & Land Use
 - **Secondary Category:** Buildings
 - **Provider:** Searchland
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://docs.searchland.co.uk/#tag/Planning)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://searchland.co.uk/our-apis/planning-applications)
@@ -184,7 +184,7 @@ Non-domestic rating lists and summary valuations of rateable properties. Include
 - **Category:** Buildings
 - **Secondary Category:** Retail
 - **Provider:** Valuation Office Agency
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf)
@@ -198,7 +198,7 @@ A national database of building characteristics to provide detailed information 
 - **Category:** Buildings
 - **Secondary Category:** Addressing
 - **Provider:** Verisk
-- **Licensing:** Premiumca
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://digimap.edina.ac.uk/verisk)
 - **Data link 2:** [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
 - **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)

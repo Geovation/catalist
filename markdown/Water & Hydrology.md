@@ -23,7 +23,7 @@ Risk of flooding from rivers and the sea shows the chance of flooding from river
 - **Category:** Water & Hydrology
 - **Secondary Category:** 
 - **Provider:** Department for Environment, Food & Rural Affairs
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/dataset/96ab4342-82c1-4095-87f1-0082e8d84ef1)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://environment.data.gov.uk/file-management-open/data-sets/cf7e9513-2004-4ab7-befa-12294eedde0f/files/RoFRS%20Product%20Description.pdf)
@@ -37,7 +37,7 @@ The extents and locations of surface water catchment areas: designated sites des
 - **Category:** Water & Hydrology
 - **Secondary Category:** Soil
 - **Provider:** Department for Environment, Food & Rural Affairs
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)
@@ -51,7 +51,7 @@ Data about releases of raw, untreated sewage into waterbodies through storm over
 - **Category:** Health & Safety
 - **Secondary Category:** Water & Hydrology
 - **Provider:** Environmental Agency
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
@@ -65,7 +65,7 @@ High-level view of watercourses in Great Britain including rivers, estuaries, an
 - **Category:** Water & Hydrology
 - **Secondary Category:** Basemaps & Terrain
 - **Provider:** Ordnance Survey
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/networks/os-open-rivers)
@@ -79,7 +79,7 @@ Structures (bridges, comms towers etc.), water, land cover, and land use data. C
 - **Category:** Land & Land Use
 - **Secondary Category:** Water & Hydrology
 - **Provider:** Overture Maps Foundation
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://docs.overturemaps.org/getting-data/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.overturemaps.org/guides/base/)
@@ -93,7 +93,7 @@ Daily water flow data from 1600 stations across the UK, covering many decades un
 - **Category:** Water & Hydrology
 - **Secondary Category:** Climate & Weather
 - **Provider:** UK Centre for Ecology & Hydrology
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://nrfa.ceh.ac.uk/)

@@ -22,7 +22,7 @@ Details about road collisions, including location, severity, date and time, and 
 - **Category:** Road & Transportation
 - **Secondary Category:** Health & Safety
 - **Provider:** Department for Transport
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-accidents-safety-data)
 - **Data link 2:** [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html)
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance)
@@ -36,7 +36,7 @@ Data about releases of raw, untreated sewage into waterbodies through storm over
 - **Category:** Health & Safety
 - **Secondary Category:** Water & Hydrology
 - **Provider:** Environmental Agency
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
@@ -50,7 +50,7 @@ the ratio between the actual number of patients who die following hospitalisatio
 - **Category:** Health & Safety
 - **Secondary Category:** 
 - **Provider:** NHS Digital
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://digital.nhs.uk/data-and-information/publications/statistical/shmi#latest-statistics)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://digital.nhs.uk/data-and-information/publications/ci-hub/summary-hospital-level-mortality-indicator-shmi)
@@ -64,7 +64,7 @@ Various aggregated statistics from the 2021 census. Historic census statistics a
 - **Category:** Demographics
 - **Secondary Category:** Health & Safety
 - **Provider:** Office for National Statistics
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)
 - **Data link 2:** [Data link 2](https://www.nomisweb.co.uk/api/v01/help)
 - **Docs link:** [Docs link](https://www.ons.gov.uk/census/census2021dictionary)
@@ -78,7 +78,7 @@ Various data about crimes and policing, including details, approximate location,
 - **Category:** Health & Safety
 - **Secondary Category:** Demographics
 - **Provider:** Police UK
-- **Licensing:** Openca
+- **Licensing:** Open
 - **Data link 1:** [Data link 1](https://data.police.uk/data/)
 - **Data link 2:** [Data link 2](https://data.police.uk/docs/)
 - **Docs link:** [Docs link](https://data.police.uk/about/)
