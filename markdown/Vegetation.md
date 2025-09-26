@@ -44,7 +44,7 @@ Canopy, idealised crowns, and centroids of trees, an height
 
 ## National Trees Outside Woodland Map
 
-Trees above 3 metres and 5m2 area outside of woodland, including small woods, groups of trees and lone trees in England.�Includes max/min/average height
+Trees above 3 metres and 5m2 area outside of woodland, including small woods, groups of trees and lone trees in England. Includes max/min/average height
 
 - **Category:** Vegetation
 - **Secondary Category:** 

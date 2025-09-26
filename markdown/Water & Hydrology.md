@@ -11,6 +11,8 @@ nav_order: 18
 | ------------------------------------------------------------------------------- | ------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Risk of Flooding from Rivers and Sea](#risk-of-flooding-from-rivers-and-sea)   | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://environment.data.gov.uk/dataset/96ab4342-82c1-4095-87f1-0082e8d84ef1)                           |                                                                                                                                   | [Docs link](https://environment.data.gov.uk/file-management-open/data-sets/cf7e9513-2004-4ab7-befa-12294eedde0f/files/RoFRS%20Product%20Description.pdf) |
 | [Nutrient Neutrality Catchments](#nutrient-neutrality-catchments)               | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about) |                                                                                                                                   | [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)                                                          |
+| [Recorded Flood Outlines](#recorded-flood-outlines)                             | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/explore/8c75e700-d465-11e4-8b5b-f0def148f590?download=True)             |                                                                                                                                   | [Docs link](https://environment.data.gov.uk/dataset/8c75e700-d465-11e4-8b5b-f0def148f590)                                                                |
+| [Hydrology API](#hydrology-api)                                                 | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/hydrology/doc/reference#api-summary)                                    | [Data link 2](https://environment.data.gov.uk/hydrology/doc/reference#batch-api)                                                  | [Docs link](https://environment.data.gov.uk/hydrology/doc/reference)                                                                                     |
 | [Sewage Discharges](#sewage-discharges)                                         | Environmental Agency                             | Open      | [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                           |                                                                                                                                   | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                |
 | [OS Open Rivers](#os-open-rivers)                                               | Ordnance Survey                                  | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)                                                      | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/networks/os-open-rivers)                                                                                     |
 | [Overture Maps Foundation - Base Layer](#overture-maps-foundation---base-layer) | Overture Maps Foundation                         | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                            |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                                                  |
@@ -41,6 +43,34 @@ The extents and locations of surface water catchment areas: designated sites des
 - **Data link 1:** [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)
+
+
+
+## Recorded Flood Outlines
+
+Extents of floods in England and Wales since 1946, and sometimes prior. Includes dates, durations, flood types/categories and causes, when known. Updated quarterly.
+
+- **Category:** Water & Hydrology
+- **Secondary Category:** Climate & Weather
+- **Provider:** Environment Agency
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/explore/8c75e700-d465-11e4-8b5b-f0def148f590?download=True)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/8c75e700-d465-11e4-8b5b-f0def148f590)
+
+
+
+## Hydrology API
+
+Hydrology readings from nearly 8000 river monitoring stations across England. Includes daily and subdaily recordings for various related metrics including flow, level, rainfall, groundwater level, pH, chlorophyll level etc. Different stations monitor different metrics, and historic data varies by station.
+
+- **Category:** Water & Hydrology
+- **Secondary Category:** Climate & Weather
+- **Provider:** Environment Agency
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/hydrology/doc/reference#api-summary)
+- **Data link 2:** [Data link 2](https://environment.data.gov.uk/hydrology/doc/reference#batch-api)
+- **Docs link:** [Docs link](https://environment.data.gov.uk/hydrology/doc/reference)
 
 
 

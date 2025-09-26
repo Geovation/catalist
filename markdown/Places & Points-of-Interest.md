@@ -9,6 +9,7 @@ nav_order: 12
 
 | Name                                                                                | Provider                 | Licensing | Data link 1                                                                                    | Data link 2                                                                                                                       | Docs link                                                                               |
 | ----------------------------------------------------------------------------------- | ------------------------ | --------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Expedia & Vrbo Property Content](#expedia-&-vrbo-property-content)                 | Expedia Group            | Premium   | [Data link 1](https://developers.expediagroup.com/rapid/api/explorer)                          | [Data link 2](https://developers.expediagroup.com/rapid/sdk/java)                                                                 | [Docs link](https://developers.expediagroup.com/rapid/lodging/content)                  |
 | [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Foursquare               | Open      | [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)         |                                                                                                                                   | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)             |
 | [Google Places](#google-places)                                                     | Google                   | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview) |                                                                                                                                   | [Docs link](https://developers.google.com/maps/documentation/places/web-service)        |
 | [OS Open Names](#os-open-names)                                                     | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)                                | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names)      |
@@ -16,6 +17,20 @@ nav_order: 12
 | [Overture Maps Foundation - Places Layer](#overture-maps-foundation---places-layer) | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                     |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/places/)                               |
 | [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)         | TripAdvisor              | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                       |                                                                                                                                   | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)               |
 | [X API](#x-api)                                                                     | X                        | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                     |                                                                                                                                   | [Docs link](https://docs.x.com/x-api/introduction)                                      |
+
+## Expedia & Vrbo Property Content
+
+Various data about property listings on Expedia and Vrbo, including information on location, rooms, amenities, ratings, reviews, chains, fees. Also includes free-text descriptions including attractions, location, amenities, and business amenities.
+
+- **Category:** Places & Points-of-Interest
+- **Secondary Category:** Retail
+- **Provider:** Expedia Group
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://developers.expediagroup.com/rapid/api/explorer)
+- **Data link 2:** [Data link 2](https://developers.expediagroup.com/rapid/sdk/java)
+- **Docs link:** [Docs link](https://developers.expediagroup.com/rapid/lodging/content)
+
+
 
 ## Foursquare Points-Of-Interest
 

@@ -10,12 +10,12 @@ nav_order: 1
 | Name                                                        | Provider         | Licensing | Data link 1                                                                                  | Data link 2                                                                                                                       | Docs link                                                                                     |
 | ----------------------------------------------------------- | ---------------- | --------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [HMLR Price Paid Data](#hmlr-price-paid-data)               | HM Land Registry | Open      | [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) |                                                                                                                                   | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)                            |
-| [OS NGD Address](#os-ngd-address)                           | Ordnance Survey  | Premium   | [Data link 1](https://docs.os.uk/osngd/data-structure/address)                               |                                                                                                                                   | [Docs link]()                                                                                 |
+| [OS NGD Address](#os-ngd-address)                           | Ordnance Survey  | Premium   | [Data link 1](https://docs.os.uk/osngd/data-structure/address)                               |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/address)                                  |
 | [OS Open UPRN](#os-open-uprn)                               | Ordnance Survey  | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenUPRN)                               | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature)                    | [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)                         |
 | [OS Code-Point Open](#os-code-point-open)                   | Ordnance Survey  | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/CodePointOpen)                          | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/code-point-open)          |
 | [OS Code-Point with Polygons](#os-code-point-with-polygons) | Ordnance Survey  | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/code-point-polygons#get)             |                                                                                                                                   | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/code-point-with-polygons) |
 | [Rightmove Property Data](#rightmove-property-data)         | Rightmove        | Premium   | [Data link 1](https://www.rightmove.co.uk/property-data/)                                    |                                                                                                                                   | [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/)              |
-| [Verisk UKBuildings](#verisk-ukbuildings)                   | Verisk           | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                            | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                             | [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)                               |
+| [Verisk UKBuildings](#verisk-ukbuildings)                   | Verisk           | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                            | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                             | [Docs link](https://www.verisk.com/en-gb/products/ukbuildings)                                |
 
 ## HMLR Price Paid Data
 
@@ -41,7 +41,7 @@ A complete and definitive view of UK address data. Includes address lifecycle, v
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://docs.os.uk/osngd/data-structure/address)
 - **Data link 2:** 
-- **Docs link:** 
+- **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/address)
 
 
 
@@ -111,4 +111,4 @@ A national database of building characteristics to provide detailed information 
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://digimap.edina.ac.uk/verisk)
 - **Data link 2:** [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)
-- **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukbuildings/)
+- **Docs link:** [Docs link](https://www.verisk.com/en-gb/products/ukbuildings)
