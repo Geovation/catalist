@@ -10,7 +10,8 @@ nav_order: 10
 | Name                                                                            | Provider                                            | Licensing | Data link 1                                                                                                                                                                           | Data link 2                                                                                                                       | Docs link                                                                                                                        |
 | ------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [Lost Boundaries](#lost-boundaries)                                             | ArchAI                                              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                                                          |                                                                                                                                   | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                       |
-| [National Polygon Service](#national-polygon-service)                           | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)                                                                                                      |                                                                                                                                   | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps#dataset)                                                  |
+| [London Plan - Opportunity Areas](#london-plan---opportunity-areas)             | Greater London Authority                            | Open      | [Data link 1](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/about)                                                                                               | [Data link 2](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/api)                                             | [Docs link](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/londons-opportunity-areas)         |
+| [National Polygon Service](#national-polygon-service)                           | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)                                                                                                      | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                    | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                              |
 | [Local Land Charges](#local-land-charges)                                       | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/llc/download)                                                                                                    |                                                                                                                                   | [Docs link](https://use-land-property-data.service.gov.uk/datasets/llc)                                                          |
 | [Barbour ABI Planning Applications](#barbour-abi-planning-applications)         | Landmark                                            | Premium   | [Data link 1](https://www.landmark.co.uk/products/planning-api/planning-api-documentation/)                                                                                           |                                                                                                                                   | [Docs link](https://www.landmark.co.uk/products/planning-api)                                                                    |
 | [UK Planning Data Platform](#uk-planning-data-platform)                         | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                                                                              |                                                                                                                                   | [Docs link](https://www.planning.data.gov.uk/docs)                                                                               |
@@ -37,6 +38,20 @@ Historic field boundaries, categories when known, from the last 200 years, infer
 
 
 
+## London Plan - Opportunity Areas
+
+Areas identified in the Mayor's London Plan as key locations with potential for new homes, jobs and infrastructure of all types. Many are linked to existing or potential public transport improvements and typically have capacity for at least 2,500 new homes or 5,000 new jobs, or a combination of the two. London’s major source of brownfield land with significant capacity. Includes estimates of non-adopted boundaries.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** 
+- **Provider:** Greater London Authority
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/about)
+- **Data link 2:** [Data link 2](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/api)
+- **Docs link:** [Docs link](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/londons-opportunity-areas)
+
+
+
 ## National Polygon Service
 
 Title boundaries, with title numbers, and separate lookup tables providing estate interest, class of title, registered status, and UPRN.
@@ -46,14 +61,14 @@ Title boundaries, with title numbers, and separate lookup tables providing estat
 - **Provider:** HM Land Registry
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)
-- **Data link 2:** 
-- **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps#dataset)
+- **Data link 2:** [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)
+- **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)
 
 
 
 ## Local Land Charges
 
-Indicitive geometries
+The indicative extent and position of local land charges (categorised as being within INSPIRE theme groups) in England and Wales for Local Authorities which have migrated their datasets to HM Land Registry. Not all Local Authorities are covered, but more will be added with time. Covers environmental policies, land use policies, and protected sites such as listed buildings, biodiversity sites, and conversation areas. Updated monthly.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** Buildings

@@ -7,14 +7,17 @@ nav_order: 6
 
 # Demographics
 
-| Name                                                          | Provider                                            | Licensing | Data link 1                                                                                                                                                                           | Data link 2                                                         | Docs link                                                                                                                  |
-| ------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [Real-Time Location Estimates](#real-time-location-estimates) | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)                                                                                          |                                                                     | [Docs link](https://developer.bt.com/products/real-time-location-insights)                                                 |
-| [Rail Insights](#rail-insights)                               | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)                                                                                           |                                                                     | [Docs link](https://developer.bt.com/products/rail-network-api)                                                            |
-| [MHCLG Open Data](#mhclg-open-data)                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)                                                   | [Data link 2](https://opendatacommunities.org/help?tab=api)         | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
-| [2021 Census Statistics](#2021-census-statistics)             | Office for National Statistics                      | Open      | [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)                                                                                                                     | [Data link 2](https://www.nomisweb.co.uk/api/v01/help)              | [Docs link](https://www.ons.gov.uk/census/census2021dictionary)                                                            |
-| [Police Indicents and Arrests](#police-indicents-and-arrests) | Police UK                                           | Open      | [Data link 1](https://data.police.uk/data/)                                                                                                                                           | [Data link 2](https://data.police.uk/docs/)                         | [Docs link](https://data.police.uk/about/)                                                                                 |
-| ["Spatial Signatures"](#"spatial-signatures")                 | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures) | [Docs link](https://urbangrammarai.xyz/story/)                                                                             |
+| Name                                                                          | Provider                                            | Licensing | Data link 1                                                                                                                                                                           | Data link 2                                                         | Docs link                                                                                                                  |
+| ----------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [Real-Time Location Estimates](#real-time-location-estimates)                 | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)                                                                                          |                                                                     | [Docs link](https://developer.bt.com/products/real-time-location-insights)                                                 |
+| [Rail Insights](#rail-insights)                                               | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)                                                                                           |                                                                     | [Docs link](https://developer.bt.com/products/rail-network-api)                                                            |
+| [Explore Education Statistics](#explore-education-statistics)                 | Department for Education                            | Open      | [Data link 1](https://explore-education-statistics.service.gov.uk/data-catalogue)                                                                                                     | [Data link 2](https://api.education.gov.uk/statistics/docs/)        | [Docs link](https://explore-education-statistics.service.gov.uk/methodology)                                               |
+| [Get Information about Schools](#get-information-about-schools)               | Department for Education                            | Open      | [Data link 1](https://get-information-schools.service.gov.uk/Downloads)                                                                                                               |                                                                     | [Docs link](https://get-information-schools.service.gov.uk/help)                                                           |
+| [MHCLG Open Data](#mhclg-open-data)                                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)                                                   | [Data link 2](https://opendatacommunities.org/help?tab=api)         | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
+| [Indices of Multiple Deprivation 2025](#indices-of-multiple-deprivation-2025) | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025#documents)                                                                                 |                                                                     | [Docs link](https://assets.publishing.service.gov.uk/media/68ff59c80f801e57b5bef907/ID_2025_Technical_Report.pdf)          |
+| [2021 Census Statistics](#2021-census-statistics)                             | Office for National Statistics                      | Open      | [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)                                                                                                                     | [Data link 2](https://www.nomisweb.co.uk/api/v01/help)              | [Docs link](https://www.ons.gov.uk/census/census2021dictionary)                                                            |
+| [Police Indicents and Arrests](#police-indicents-and-arrests)                 | Police UK                                           | Open      | [Data link 1](https://data.police.uk/data/)                                                                                                                                           | [Data link 2](https://data.police.uk/docs/)                         | [Docs link](https://data.police.uk/about/)                                                                                 |
+| ["Spatial Signatures"](#"spatial-signatures")                                 | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures) | [Docs link](https://urbangrammarai.xyz/story/)                                                                             |
 
 ## Real-Time Location Estimates
 
@@ -46,6 +49,34 @@ Various insights into rail demographics and statistics: passenger volumes, stati
 
 
 
+## Explore Education Statistics
+
+Various statistics about schools at the school level, and aggregated to various units. Statistics cover various themes including outcomes/performance, workforce, absence, capacity, exclusion, SEN, destinations, attainment. Some data is available by API. Historic data exists from around 2021. School locations are not included in the datasets (except for addresses). However, location can be found by joining via URN to Get Informations About Schools.
+
+- **Category:** Demographics
+- **Secondary Category:** 
+- **Provider:** Department for Education
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://explore-education-statistics.service.gov.uk/data-catalogue)
+- **Data link 2:** [Data link 2](https://api.education.gov.uk/statistics/docs/)
+- **Docs link:** [Docs link](https://explore-education-statistics.service.gov.uk/methodology)
+
+
+
+## Get Information about Schools
+
+Administritive information about schools. Together, the datasets provide addressing information, location (as points), education phase(s), head teacher and governor information, student volumes, gender status, SEN, nursery presence, religious status etc. The URN can be used to link to other schools datasets. Kept up to date.
+
+- **Category:** Demographics
+- **Secondary Category:** 
+- **Provider:** Department for Education
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://get-information-schools.service.gov.uk/Downloads)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://get-information-schools.service.gov.uk/help)
+
+
+
 ## MHCLG Open Data
 
 Various housing, community, and social statistics by quarter/year, by administrative unit.
@@ -57,6 +88,20 @@ Various housing, community, and social statistics by quarter/year, by administra
 - **Data link 1:** [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)
 - **Data link 2:** [Data link 2](https://opendatacommunities.org/help?tab=api)
 - **Docs link:** [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics)
+
+
+
+## Indices of Multiple Deprivation 2025
+
+An aggregated, standardised measure of deprivation at the Lower-Super Output Area level. The indicators are comprised of income, employment, education, health, crime, housing, and living environment. Standardised scores for these individual indicators are also available. Recalculated once every five years or so.
+
+- **Category:** Demographics
+- **Secondary Category:** 
+- **Provider:** Ministry of Housing, Communities & Local Government
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025#documents)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://assets.publishing.service.gov.uk/media/68ff59c80f801e57b5bef907/ID_2025_Technical_Report.pdf)
 
 
 

@@ -34,7 +34,7 @@ Various data about property listings on Expedia and Vrbo, including information 
 
 ## Retail Centre Boundaries
 
-Hexagon-based named spatial boundaries of retail centres and high streets across the UK. Hexagon units are just under 2km2.
+Hexagon-based named spatial boundaries of retail centres and high streets across the UK. Hexagon units are just under 2km2. The boundaries are derived from from open VOA and OpenStreetMap datasets.
 
 - **Category:** Retail
 - **Secondary Category:** 

@@ -7,16 +7,17 @@ nav_order: 12
 
 # Places & Points-of-Interest
 
-| Name                                                                                | Provider                 | Licensing | Data link 1                                                                                    | Data link 2                                                                                                                       | Docs link                                                                               |
-| ----------------------------------------------------------------------------------- | ------------------------ | --------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [Expedia & Vrbo Property Content](#expedia-&-vrbo-property-content)                 | Expedia Group            | Premium   | [Data link 1](https://developers.expediagroup.com/rapid/api/explorer)                          | [Data link 2](https://developers.expediagroup.com/rapid/sdk/java)                                                                 | [Docs link](https://developers.expediagroup.com/rapid/lodging/content)                  |
-| [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Foursquare               | Open      | [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)         |                                                                                                                                   | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)             |
-| [Google Places](#google-places)                                                     | Google                   | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview) |                                                                                                                                   | [Docs link](https://developers.google.com/maps/documentation/places/web-service)        |
-| [OS Open Names](#os-open-names)                                                     | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)                                | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names)      |
-| [OS Points of Interest](#os-points-of-interest)                                     | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/points-of-interest#get)                |                                                                                                                                   | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/points-of-interest) |
-| [Overture Maps Foundation - Places Layer](#overture-maps-foundation---places-layer) | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                     |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/places/)                               |
-| [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)         | TripAdvisor              | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                       |                                                                                                                                   | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)               |
-| [X API](#x-api)                                                                     | X                        | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                     |                                                                                                                                   | [Docs link](https://docs.x.com/x-api/introduction)                                      |
+| Name                                                                                | Provider                 | Licensing | Data link 1                                                                                    | Data link 2                                                                                                                       | Docs link                                                                          |
+| ----------------------------------------------------------------------------------- | ------------------------ | --------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Expedia & Vrbo Property Content](#expedia-&-vrbo-property-content)                 | Expedia Group            | Premium   | [Data link 1](https://developers.expediagroup.com/rapid/api/explorer)                          | [Data link 2](https://developers.expediagroup.com/rapid/sdk/java)                                                                 | [Docs link](https://developers.expediagroup.com/rapid/lodging/content)             |
+| [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Foursquare               | Open      | [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)         |                                                                                                                                   | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)        |
+| [Google Places](#google-places)                                                     | Google                   | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview) |                                                                                                                                   | [Docs link](https://developers.google.com/maps/documentation/places/web-service)   |
+| [PointX Points of Interest](#pointx-points-of-interest)                             | Landmark                 | Premium   | [Data link 1](https://geodata.landmark.co.uk/pointx_start_order)                               |                                                                                                                                   | [Docs link](https://www.landmark.co.uk/products/pointx-dataset/)                   |
+| [OpenStreetMap Map Features](#openstreetmap-map-features)                           | OpenStreetMap            | Open      | [Data link 1](https://wiki.openstreetmap.org/wiki/Overpass_API)                                | [Data link 2](https://planet.openstreetmap.org/)                                                                                  | [Docs link](https://wiki.openstreetmap.org/wiki/Map_features)                      |
+| [OS Open Names](#os-open-names)                                                     | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)                                | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names) |
+| [Overture Maps Foundation - Places Layer](#overture-maps-foundation---places-layer) | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                     |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/places/)                          |
+| [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)         | TripAdvisor              | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                       |                                                                                                                                   | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)          |
+| [X API](#x-api)                                                                     | X                        | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                     |                                                                                                                                   | [Docs link](https://docs.x.com/x-api/introduction)                                 |
 
 ## Expedia & Vrbo Property Content
 
@@ -60,6 +61,34 @@ Categorised places with various details including opening hours, amenities, rati
 
 
 
+## PointX Points of Interest
+
+Detailed dataset of over 4 million points of interest across Great Britain, including businesses, public amenities, and attractions. Useful for location-based services, retail analysis, and urban planning. Including UPRN and USRN were applicable. Updated quarterly.
+
+- **Category:** Places & Points-of-Interest
+- **Secondary Category:** Business & Leisure
+- **Provider:** Landmark
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://geodata.landmark.co.uk/pointx_start_order)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.landmark.co.uk/products/pointx-dataset/)
+
+
+
+## OpenStreetMap Map Features
+
+A collaborative, crowd-sourced global map database including roads, buildings, POIs, and administrative boundaries. Updated continuously by contributors worldwide. Supports geospatial analysis, routing, and visualization.
+
+- **Category:** Places & Points-of-Interest
+- **Secondary Category:** Transportation
+- **Provider:** OpenStreetMap
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://wiki.openstreetmap.org/wiki/Overpass_API)
+- **Data link 2:** [Data link 2](https://planet.openstreetmap.org/)
+- **Docs link:** [Docs link](https://wiki.openstreetmap.org/wiki/Map_features)
+
+
+
 ## OS Open Names
 
 Comprehensive dataset of settlement names, road names and numbers, and postcodes in Great Britain. Includes multilingual place names and links to other datasets. Also accessible through OS Names API. Updated quarterly.
@@ -71,20 +100,6 @@ Comprehensive dataset of settlement names, road names and numbers, and postcodes
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names)
-
-
-
-## OS Points of Interest
-
-Detailed dataset of over 4 million points of interest across Great Britain, including businesses, public amenities, and attractions. Useful for location-based services, retail analysis, and urban planning. Updated quarterly.
-
-- **Category:** Places & Points-of-Interest
-- **Secondary Category:** Business & Leisure
-- **Provider:** Ordnance Survey
-- **Licensing:** Premium
-- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/points-of-interest#get)
-- **Data link 2:** 
-- **Docs link:** [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/points-of-interest)
 
 
 
