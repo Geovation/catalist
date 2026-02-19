@@ -2,7 +2,7 @@
 title: Places & Points-of-Interest
 has_children: false
 parent: Catalist
-nav_order: 11
+nav_order: 12
 ---
 
 # Places & Points-of-Interest
@@ -10,7 +10,7 @@ nav_order: 11
 | Name                                                                                | Provider                 | Licensing | Data link 1                                                                                    | Data link 2                                                                                                                       | Docs link                                                                          |
 | ----------------------------------------------------------------------------------- | ------------------------ | --------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [Expedia & Vrbo Property Content](#expedia-&-vrbo-property-content)                 | Expedia Group            | Premium   | [Data link 1](https://developers.expediagroup.com/rapid/api/explorer)                          | [Data link 2](https://developers.expediagroup.com/rapid/sdk/java)                                                                 | [Docs link](https://developers.expediagroup.com/rapid/lodging/content)             |
-| [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Foursquare               | Open      | [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)         |                                                                                                                                   | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)        |
+| [Foursquare Points-Of-Interest](#foursquare-points-of-interest)                     | Foursquare               | Open      | [Data link 1](https://docs.foursquare.com/data-products/docs/places-flat-file-overview)        | [Data link 2](https://docs.foursquare.com/fsq-developers-places/reference/places-api-overview)                                    | [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)        |
 | [Google Places](#google-places)                                                     | Google                   | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview) |                                                                                                                                   | [Docs link](https://developers.google.com/maps/documentation/places/web-service)   |
 | [PointX Points of Interest](#pointx-points-of-interest)                             | Landmark                 | Premium   | [Data link 1](https://geodata.landmark.co.uk/pointx_start_order)                               |                                                                                                                                   | [Docs link](https://www.landmark.co.uk/products/pointx-dataset/)                   |
 | [OpenStreetMap Map Features](#openstreetmap-map-features)                           | OpenStreetMap            | Open      | [Data link 1](https://wiki.openstreetmap.org/wiki/Overpass_API)                                | [Data link 2](https://planet.openstreetmap.org/)                                                                                  | [Docs link](https://wiki.openstreetmap.org/wiki/Map_features)                      |
@@ -35,14 +35,14 @@ Various data about property listings on Expedia and Vrbo, including information 
 
 ## Foursquare Points-Of-Interest
 
-Global Open POI dataset, including places linked together hierarchically
+Global Open POI dataset, including places linked together hierarchically.
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** 
 - **Provider:** Foursquare
 - **Licensing:** Open
-- **Data link 1:** [Data link 1](https://docs.foursquare.com/data-products/docs/places-delivery-overview)
-- **Data link 2:** 
+- **Data link 1:** [Data link 1](https://docs.foursquare.com/data-products/docs/places-flat-file-overview)
+- **Data link 2:** [Data link 2](https://docs.foursquare.com/fsq-developers-places/reference/places-api-overview)
 - **Docs link:** [Docs link](https://docs.foursquare.com/data-products/docs/places-overview)
 
 

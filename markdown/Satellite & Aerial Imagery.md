@@ -2,7 +2,7 @@
 title: Satellite & Aerial Imagery
 has_children: false
 parent: Catalist
-nav_order: 14
+nav_order: 15
 ---
 
 # Satellite & Aerial Imagery
@@ -13,12 +13,12 @@ nav_order: 14
 | [Sentinel 2 Imagery](#sentinel-2-imagery)                           | European Space Agency | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis) | [Data link 2](https://browser.dataspace.copernicus.eu/)             | [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel2.html)               |
 | [GetMapping Aerial Content](#getmapping-aerial-content)             | GetMapping            | Premium   | [Data link 1](https://www.getmapping.co.uk/contact-getmapping/)                                                                        | [Data link 2](https://www.getmapping.co.uk/content-on-demand/)      | [Docs link](https://www.getmapping.co.uk/aerial-content/)                                                     |
 | [Hyperspectral Imagery](#hyperspectral-imagery)                     | Pixxel                | Premium   | [Data link 1](https://www.pixxel.space/hyperspectral-imagery)                                                                          | [Data link 2](https://docs.pixxel.space/api-reference/introduction) | [Docs link](https://support.pixxel.space/hc/en-us/articles/9588039261724-Pixxel-Product-Specifications-Guide) |
-| [PlanetScope (Planet Monitoring)](#planetscope-(planet-monitoring)) | Planet                | Premium   | [Data link 1](https://www.planet.com/products/satellite-monitoring/)                                                                   | [Data link 2](https://docs.planet.com/develop/apis/data/)           | [Docs link](https://docs.planet.com/data/imagery/planetscope/)                                                |
-| [SkySat (Planet Tasking)](#skysat-(planet-tasking))                 | Planet                | Premium   | [Data link 1](https://www.planet.com/products/high-resolution-satellite-imagery/)                                                      | [Data link 2](https://docs.planet.com/develop/apis/data/)           | [Docs link](https://docs.planet.com/data/imagery/skysat/)                                                     |
+| [PlanetScope - Planet Monitoring](#planetscope---planet-monitoring) | Planet                | Premium   | [Data link 1](https://www.planet.com/products/satellite-monitoring/)                                                                   | [Data link 2](https://docs.planet.com/develop/apis/data/)           | [Docs link](https://docs.planet.com/data/imagery/planetscope/)                                                |
+| [SkySat - Planet Tasking](#skysat---planet-tasking)                 | Planet                | Premium   | [Data link 1](https://www.planet.com/products/high-resolution-satellite-imagery/)                                                      | [Data link 2](https://docs.planet.com/develop/apis/data/)           | [Docs link](https://docs.planet.com/data/imagery/skysat/)                                                     |
 
 ## BlueSky Imagery
 
-12.5cm aerial imagery on 2-year update programme
+12.5cm aerial imagery on 2-year update programme.
 
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
@@ -72,7 +72,7 @@ Hyperspectral imagery at 5m resolution and 470-900 nm spectral range. Updated ev
 
 
 
-## PlanetScope (Planet Monitoring)
+## PlanetScope - Planet Monitoring
 
 Medium-resolution imagery captured by a fleet of satellites, updated at least daily, except for cloud cover. 3.7 meter resolution images in eight bands covering RGB and near infrared. Global coverage. Includes an archive of images back to 2009. There is an option for an "analysis-ready" offering where the data is harmonised and calibrated for consistency, making it ready for comparison and modelling.
 
@@ -86,7 +86,7 @@ Medium-resolution imagery captured by a fleet of satellites, updated at least da
 
 
 
-## SkySat (Planet Tasking)
+## SkySat - Planet Tasking
 
 High-resolution imagery captured by a fleet of satellites, updated up to 10 times daily, except for cloud cover. 50cm resolution images in four bands: RGB and near infrared, plus panchromatic imagery. Global coverage. Includes an archive of images back to about 2014.
 

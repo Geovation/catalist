@@ -121,7 +121,7 @@ Various aggregated statistics from the 2021 census. Historic census statistics a
 
 ## Police Indicents and Arrests
 
-Various data about crimes and policing, including details, approximate location, and outcomes of individual crimes, arrests, and stop-and-searches. Locaitons are approximated to the street level, though the free-text location description field could enable further geolocation. Various aggregated and contextual datasets are also available, as are details of police activity such as 101 call handling. Crimes are categorised, and stop-and-searches include demographic information (gender/age band/ethnicity). Covers England, Wales, Northern Irelandand extends back to August 2022.
+Various data about crimes and policing, including details, approximate location, and outcomes of individual crimes, arrests, and stop-and-searches. Locations are approximated to the street level, though the free-text location description field could enable further geolocation. Various aggregated and contextual datasets are also available, as are details of police activity such as 101 call handling. Crimes are categorised, and stop-and-searches include demographic information (gender/age band/ethnicity). Covers England, Wales, Northern Ireland and extends back to August 2022.
 
 - **Category:** Health & Safety
 - **Secondary Category:** Demographics

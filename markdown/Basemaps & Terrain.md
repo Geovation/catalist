@@ -88,7 +88,7 @@ A detailed vector map of Great Britain at a local scale, including buildings, ro
 
 ## OS Open Zoomstack
 
-Open backdrop map, available as GeoPackage or VectorTiles, with a consistent level of detail. Based on a combination of OS open data. Maximum zoom level of 14. Some aggregation of features (including buildings) even at the highest zoom level. Four cartographic styles available.
+Open backdrop map, available as GeoPackage or VectorTiles, with a consistent level of detail. Based on a combination of OS open data. Maximum zoom level of 14. Some aggregation of features (including buildings) even at the highest zoom level. Four cartographic styles available. Must be lownloaded as a file - no public API endpoint available.
 
 - **Category:** Basemaps & Terrain
 - **Secondary Category:** 

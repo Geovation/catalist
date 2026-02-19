@@ -12,7 +12,6 @@ nav_order: 10
 | [Lost Boundaries](#lost-boundaries)                                             | ArchAI                                              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                                                          |                                                                                                                                   | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                       |
 | [London Plan - Opportunity Areas](#london-plan---opportunity-areas)             | Greater London Authority                            | Open      | [Data link 1](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/about)                                                                                               | [Data link 2](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/api)                                             | [Docs link](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/londons-opportunity-areas)         |
 | [National Polygon Service](#national-polygon-service)                           | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)                                                                                                      | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                    | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                              |
-| [INSPIRE Index Polygons](#inspire-index-polygons)                               | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download)                                                                                                |                                                                                                                                   | [Docs link](https://www.gov.uk/guidance/inspire-index-polygons-spatial-data)                                                     |
 | [Local Land Charges](#local-land-charges)                                       | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/llc/download)                                                                                                    |                                                                                                                                   | [Docs link](https://use-land-property-data.service.gov.uk/datasets/llc)                                                          |
 | [Barbour ABI Planning Applications](#barbour-abi-planning-applications)         | Landmark                                            | Premium   | [Data link 1](https://www.landmark.co.uk/products/planning-api/planning-api-documentation/)                                                                                           |                                                                                                                                   | [Docs link](https://www.landmark.co.uk/products/planning-api)                                                                    |
 | [UK Planning Data Platform](#uk-planning-data-platform)                         | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                                                                              |                                                                                                                                   | [Docs link](https://www.planning.data.gov.uk/docs)                                                                               |
@@ -22,6 +21,7 @@ nav_order: 10
 | [OS Open Greenspace](#os-open-greenspace)                                       | Ordnance Survey                                     | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace)                                                                                                                  | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)                                                       |
 | [Overture Maps Foundation - Base Layer](#overture-maps-foundation---base-layer) | Overture Maps Foundation                            | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                                                                            |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                          |
 | [Planning Applications](#planning-applications)                                 | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                                                                            |                                                                                                                                   | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                             |
+| [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)     | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                                                                                                 |                                                                                                                                   | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                                                 |
 | ["Spatial Signatures"](#"spatial-signatures")                                   | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures)                                                               | [Docs link](https://urbangrammarai.xyz/story/)                                                                                   |
 | [Verisk UKLand](#verisk-ukland)                                                 | Verisk                                              | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                                                                                                                     | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                             | [Docs link](https://www.verisk.com/en-gb/products/ukland)                                                                        |
 
@@ -64,20 +64,6 @@ Title boundaries, with title numbers, and separate lookup tables providing estat
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)
 - **Data link 2:** [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)
-
-
-
-## INSPIRE Index Polygons
-
-Open dataset developed to comply with the INSPIRE Directive. Contains indicative polygons showing the position and extent of freehold registered property in England and Wales. Each polygon has a unique INSPIRE ID linked to a title. Updated monthly.
-
-- **Category:** Land & Land Use
-- **Secondary Category:** 
-- **Provider:** HM Land Registry
-- **Licensing:** Open
-- **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
-- **Data link 2:** 
-- **Docs link:** [Docs link](https://www.gov.uk/guidance/inspire-index-polygons-spatial-data)
 
 
 
@@ -204,6 +190,20 @@ Large compilation of planning applications published by local councils since 199
 - **Data link 1:** [Data link 1](https://docs.searchland.co.uk/#tag/Planning)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://searchland.co.uk/our-apis/planning-applications)
+
+
+
+## Searchland Tree Preservation Orders
+
+A near-complete compiled dataset for Tree Preservation orders, including invidividual trees and areas.
+
+- **Category:** Vegetation
+- **Secondary Category:** Land & Land Use
+- **Provider:** Searchland
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://docs.searchland.co.uk/#tag/TPO)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://searchland.co.uk/blog/tree-protection-order)
 
 
 

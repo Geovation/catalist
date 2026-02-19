@@ -2,7 +2,7 @@
 title: Retail
 has_children: false
 parent: Catalist
-nav_order: 12
+nav_order: 13
 ---
 
 # Retail
@@ -10,7 +10,7 @@ nav_order: 12
 | Name                                                                        | Provider                | Licensing | Data link 1                                                                                                                                | Data link 2                                                                | Docs link                                                                                                                                                |
 | --------------------------------------------------------------------------- | ----------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Expedia & Vrbo Property Content](#expedia-&-vrbo-property-content)         | Expedia Group           | Premium   | [Data link 1](https://developers.expediagroup.com/rapid/api/explorer)                                                                      | [Data link 2](https://developers.expediagroup.com/rapid/sdk/java)          | [Docs link](https://developers.expediagroup.com/rapid/lodging/content)                                                                                   |
-| [Retail Centre Boundaries](#retail-centre-boundaries)                       | Geographic Data Service | Open      | [Data link 1](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators/resource/00b4e06a-8189-4771-8ff3-c2dbe9cbd606) |                                                                            | [Docs link](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators)                                                               |
+| [Retail Centre Boundaries](#retail-centre-boundaries)                       | Geographic Data Service | Open      | [Data link 1](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators/resource/00b4e06a-8189-4771-8ff3-c2dbe9cbd606) |                                                                            | [Docs link]()                                                                                                                                            |
 | [Supermarket Retail Points](#supermarket-retail-points)                     | Geolytix                | Open      | [Data link 1](https://drive.google.com/file/d/1B8M7m86rQg2sx2TsHhFa2d-x-dZ1DbSy/view?pli=1)                                                |                                                                            | [Docs link](https://geolytix.com/blog/supermarket-retail-points/)                                                                                        |
 | [Bank & Building Societies Points](#bank-&-building-societies-points)       | Geolytix                | Open      | [Data link 1](https://drive.google.com/file/d/1RjyAK7qa-qoKtU25KI4e-_mmdxW601tj/view)                                                      |                                                                            | [Docs link](https://geolytix.co.uk/blog/banking-building-societies-locations/)                                                                           |
 | [Google Places](#google-places)                                             | Google                  | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview)                                             |                                                                            | [Docs link](https://developers.google.com/maps/documentation/places/web-service)                                                                         |
@@ -42,7 +42,7 @@ Hexagon-based named spatial boundaries of retail centres and high streets across
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators/resource/00b4e06a-8189-4771-8ff3-c2dbe9cbd606)
 - **Data link 2:** 
-- **Docs link:** [Docs link](https://data.geods.ac.uk/dataset/retail-centre-boundaries-and-open-indicators)
+- **Docs link:** 
 
 
 

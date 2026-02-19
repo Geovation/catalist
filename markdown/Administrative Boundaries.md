@@ -16,7 +16,7 @@ nav_order: 2
 
 ## ONS Boundaries
 
-Geometry and codes for various administrative/census/electoral boundaries
+Geometry and codes for various administrative/census/electoral boundaries.
 
 - **Category:** Administrative Boundaries
 - **Secondary Category:** 

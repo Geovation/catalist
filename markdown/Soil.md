@@ -2,7 +2,7 @@
 title: Soil
 has_children: false
 parent: Catalist
-nav_order: 15
+nav_order: 16
 ---
 
 # Soil
@@ -28,7 +28,7 @@ The extents and locations of surface water catchment areas: designated sites des
 
 ## LandIS Soild Data
 
-Various soil data on a 1km or 5km grid (NATMAP 1000, NATMAP 5000)
+Various soil data on a 1km or 5km grid (NATMAP 1000, NATMAP 5000).
 
 - **Category:** Soil
 - **Secondary Category:** 
