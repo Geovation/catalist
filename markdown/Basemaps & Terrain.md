@@ -7,14 +7,15 @@ nav_order: 3
 
 # Basemaps & Terrain
 
-| Name                                                      | Provider                     | Licensing | Data link 1                                                         | Data link 2                                                                                                                       | Docs link                                                                                                  |
-| --------------------------------------------------------- | ---------------------------- | --------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [Environmental Agency Lidar](#environmental-agency-lidar) | Environment Agency           | Open      | [Data link 1](https://environment.data.gov.uk/survey)               |                                                                                                                                   | [Docs link](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) |
-| [Historic OS Maps Catalogue](#historic-os-maps-catalogue) | National Library of Scotland | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                        |                                                                                                                                   | [Docs link](https://maps.nls.uk/os/)                                                                       |
-| [OpenStreetMap Raster Tiles](#openstreetmap-raster-tiles) | OpenStreetMap                | Open      | [Data link 1](https://operations.osmfoundation.org/policies/tiles/) |                                                                                                                                   | [Docs link](https://wiki.openstreetmap.org/wiki/Raster_tiles)                                              |
-| [OS Open Rivers](#os-open-rivers)                         | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)    | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/networks/os-open-rivers)                                       |
-| [OS OpenMap - Local](#os-openmap---local)                 | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenMapLocal)  | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-openmap-local)                |
-| [OS Open Zoomstack](#os-open-zoomstack)                   | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenZoomstack) | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-open-zoomstack)               |
+| Name                                                      | Provider                     | Licensing | Data link 1                                                          | Data link 2                                                                                                                       | Docs link                                                                                                  |
+| --------------------------------------------------------- | ---------------------------- | --------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [Environmental Agency Lidar](#environmental-agency-lidar) | Environment Agency           | Open      | [Data link 1](https://environment.data.gov.uk/survey)                |                                                                                                                                   | [Docs link](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) |
+| [Historic OS Maps Catalogue](#historic-os-maps-catalogue) | National Library of Scotland | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                         |                                                                                                                                   | [Docs link](https://maps.nls.uk/os/)                                                                       |
+| [OpenStreetMap Raster Tiles](#openstreetmap-raster-tiles) | OpenStreetMap                | Open      | [Data link 1](https://operations.osmfoundation.org/policies/tiles/)  |                                                                                                                                   | [Docs link](https://wiki.openstreetmap.org/wiki/Raster_tiles)                                              |
+| [OS Open Rivers](#os-open-rivers)                         | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)     | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/networks/os-open-rivers)                                       |
+| [OS OpenMap - Local](#os-openmap---local)                 | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenMapLocal)   | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-openmap-local)                |
+| [OS Open Zoomstack](#os-open-zoomstack)                   | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenZoomstack)  | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-open-zoomstack)               |
+| [OS Maps API](#os-maps-api)                               | Ordnance Survey              | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-maps-api) |                                                                                                                                   | [Docs link](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api)                                      |
 
 ## Environmental Agency Lidar
 
@@ -97,3 +98,17 @@ Open backdrop map, available as GeoPackage or VectorTiles, with a consistent lev
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenZoomstack)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-open-zoomstack)
+
+
+
+## OS Maps API
+
+Raster tiles for background mapper, based on OS data. Four styles are available: Light, Outdoor, Road, and Leisure. Covers up to zoom level 20 (EPSG:3857)
+
+- **Category:** Basemaps & Terrain
+- **Secondary Category:** 
+- **Provider:** Ordnance Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-maps-api)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api)

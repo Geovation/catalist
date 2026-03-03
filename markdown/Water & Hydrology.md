@@ -14,6 +14,7 @@ nav_order: 17
 | [Recorded Flood Outlines](#recorded-flood-outlines)                             | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/explore/8c75e700-d465-11e4-8b5b-f0def148f590?download=True)             |                                                                                                                                   | [Docs link](https://environment.data.gov.uk/dataset/8c75e700-d465-11e4-8b5b-f0def148f590)                                                                |
 | [Hydrology API](#hydrology-api)                                                 | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/hydrology/doc/reference#api-summary)                                    | [Data link 2](https://environment.data.gov.uk/hydrology/doc/reference#batch-api)                                                  | [Docs link](https://environment.data.gov.uk/hydrology/doc/reference)                                                                                     |
 | [Sewage Discharges](#sewage-discharges)                                         | Environmental Agency                             | Open      | [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                           |                                                                                                                                   | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                |
+| [Forestry England Watercourses](#forestry-england-watercourses)                 | Forestry Commission                              | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/d4013d7cf79e4bad957b5943d8fb2c8f_0/explore)          |                                                                                                                                   | [Docs link](https://environment.data.gov.uk/dataset/96925695-41e1-4cd3-ae2d-6f05eabc85a3)                                                                |
 | [OS Open Rivers](#os-open-rivers)                                               | Ordnance Survey                                  | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)                                                      | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/networks/os-open-rivers)                                                                                     |
 | [Overture Maps Foundation - Base Layer](#overture-maps-foundation---base-layer) | Overture Maps Foundation                         | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                            |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                                                  |
 | [National River Flow Archive](#national-river-flow-archive)                     | UK Centre for Ecology & Hydrology                | Open      | [Data link 1](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)                                                          |                                                                                                                                   | [Docs link](https://nrfa.ceh.ac.uk/)                                                                                                                     |
@@ -85,6 +86,20 @@ Data about releases of raw, untreated sewage into waterbodies through storm over
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
+
+
+
+## Forestry England Watercourses
+
+Water courses within forests in England. Though this only covers forests, the data includes smaller streams than OS Open Rivers.
+
+- **Category:** Water & Hydrology
+- **Secondary Category:** Climate & Weather
+- **Provider:** Forestry Commission
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/d4013d7cf79e4bad957b5943d8fb2c8f_0/explore)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/96925695-41e1-4cd3-ae2d-6f05eabc85a3)
 
 
 

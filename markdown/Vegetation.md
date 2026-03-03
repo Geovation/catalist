@@ -60,7 +60,7 @@ Trees above 3 metres and 5m2 area outside of woodland, including small woods, gr
 
 ## National Forest Inventory GB
 
-All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover, or the potential to achieve it, and a minimum width of 20 metres. This includes new planting, clearfell, windblow and restock. A new version is produced annually. Detected from Sentinel 2 imagery. It is a large dataset which can be quite unweildy.
+All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover, or the potential to achieve it, and a minimum width of 20 metres. This includes new planting, clearfell, windblow and restock. A new version is produced annually. Detected from Sentinel 2 imagery. There is some categorisation of forest type. It is a large dataset which can be quite unweildy.
 
 - **Category:** Vegetation
 - **Secondary Category:** Climate & Weather
