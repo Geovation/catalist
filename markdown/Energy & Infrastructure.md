@@ -11,7 +11,7 @@ nav_order: 7
 | ------------------------------------------------------------------- | -------------------------------------------------- | --------- | ------------------------------------------------------------------------------------ | ----------- | ---------------------------------------------------------------------------- |
 | [Energy Performance Certificates](#energy-performance-certificates) | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://epc.opendatacommunities.org/domestic/search)                   |             | [Docs link](https://epc.opendatacommunities.org/docs/api)                    |
 | [Google Solar](#google-solar)                                       | Google                                             | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest) |             | [Docs link](https://developers.google.com/maps/documentation/solar/overview) |
-| [OS NGD Structures](#os-ngd-structures)                             | Ordnance Survey                                    | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)     |             | [Docs link](https://docs.os.uk/osngd/data-structure/structures)              |
+| [OS NGD Structures Theme](#os-ngd-structures-theme)                 | Ordnance Survey                                    | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)     |             | [Docs link](https://docs.os.uk/osngd/data-structure/structures)              |
 
 ## Energy Performance Certificates
 
@@ -41,9 +41,9 @@ Insights about the location and dimensions of buildings, and estimated solar pot
 
 
 
-## OS NGD Structures
+## OS NGD Structures Theme
 
-The OS NGD Structure Features Collection gives you access to a standalone dataset containing the most current and comprehensive structures data captured by Ordnance Survey. Includes granular, categorised field boundaries.
+The most current and comprehensive structures data captured by Ordnance Survey. Includes granular, categorised field boundaries.
 
 - **Category:** Energy & Infrastructure
 - **Secondary Category:** 

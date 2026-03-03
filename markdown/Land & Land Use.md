@@ -18,8 +18,9 @@ nav_order: 10
 | [UK Planning Data Platform](#uk-planning-data-platform)                         | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                                                                              |                                                                                                                                   | [Docs link](https://www.planning.data.gov.uk/docs)                                                                               |
 | [Brownfield Land Points](#brownfield-land-points)                               | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/brownfield-land)                                                                                                               |                                                                                                                                   | [Docs link](https://design.planning.data.gov.uk/planning-consideration/brownfield-land)                                          |
 | [Sites of Special Scientific Interest](#sites-of-special-scientific-interest)   | Natural England                                     | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)                                                  | [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1)           | [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about) |
-| [OS NGD Land](#os-ngd-land)                                                     | Ordnance Survey                                     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                                                                      |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/land)                                                                        |
+| [OS NGD Land Theme](#os-ngd-land-theme)                                         | Ordnance Survey                                     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                                                                      |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/land)                                                                        |
 | [OS Open Greenspace](#os-open-greenspace)                                       | Ordnance Survey                                     | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace)                                                                                                                  | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)                                                       |
+| [OS NGD Land Use Theme](#os-ngd-land-use-theme)                                 | Ordnance Survey                                     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-land-use-features)                                                                                                         |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/land-use)                                                                    |
 | [Overture Maps Foundation - Base Layer](#overture-maps-foundation---base-layer) | Overture Maps Foundation                            | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                                                                            |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                          |
 | [Planning Applications](#planning-applications)                                 | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                                                                            |                                                                                                                                   | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                             |
 | [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)     | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                                                                                                 |                                                                                                                                   | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                                                 |
@@ -152,9 +153,9 @@ Sites for wildlife and natural features in England, supporting many characterist
 
 
 
-## OS NGD Land
+## OS NGD Land Theme
 
-The OS NGD Land Use Features Collection gives you access to the most current and comprehensive land use sites and site access data captured by Ordnance Survey.
+Current and comprehensive land cover data. The Land layers covers all GB land not accounted for as part of the NGD Building, Structures, Water, Roadtrackorpath, or Rail feature. Landform layers represents cliffs, mounds, hills, and other land structures.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** 
@@ -177,6 +178,20 @@ OS Open Greenspace depicts the location and extent of spaces, such as parks and 
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace)
 - **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)
+
+
+
+## OS NGD Land Use Theme
+
+Site boundaries covering the full area including buildings, outdoor space, and other features on the site. Includes land use classifications. Includes a site access location point layer for public sites.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** 
+- **Provider:** Ordnance Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-land-use-features)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/land-use)
 
 
 

@@ -16,9 +16,10 @@ nav_order: 13
 | [National Public Transport Access Nodes - NaPTAN](#national-public-transport-access-nodes---naptan) | Department for Transport | Open      | [Data link 1](https://beta-naptan.dft.gov.uk/download)                                       |                                                                                                                                   | [Docs link](https://www.gov.uk/government/publications/national-public-transport-access-node-schema/naptan-guide-for-data-managers) |
 | [HERE Traffic Flow & Incidents](#here-traffic-flow-&-incidents)                                     | HERE Technologies        | Premium   | [Data link 1](https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html) |                                                                                                                                   | [Docs link](https://www.here.com/docs/bundle/traffic-api-developer-guide-v7/page/README.html)                                       |
 | [Network Rail Data Feeds](#network-rail-data-feeds)                                                 | Network Rail             | Open      | [Data link 1](https://www.rspaccreditation.org/publicDocumentation.php#RSPS5xxx)             |                                                                                                                                   | [Docs link](https://publicdatafeeds.networkrail.co.uk/ntrod/account/profile)                                                        |
-| [OS NGD Transport](#os-ngd-transport)                                                               | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)             |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/transport)                                                                      |
+| [OS NGD Transport Theme](#os-ngd-transport-theme)                                                   | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)             |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/transport)                                                                      |
 | [OS Open Roads](#os-open-roads)                                                                     | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRoads)                              | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/networks/os-open-roads)                                                                 |
 | [OS Multi-Modal Routing Network](#os-multi-modal-routing-network)                                   | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-multi-modal-routing-network#get)  |                                                                                                                                   | [Docs link](https://docs.os.uk/os-downloads/networks/os-multi-modal-routing-network)                                                |
+| [OS NGD Geographical Names Theme](#os-ngd-geographical-names-theme)                                 | Ordnance Survey          | Rest API  | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)                   |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)                                                             |
 | [Overture Maps Foundation - Transporting Layer](#overture-maps-foundation---transporting-layer)     | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                   |                                                                                                                                   | [Docs link](https://docs.overturemaps.org/guides/transportation/)                                                                   |
 
 ## Real-Time Location Estimates
@@ -121,9 +122,9 @@ Real-time arrival and departure predictions, platform numbers, delay estimates, 
 
 
 
-## OS NGD Transport
+## OS NGD Transport Theme
 
-The OS NGD Transport Features Collection provides the most detailed topographic data available of the physical transport environment of Great Britain. The collection is made up of individual real-world topographic transport features, including roads, railway lines, tracks, and paths. Also includes streetlights.
+Detailed topographic data of the physical transport environment of Great Britain. The collection is made up of individual real-world topographic transport features, including roads, railway lines, tracks, and paths. The data is available as features, including polygons, and as networks. Also includes streetlights.
 
 - **Category:** Road & Transportation
 - **Secondary Category:** 
@@ -160,6 +161,20 @@ A comprehensive routing network combining road, rail, and ferry links for Great 
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-multi-modal-routing-network#get)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/networks/os-multi-modal-routing-network)
+
+
+
+## OS NGD Geographical Names Theme
+
+the most current and comprehensive list of vernacular names of features and places of geographic significance captured and collated by Ordnance Survey. These are named locations in the real world, such as cities, towns, beaches, reservoirs, road junctions, and areas of water. Includes a layer of crowd-sourced named points.
+
+- **Category:** History
+- **Secondary Category:** Road & Transportation
+- **Provider:** Ordnance Survey
+- **Licensing:** Rest API
+- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)
 
 
 
