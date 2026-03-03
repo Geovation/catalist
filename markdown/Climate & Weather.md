@@ -12,6 +12,7 @@ nav_order: 5
 | [Recorded Flood Outlines](#recorded-flood-outlines)                           | Environment Agency                | Open      | [Data link 1](https://environment.data.gov.uk/explore/8c75e700-d465-11e4-8b5b-f0def148f590?download=True)                              |                                                                                                                         | [Docs link](https://environment.data.gov.uk/dataset/8c75e700-d465-11e4-8b5b-f0def148f590)                                        |
 | [Hydrology API](#hydrology-api)                                               | Environment Agency                | Open      | [Data link 1](https://environment.data.gov.uk/hydrology/doc/reference#api-summary)                                                     | [Data link 2](https://environment.data.gov.uk/hydrology/doc/reference#batch-api)                                        | [Docs link](https://environment.data.gov.uk/hydrology/doc/reference)                                                             |
 | [Sentinel Atmospheric Monitering](#sentinel-atmospheric-monitering)           | European Space Agency             | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis) | [Data link 2](https://browser.dataspace.copernicus.eu/)                                                                 | [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel5P.html)                                 |
+| [National Forest Inventory GB](#national-forest-inventory-gb)                 | Forestry Commission               | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/5a3efa283e81431b911b5c9872527ca5_0/explore)                           |                                                                                                                         | [Docs link](https://environment.data.gov.uk/dataset/0dbabff6-588e-44b3-a316-6353c4e47025)                                        |
 | [HadUK](#haduk)                                                               | Met Office                        | Open      | [Data link 1](https://data.ceda.ac.uk/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid)                                             |                                                                                                                         | [Docs link](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/haduk-grid)                              |
 | [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map)   | META                              | Open      | [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)                                                                   |                                                                                                                         | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                                             |
 | [Sites of Special Scientific Interest](#sites-of-special-scientific-interest) | Natural England                   | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)   | [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1) | [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about) |
@@ -56,6 +57,20 @@ Sentinel 4 and Sentinel 5. Daily atmospheric air quality, ozone and surface UV, 
 - **Data link 1:** [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis)
 - **Data link 2:** [Data link 2](https://browser.dataspace.copernicus.eu/)
 - **Docs link:** [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel5P.html)
+
+
+
+## National Forest Inventory GB
+
+All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover, or the potential to achieve it, and a minimum width of 20 metres. This includes new planting, clearfell, windblow and restock. A new version is produced annually. Detected from Sentinel 2 imagery. It is a large dataset which can be quite unweildy.
+
+- **Category:** Vegetation
+- **Secondary Category:** Climate & Weather
+- **Provider:** Forestry Commission
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/5a3efa283e81431b911b5c9872527ca5_0/explore)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/0dbabff6-588e-44b3-a316-6353c4e47025)
 
 
 
