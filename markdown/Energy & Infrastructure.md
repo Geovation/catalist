@@ -7,11 +7,11 @@ nav_order: 7
 
 # Energy & Infrastructure
 
-| Name                                                                | Provider                                           | Licensing | Data link 1                                                                          | Data link 2 | Docs link                                                                    |
-| ------------------------------------------------------------------- | -------------------------------------------------- | --------- | ------------------------------------------------------------------------------------ | ----------- | ---------------------------------------------------------------------------- |
-| [Energy Performance Certificates](#energy-performance-certificates) | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://epc.opendatacommunities.org/domestic/search)                   |             | [Docs link](https://epc.opendatacommunities.org/docs/api)                    |
-| [Google Solar](#google-solar)                                       | Google                                             | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest) |             | [Docs link](https://developers.google.com/maps/documentation/solar/overview) |
-| [OS NGD Structures Theme](#os-ngd-structures-theme)                 | Ordnance Survey                                    | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)     |             | [Docs link](https://docs.os.uk/osngd/data-structure/structures)              |
+| Name                                                                | Provider                                           | Licensing | Data link 1                                                                          | Data link 2                                                                                                                                                           | Docs link                                                                    |
+| ------------------------------------------------------------------- | -------------------------------------------------- | --------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Energy Performance Certificates](#energy-performance-certificates) | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://epc.opendatacommunities.org/domestic/search)                   |                                                                                                                                                                       | [Docs link](https://epc.opendatacommunities.org/docs/api)                    |
+| [Google Solar](#google-solar)                                       | Google                                             | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest) |                                                                                                                                                                       | [Docs link](https://developers.google.com/maps/documentation/solar/overview) |
+| [OS NGD Structures Theme](#os-ngd-structures-theme)                 | Ordnance Survey                                    | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)     | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/structures)              |
 
 ## Energy Performance Certificates
 
@@ -50,5 +50,5 @@ The most current and comprehensive structures data captured by Ordnance Survey. 
 - **Provider:** Ordnance Survey
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)
-- **Data link 2:** 
+- **Data link 2:** [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items)
 - **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/structures)
