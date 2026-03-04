@@ -13,7 +13,7 @@ nav_order: 9
 | [Lost Boundaries](#lost-boundaries)                                 | ArchAI                       | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                     |                                                                                                                                                                       | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                                   |
 | [Listed Buildings & Sites](#listed-buildings-&-sites)               | Historic England             | Open      | [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3) |                                                                                                                                                                       | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3) |
 | [Historic OS Maps Catalogue](#historic-os-maps-catalogue)           | National Library of Scotland | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                                                                                                     |                                                                                                                                                                       | [Docs link](https://maps.nls.uk/os/)                                                                                                         |
-| [OS NGD Geographical Names Theme](#os-ngd-geographical-names-theme) | Ordnance Survey              | Rest API  | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)                                                                       | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)                                                                      |
+| [OS NGD Geographical Names Theme](#os-ngd-geographical-names-theme) | Ordnance Survey              | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)                                                                       | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)                                                                      |
 | [X API](#x-api)                                                     | X                            | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                                                                       |                                                                                                                                                                       | [Docs link](https://docs.x.com/x-api/introduction)                                                                                           |
 
 ## Lost Habitats
@@ -76,10 +76,10 @@ Maps published by Ordnance Survey and related bodies, including the War Office (
 
 the most current and comprehensive list of vernacular names of features and places of geographic significance captured and collated by Ordnance Survey. These are named locations in the real world, such as cities, towns, beaches, reservoirs, road junctions, and areas of water. Includes a layer of crowd-sourced named points.
 
-- **Category:** History
-- **Secondary Category:** Road & Transportation
+- **Category:** Places & Points-of-Interest
+- **Secondary Category:** History
 - **Provider:** Ordnance Survey
-- **Licensing:** Rest API
+- **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)
 - **Data link 2:** [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items)
 - **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)

@@ -7,14 +7,15 @@ nav_order: 16
 
 # Vegetation
 
-| Name                                                                            | Provider            | Licensing | Data link 1                                                                                                  | Data link 2 | Docs link                                                                                           |
-| ------------------------------------------------------------------------------- | ------------------- | --------- | ------------------------------------------------------------------------------------------------------------ | ----------- | --------------------------------------------------------------------------------------------------- |
-| [Lost Habitats](#lost-habitats)                                                 | ArchAI              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                 |             | [Docs link](https://www.archai.io/historichabitats)                                                 |
-| [BlueSky National Treemap/Hedgerow Map](#bluesky-national-treemap/hedgerow-map) | BlueSky             | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/ntm-v2)                                                    |             | [Docs link](https://bluesky-world.com/ntm/)                                                         |
-| [National Trees Outside Woodland Map](#national-trees-outside-woodland-map)     | Forest Research     | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/documents/01667a77c65f4fd9aaf6a45279373a25/explore)  |             | [Docs link](https://www.forestresearch.gov.uk/tools-and-resources/fthr/trees-outside-woodland-map/) |
-| [National Forest Inventory GB](#national-forest-inventory-gb)                   | Forestry Commission | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/5a3efa283e81431b911b5c9872527ca5_0/explore) |             | [Docs link](https://environment.data.gov.uk/dataset/0dbabff6-588e-44b3-a316-6353c4e47025)           |
-| [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map)     | META                | Open      | [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)                                         |             | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                |
-| [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)     | Searchland          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                        |             | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                    |
+| Name                                                                            | Provider            | Licensing | Data link 1                                                                                                  | Data link 2                                                                                                                                                           | Docs link                                                                                           |
+| ------------------------------------------------------------------------------- | ------------------- | --------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Lost Habitats](#lost-habitats)                                                 | ArchAI              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                 |                                                                                                                                                                       | [Docs link](https://www.archai.io/historichabitats)                                                 |
+| [BlueSky National Treemap/Hedgerow Map](#bluesky-national-treemap/hedgerow-map) | BlueSky             | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/ntm-v2)                                                    |                                                                                                                                                                       | [Docs link](https://bluesky-world.com/ntm/)                                                         |
+| [National Trees Outside Woodland Map](#national-trees-outside-woodland-map)     | Forest Research     | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/documents/01667a77c65f4fd9aaf6a45279373a25/explore)  |                                                                                                                                                                       | [Docs link](https://www.forestresearch.gov.uk/tools-and-resources/fthr/trees-outside-woodland-map/) |
+| [National Forest Inventory GB](#national-forest-inventory-gb)                   | Forestry Commission | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/5a3efa283e81431b911b5c9872527ca5_0/explore) |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/0dbabff6-588e-44b3-a316-6353c4e47025)           |
+| [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map)     | META                | Open      | [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)                                         |                                                                                                                                                                       | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                |
+| [OS NGD Structures - Field Boundaries](#os-ngd-structures---field-boundaries)   | Ordnance Survey     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-structure-features#field-boundaries)              | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/structures/structure-features/field-boundary)   |
+| [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)     | Searchland          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                        |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                    |
 
 ## Lost Habitats
 
@@ -83,6 +84,20 @@ All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover
 - **Data link 1:** [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)
+
+
+
+## OS NGD Structures - Field Boundaries
+
+Line geometries representing field boundaries, granularly subdivided into categories: wall, hedge, tree canopy, wooded strip, other, unknown.  Captures, for example, individual trees along a hedgerow or wall.
+
+- **Category:** Vegetation
+- **Secondary Category:** 
+- **Provider:** Ordnance Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-structure-features#field-boundaries)
+- **Data link 2:** [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items)
+- **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/structures/structure-features/field-boundary)
 
 
 

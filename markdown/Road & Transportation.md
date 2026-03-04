@@ -19,7 +19,7 @@ nav_order: 13
 | [OS NGD Transport Theme](#os-ngd-transport-theme)                                                   | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)             | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/transport)                                                                      |
 | [OS Open Roads](#os-open-roads)                                                                     | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRoads)                              | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)                                     | [Docs link](https://docs.os.uk/os-downloads/networks/os-open-roads)                                                                 |
 | [OS Multi-Modal Routing Network](#os-multi-modal-routing-network)                                   | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-multi-modal-routing-network#get)  |                                                                                                                                                                       | [Docs link](https://docs.os.uk/os-downloads/networks/os-multi-modal-routing-network)                                                |
-| [OS NGD Geographical Names Theme](#os-ngd-geographical-names-theme)                                 | Ordnance Survey          | Rest API  | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)                   | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)                                                             |
+| [OS NGD Transport - Streetlights](#os-ngd-transport---streetlights)                                 | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-transport-features#street-lights) |                                                                                                                                                                       | [Docs link](https://docs.os.uk/osngd/data-structure/transport/transport-features/street-light)                                      |
 | [Overture Maps Foundation - Transporting Layer](#overture-maps-foundation---transporting-layer)     | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                   |                                                                                                                                                                       | [Docs link](https://docs.overturemaps.org/guides/transportation/)                                                                   |
 
 ## Real-Time Location Estimates
@@ -124,7 +124,7 @@ Real-time arrival and departure predictions, platform numbers, delay estimates, 
 
 ## OS NGD Transport Theme
 
-Detailed topographic data of the physical transport environment of Great Britain. The collection is made up of individual real-world topographic transport features, including roads, railway lines, tracks, and paths. The data is available as features, including polygons, and as networks. Also includes streetlights.
+Detailed topographic data of the physical transport environment of Great Britain. The collection is made up of individual real-world topographic transport features, including roads, railway lines, tracks, and paths. The data is available as features, including polygons, and as networks. Also includes a Routing and Asset Management Information layer, with restrictions, hazards, and indicitive speed limits.
 
 - **Category:** Road & Transportation
 - **Secondary Category:** 
@@ -164,17 +164,17 @@ A comprehensive routing network combining road, rail, and ferry links for Great 
 
 
 
-## OS NGD Geographical Names Theme
+## OS NGD Transport - Streetlights
 
-the most current and comprehensive list of vernacular names of features and places of geographic significance captured and collated by Ordnance Survey. These are named locations in the real world, such as cities, towns, beaches, reservoirs, road junctions, and areas of water. Includes a layer of crowd-sourced named points.
+National-scale traffic light locations, as vector point geometry. No height information.
 
-- **Category:** History
-- **Secondary Category:** Road & Transportation
+- **Category:** Road & Transportation
+- **Secondary Category:** 
 - **Provider:** Ordnance Survey
-- **Licensing:** Rest API
-- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)
-- **Data link 2:** [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items)
-- **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-transport-features#street-lights)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/transport/transport-features/street-light)
 
 
 

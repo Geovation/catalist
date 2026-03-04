@@ -43,7 +43,7 @@ Insights about the location and dimensions of buildings, and estimated solar pot
 
 ## OS NGD Structures Theme
 
-The most current and comprehensive structures data captured by Ordnance Survey. Includes granular, categorised field boundaries.
+The most current and comprehensive structures data captured by Ordnance Survey. Structures are defined as features which are of manmade construction but are not buildings, for example, dams, hedges, bridges, chimneys, statues, post boxes, cranes, cattle grids, and sea walls.
 
 - **Category:** Energy & Infrastructure
 - **Secondary Category:** 
