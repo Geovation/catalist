@@ -10,6 +10,7 @@ nav_order: 8
 | Name                                                                                                      | Provider                       | Licensing | Data link 1                                                                                                | Data link 2                                                                                                             | Docs link                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | [Medical/Care Establishment Locations and Ratings](#medical/care-establishment-locations-and-ratings)     | Care Quality Commission        | Open      | [Data link 1](https://www.cqc.org.uk/about-us/transparency/using-cqc-data#directory)                       | [Data link 2](https://api-portal.service.cqc.org.uk/api-details#api=syndication&operation=get-changes-within-timeframe) | [Docs link](https://www.cqc.org.uk/about-us/transparency/using-cqc-data)                                                     |
+| [Registered Charities in England and Wales](#registered-charities-in-england-and-wales)                   | Charity Commission             | Open      | [Data link 1](https://register-of-charities.charitycommission.gov.uk/en/register/full-register-download)   | [Data link 2](https://api-portal.charitycommission.gov.uk/api-details#api=register-of-charities-api)                    | [Docs link](https://register-of-charities.charitycommission.gov.uk/en/)                                                      |
 | [Road Collisions](#road-collisions)                                                                       | Department for Transport       | Open      | [Data link 1](https://www.gov.uk/government/statistics/road-safety-data#latest-year-data)                  | [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html)                                               | [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance)                                        |
 | [Sewage Discharges](#sewage-discharges)                                                                   | Environmental Agency           | Open      | [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                |                                                                                                                         | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                    |
 | [Summary Hospital-level Mortality Indicators - SHMI](#summary-hospital-level-mortality-indicators---shmi) | NHS Digital                    | Open      | [Data link 1](https://digital.nhs.uk/data-and-information/publications/statistical/shmi#latest-statistics) |                                                                                                                         | [Docs link](https://digital.nhs.uk/data-and-information/publications/ci-hub/summary-hospital-level-mortality-indicator-shmi) |
@@ -27,6 +28,20 @@ Locations and ratings for medical and care home institutions. Ratings are split 
 - **Data link 1:** [Data link 1](https://www.cqc.org.uk/about-us/transparency/using-cqc-data#directory)
 - **Data link 2:** [Data link 2](https://api-portal.service.cqc.org.uk/api-details#api=syndication&operation=get-changes-within-timeframe)
 - **Docs link:** [Docs link](https://www.cqc.org.uk/about-us/transparency/using-cqc-data)
+
+
+
+## Registered Charities in England and Wales
+
+Various details about registered chartities, including trustees, categories, financial information, and documents. Geospatially, it includes addresses and areas of operation, but no geometry.
+
+- **Category:** Health & Safety
+- **Secondary Category:** 
+- **Provider:** Charity Commission
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://register-of-charities.charitycommission.gov.uk/en/register/full-register-download)
+- **Data link 2:** [Data link 2](https://api-portal.charitycommission.gov.uk/api-details#api=register-of-charities-api)
+- **Docs link:** [Docs link](https://register-of-charities.charitycommission.gov.uk/en/)
 
 
 

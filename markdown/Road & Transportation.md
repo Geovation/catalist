@@ -20,7 +20,7 @@ nav_order: 13
 | [OS Open Roads](#os-open-roads)                                                                     | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRoads)                              | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)                                     | [Docs link](https://docs.os.uk/os-downloads/networks/os-open-roads)                                                                 |
 | [OS Multi-Modal Routing Network](#os-multi-modal-routing-network)                                   | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-multi-modal-routing-network#get)  |                                                                                                                                                                       | [Docs link](https://docs.os.uk/os-downloads/networks/os-multi-modal-routing-network)                                                |
 | [OS NGD Transport - Streetlights](#os-ngd-transport---streetlights)                                 | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-transport-features#street-lights) |                                                                                                                                                                       | [Docs link](https://docs.os.uk/osngd/data-structure/transport/transport-features/street-light)                                      |
-| [Overture Maps Foundation - Transporting Layer](#overture-maps-foundation---transporting-layer)     | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                   |                                                                                                                                                                       | [Docs link](https://docs.overturemaps.org/guides/transportation/)                                                                   |
+| [Overture Maps Transporting Layer](#overture-maps-transporting-layer)                               | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                   | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/transportation/)                                                                   |
 
 ## Real-Time Location Estimates
 
@@ -178,7 +178,7 @@ National-scale traffic light locations, as vector point geometry. No height info
 
 
 
-## Overture Maps Foundation - Transporting Layer
+## Overture Maps Transporting Layer
 
 LineString and Point data representing transport nodes and links. Covers rail, road, water, and active travel. Data is sourced primarily from OpenStreetMap, and supplemented by TomTom.
 
@@ -187,5 +187,5 @@ LineString and Point data representing transport nodes and links. Covers rail, r
 - **Provider:** Overture Maps Foundation
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://docs.overturemaps.org/getting-data/)
-- **Data link 2:** 
+- **Data link 2:** [Data link 2](https://github.com/OvertureMaps/overturemaps-py)
 - **Docs link:** [Docs link](https://docs.overturemaps.org/guides/transportation/)
