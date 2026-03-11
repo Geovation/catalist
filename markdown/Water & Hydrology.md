@@ -109,7 +109,7 @@ Water courses within forests in England. Though this only covers forests, the da
 High-level view of watercourses in Great Britain including rivers, estuaries, and canals. A link-and-node network indicating flow direction, with links approximating the centre of watercourses. Tidal and inland rivers differentiated. Useful for environmental analysis and water quality data sharing. Links to other more details OS water data products. Updated every six months.
 
 - **Category:** Water & Hydrology
-- **Secondary Category:** Basemaps & Terrain
+- **Secondary Category:** 
 - **Provider:** Ordnance Survey
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)

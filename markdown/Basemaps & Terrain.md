@@ -12,10 +12,9 @@ nav_order: 3
 | [Environmental Agency Lidar](#environmental-agency-lidar) | Environment Agency           | Open      | [Data link 1](https://environment.data.gov.uk/survey)                                                                                                                                                      |                                                                                                                                   | [Docs link](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) |
 | [Historic OS Maps Catalogue](#historic-os-maps-catalogue) | National Library of Scotland | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                                                                                                                                                               |                                                                                                                                   | [Docs link](https://maps.nls.uk/os/)                                                                       |
 | [OpenStreetMap Raster Tiles](#openstreetmap-raster-tiles) | OpenStreetMap                | Open      | [Data link 1](https://operations.osmfoundation.org/policies/tiles/)                                                                                                                                        |                                                                                                                                   | [Docs link](https://wiki.openstreetmap.org/wiki/Raster_tiles)                                              |
-| [OS Open Rivers](#os-open-rivers)                         | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)                                                                                                                                           | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/networks/os-open-rivers)                                       |
 | [OS OpenMap - Local](#os-openmap---local)                 | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenMapLocal)                                                                                                                                         | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-openmap-local)                |
 | [OS Open Zoomstack](#os-open-zoomstack)                   | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenZoomstack)                                                                                                                                        | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-open-zoomstack)               |
-| [OS Maps API](#os-maps-api)                               | Ordnance Survey              | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-maps-api)                                                                                                                                       |                                                                                                                                   | [Docs link](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api)                                      |
+| [OS Maps API](#os-maps-api)                               | Ordnance Survey              | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-maps-api)                                                                                                                                       | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api/technical-specification#api-reference)                     | [Docs link](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api)                                      |
 | [OS NGD API - Tiles](#os-ngd-api---tiles)                 | Ordnance Survey              | Premium   | [Data link 1](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-tiles/technical-specification/tiles#get-collections-collectionid-tiles-tilematrixsetid-tilematrix-tilerow-tilecol) |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-tiles)               |
 
 ## Environmental Agency Lidar
@@ -60,23 +59,9 @@ Pre-rendered raster tiles from OpenStreetMap data, commonly used as basemaps in 
 
 
 
-## OS Open Rivers
-
-High-level view of watercourses in Great Britain including rivers, estuaries, and canals. A link-and-node network indicating flow direction, with links approximating the centre of watercourses. Tidal and inland rivers differentiated. Useful for environmental analysis and water quality data sharing. Links to other more details OS water data products. Updated every six months.
-
-- **Category:** Water & Hydrology
-- **Secondary Category:** Basemaps & Terrain
-- **Provider:** Ordnance Survey
-- **Licensing:** Open
-- **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)
-- **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
-- **Docs link:** [Docs link](https://docs.os.uk/os-downloads/networks/os-open-rivers)
-
-
-
 ## OS OpenMap - Local
 
-A detailed vector map of Great Britain at a local scale, including buildings, roads, land, and water features. Ideal for detailed mapping and analysis at street level. Updated every six months.
+A detailed vector map of Great Britain at a local scale, including buildings, roads, land, and water features. Ideal for detailed mapping and analysis at street level. Updated every six months. Must be downloaded as a file - no public API endpoint available.
 
 - **Category:** Basemaps & Terrain
 - **Secondary Category:** 
@@ -90,7 +75,7 @@ A detailed vector map of Great Britain at a local scale, including buildings, ro
 
 ## OS Open Zoomstack
 
-Open backdrop map, available as GeoPackage or VectorTiles, with a consistent level of detail. Based on a combination of OS open data. Maximum zoom level of 14. Some aggregation of features (including buildings) even at the highest zoom level. Four cartographic styles available. Must be lownloaded as a file - no public API endpoint available.
+Open backdrop map, available as GeoPackage or VectorTiles, with a consistent level of detail. Based on a combination of OS open data. Maximum zoom level of 14. Some aggregation of features (including buildings) even at the highest zoom level. Four cartographic styles available. Must be downloaded as a file - no public API endpoint available.
 
 - **Category:** Basemaps & Terrain
 - **Secondary Category:** 
@@ -111,7 +96,7 @@ Raster tiles for background mapper, based on OS data. Four styles are available:
 - **Provider:** Ordnance Survey
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-maps-api)
-- **Data link 2:** 
+- **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api/technical-specification#api-reference)
 - **Docs link:** [Docs link](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api)
 
 

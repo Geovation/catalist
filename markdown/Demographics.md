@@ -13,6 +13,7 @@ nav_order: 6
 | [Rail Insights](#rail-insights)                                               | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)                                                                                           |                                                                     | [Docs link](https://developer.bt.com/products/rail-network-api)                                                            |
 | [Explore Education Statistics](#explore-education-statistics)                 | Department for Education                            | Open      | [Data link 1](https://explore-education-statistics.service.gov.uk/data-catalogue)                                                                                                     | [Data link 2](https://api.education.gov.uk/statistics/docs/)        | [Docs link](https://explore-education-statistics.service.gov.uk/methodology)                                               |
 | [Get Information about Schools](#get-information-about-schools)               | Department for Education                            | Open      | [Data link 1](https://get-information-schools.service.gov.uk/Downloads)                                                                                                               |                                                                     | [Docs link](https://get-information-schools.service.gov.uk/help)                                                           |
+| [Airbnb Listings](#airbnb-listings)                                           | InsideAirbnb                                        | Open      | [Data link 1](https://insideairbnb.com/get-the-data)                                                                                                                                  |                                                                     | [Docs link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit)                      |
 | [MHCLG Open Data](#mhclg-open-data)                                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)                                                   | [Data link 2](https://opendatacommunities.org/help?tab=api)         | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
 | [Indices of Multiple Deprivation 2025](#indices-of-multiple-deprivation-2025) | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025#documents)                                                                                 |                                                                     | [Docs link](https://assets.publishing.service.gov.uk/media/68ff59c80f801e57b5bef907/ID_2025_Technical_Report.pdf)          |
 | [2021 Census Statistics](#2021-census-statistics)                             | Office for National Statistics                      | Open      | [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)                                                                                                                     | [Data link 2](https://www.nomisweb.co.uk/api/v01/help)              | [Docs link](https://www.ons.gov.uk/census/census2021dictionary)                                                            |
@@ -74,6 +75,20 @@ Administritive information about schools. Together, the datasets provide address
 - **Data link 1:** [Data link 1](https://get-information-schools.service.gov.uk/Downloads)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://get-information-schools.service.gov.uk/help)
+
+
+
+## Airbnb Listings
+
+Listing, review, and calendar data for Airbnb covering four GB cities: London, Manchester, Bristol, and Edinburgh. Data is scraped from Airbnb and compiled. Includes detailed information about hosts, rooms, amenities, free-text listing and neighbourhood descriptions, and various other statistics. Location is provided as latitude and longitude, though the exact location is not available, as it is jittered by up tp 150m.
+
+- **Category:** Places & Points-of-Interest
+- **Secondary Category:** Demographics
+- **Provider:** InsideAirbnb
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://insideairbnb.com/get-the-data)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit)
 
 
 

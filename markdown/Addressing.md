@@ -10,7 +10,8 @@ nav_order: 1
 | Name                                                                                                  | Provider                | Licensing | Data link 1                                                                                  | Data link 2                                                                                                                       | Docs link                                                                                     |
 | ----------------------------------------------------------------------------------------------------- | ----------------------- | --------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Medical/Care Establishment Locations and Ratings](#medical/care-establishment-locations-and-ratings) | Care Quality Commission | Open      | [Data link 1](https://www.cqc.org.uk/about-us/transparency/using-cqc-data#directory)         | [Data link 2](https://api-portal.service.cqc.org.uk/api-details#api=syndication&operation=get-changes-within-timeframe)           | [Docs link](https://www.cqc.org.uk/about-us/transparency/using-cqc-data)                      |
-| [GetAddress APIs](#getaddress-apis)                                                                   | GetAddress              | Premium   | [Data link 1](https://documentation.getaddress.io/)                                          | [Data link 2](https://admin.getaddress.io/account/sign-up)                                                                        | [Docs link](https://getaddress.io/)                                                           |
+| [Open Council Tax Address Lists](#open-council-tax-address-lists)                                     | Datadaptive             | Open      | [Data link 1](https://www.datadaptive.com/addr)                                              |                                                                                                                                   | [Docs link](https://www.owenboswarva.com/blog/)                                               |
+| [GetAddress APIs](#getaddress-apis)                                                                   | GetAddress              | Premium   | [Data link 1](https://documentation.getaddress.io)                                           | [Data link 2](https://admin.getaddress.io/account/sign-up)                                                                        | [Docs link](https://getaddress.io/)                                                           |
 | [HMLR Price Paid Data](#hmlr-price-paid-data)                                                         | HM Land Registry        | Open      | [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) |                                                                                                                                   | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)                            |
 | [OS NGD Address Theme](#os-ngd-address-theme)                                                         | Ordnance Survey         | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-gb-address)                       |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/data-structure/address)                                  |
 | [OS Open UPRN](#os-open-uprn)                                                                         | Ordnance Survey         | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenUPRN)                               | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature)                    | [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)                         |
@@ -33,6 +34,20 @@ Locations and ratings for medical and care home institutions. Ratings are split 
 
 
 
+## Open Council Tax Address Lists
+
+Address from some Local Councils, compiled from Freedom-of-Information reqeusts. Often these are geocoded, and usually include UPRNs.
+
+- **Category:** Addressing
+- **Secondary Category:** 
+- **Provider:** Datadaptive
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.datadaptive.com/addr)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.owenboswarva.com/blog/)
+
+
+
 ## GetAddress APIs
 
 Addresses sourced from OS Code Point Open, property sales, council tax register, companies house data, and other sources. Several endpoints for location searches, address matching, and autocompletion.
@@ -41,7 +56,7 @@ Addresses sourced from OS Code Point Open, property sales, council tax register,
 - **Secondary Category:** 
 - **Provider:** GetAddress
 - **Licensing:** Premium
-- **Data link 1:** [Data link 1](https://documentation.getaddress.io/)
+- **Data link 1:** [Data link 1](https://documentation.getaddress.io)
 - **Data link 2:** [Data link 2](https://admin.getaddress.io/account/sign-up)
 - **Docs link:** [Docs link](https://getaddress.io/)
 
