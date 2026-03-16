@@ -80,7 +80,7 @@ Administritive information about schools. Together, the datasets provide address
 
 ## Airbnb Listings
 
-Listing, review, and calendar data for Airbnb covering four GB cities: London, Manchester, Bristol, and Edinburgh. Data is scraped from Airbnb and compiled. Includes detailed information about hosts, rooms, amenities, free-text listing and neighbourhood descriptions, and various other statistics. Location is provided as latitude and longitude, though the exact location is not available, as it is jittered by up tp 150m.
+Listing, review, and calendar data for Airbnb covering four GB cities: London, Manchester, Bristol, and Edinburgh. Data is scraped from Airbnb and compiled. Includes detailed information about hosts, rooms, amenities, free-text listing and neighbourhood descriptions, and various other statistics. Location is provided as latitude and longitude, though the exact location is not available, as it is jittered by up to 150m.
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** Demographics

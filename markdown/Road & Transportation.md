@@ -166,7 +166,7 @@ A comprehensive routing network combining road, rail, and ferry links for Great 
 
 ## OS NGD Transport - Streetlights
 
-National-scale traffic light locations, as vector point geometry. No height information.
+National-scale traffic light locations, as vector point geometry. No height information. Only available where streetlights are uncovered and visible from aerial imagery.
 
 - **Category:** Road & Transportation
 - **Secondary Category:** 

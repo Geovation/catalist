@@ -9,7 +9,7 @@ nav_order: 14
 
 | Name                                                                | Provider              | Licensing | Data link 1                                                                                                                            | Data link 2                                                                      | Docs link                                                                                                     |
 | ------------------------------------------------------------------- | --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [BlueSky Imagery](#bluesky-imagery)                                 | BlueSky               | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res)                                                                 |                                                                                  | [Docs link](https://www.blueskymapshop.com/products/aerial-photography)                                       |
+| [BlueSky Imagery](#bluesky-imagery)                                 | BlueSky               | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res)                                                                 | [Data link 2](https://www.blueskymapshop.com/account/register)                   | [Docs link](https://www.blueskymapshop.com/products/aerial-photography)                                       |
 | [Sentinel 2 Imagery](#sentinel-2-imagery)                           | European Space Agency | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis) | [Data link 2](https://browser.dataspace.copernicus.eu/)                          | [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel2.html)               |
 | [GetMapping Aerial Content](#getmapping-aerial-content)             | GetMapping            | Premium   | [Data link 1](https://www.getmapping.co.uk/contact-getmapping/)                                                                        | [Data link 2](https://www1.getmapping.com/Webshop/Web/Business/Getplanning.aspx) | [Docs link](https://www.getmapping.co.uk/aerial-content/)                                                     |
 | [Hyperspectral Imagery](#hyperspectral-imagery)                     | Pixxel                | Premium   | [Data link 1](https://www.pixxel.space/hyperspectral-imagery)                                                                          | [Data link 2](https://docs.pixxel.space/api-reference/introduction)              | [Docs link](https://support.pixxel.space/hc/en-us/articles/9588039261724-Pixxel-Product-Specifications-Guide) |
@@ -25,7 +25,7 @@ nav_order: 14
 - **Provider:** BlueSky
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res)
-- **Data link 2:** 
+- **Data link 2:** [Data link 2](https://www.blueskymapshop.com/account/register)
 - **Docs link:** [Docs link](https://www.blueskymapshop.com/products/aerial-photography)
 
 
