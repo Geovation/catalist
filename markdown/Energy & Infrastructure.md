@@ -9,7 +9,7 @@ nav_order: 7
 
 | Name                                                                | Provider                                           | Licensing | Data link 1                                                                          | Data link 2                                                                                                                                                           | Docs link                                                                    |
 | ------------------------------------------------------------------- | -------------------------------------------------- | --------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Energy Performance Certificates](#energy-performance-certificates) | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://epc.opendatacommunities.org/domestic/search)                   |                                                                                                                                                                       | [Docs link](https://epc.opendatacommunities.org/docs/api)                    |
+| [Energy Performance Certificates](#energy-performance-certificates) | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://epc.opendatacommunities.org/docs/api)                          | [Data link 2](https://epc.opendatacommunities.org/downloads/domestic)                                                                                                 | [Docs link](https://epc.opendatacommunities.org/domestic/search)             |
 | [Google Solar](#google-solar)                                       | Google                                             | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest) |                                                                                                                                                                       | [Docs link](https://developers.google.com/maps/documentation/solar/overview) |
 | [OS NGD Structures Theme](#os-ngd-structures-theme)                 | Ordnance Survey                                    | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)     | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/structures)              |
 
@@ -21,9 +21,9 @@ EPC rating for properties, along with other energy-related stats. About 60% have
 - **Secondary Category:** Energy & Infrastructure
 - **Provider:** Department for Levelling Up, Housing & Communities
 - **Licensing:** Open
-- **Data link 1:** [Data link 1](https://epc.opendatacommunities.org/domestic/search)
-- **Data link 2:** 
-- **Docs link:** [Docs link](https://epc.opendatacommunities.org/docs/api)
+- **Data link 1:** [Data link 1](https://epc.opendatacommunities.org/docs/api)
+- **Data link 2:** [Data link 2](https://epc.opendatacommunities.org/downloads/domestic)
+- **Docs link:** [Docs link](https://epc.opendatacommunities.org/domestic/search)
 
 
 

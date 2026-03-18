@@ -18,6 +18,7 @@ nav_order: 3
 | [OS Open Zoomstack](#os-open-zoomstack)                   | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenZoomstack)                                                                                                                                        | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-open-zoomstack)               |
 | [OS Maps API](#os-maps-api)                               | Ordnance Survey              | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-maps-api)                                                                                                                                       | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api/technical-specification#api-reference)                     | [Docs link](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api)                                      |
 | [OS NGD API - Tiles](#os-ngd-api---tiles)                 | Ordnance Survey              | Premium   | [Data link 1](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-tiles/technical-specification/tiles#get-collections-collectionid-tiles-tilematrixsetid-tilematrix-tilerow-tilecol) |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-tiles)               |
+| [OS Net API](#os-net-api)                                 | Ordnance Survey              | Open      | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-net-api/technical-specification#os-net-api)                                                                                                  | [Data link 2](https://osdatahub.os.uk/data/positioning/osnet/direct)                                                              | [Docs link](https://osdatahub.os.uk/data/positioning/osnet/search)                                         |
 
 ## BlueSky DSM
 
@@ -142,3 +143,17 @@ Basemap service based on a combination of Open Zoomstack and various National Ge
 - **Data link 1:** [Data link 1](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-tiles/technical-specification/tiles#get-collections-collectionid-tiles-tilematrixsetid-tilematrix-tilerow-tilecol)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-tiles)
+
+
+
+## OS Net API
+
+Centimeter-level precision GNSS (Global Navigation Satellite System) data across Great Britain. Includes positions of the ~120 base stations, and their health and RINEX files.
+
+- **Category:** Basemaps & Terrain
+- **Secondary Category:** 
+- **Provider:** Ordnance Survey
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-net-api/technical-specification#os-net-api)
+- **Data link 2:** [Data link 2](https://osdatahub.os.uk/data/positioning/osnet/direct)
+- **Docs link:** [Docs link](https://osdatahub.os.uk/data/positioning/osnet/search)
