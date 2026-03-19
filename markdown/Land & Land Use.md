@@ -12,9 +12,8 @@ nav_order: 10
 | [Lost Boundaries](#lost-boundaries)                                                                     | ArchAI                                              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                                                          |                                                                                                                                                                       | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                                       |
 | [London Plan - Opportunity Areas](#london-plan---opportunity-areas)                                     | Greater London Authority                            | Open      | [Data link 1](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/about)                                                                                               | [Data link 2](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/api)                                                                                 | [Docs link](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/londons-opportunity-areas)                         |
 | [National Polygon Service](#national-polygon-service)                                                   | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)                                                                                                      | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                                                        | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                                              |
-| [INSPIRE Index Polygons](#inspire-index-polygons)                                                       | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download)                                                                                                |                                                                                                                                                                       | [Docs link](https://www.gov.uk/guidance/inspire-index-polygons-spatial-data)                                                                     |
 | [Local Land Charges](#local-land-charges)                                                               | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/llc/download)                                                                                                    |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/llc)                                                                          |
-| [INSPIRE Index Polygon](#inspire-index-polygon)                                                         | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download#download)                                                                                       |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/inspire)                                                                      |
+| [INSPIRE Index Polygons](#inspire-index-polygons)                                                       | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download#download)                                                                                       |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/inspire)                                                                      |
 | [Barbour ABI Planning Applications](#barbour-abi-planning-applications)                                 | Landmark                                            | Premium   | [Data link 1](https://www.landmark.co.uk/products/planning-api/planning-api-documentation/)                                                                                           |                                                                                                                                                                       | [Docs link](https://www.landmark.co.uk/products/planning-api)                                                                                    |
 | [UK Planning Data Platform](#uk-planning-data-platform)                                                 | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                                                                              |                                                                                                                                                                       | [Docs link](https://www.planning.data.gov.uk/docs)                                                                                               |
 | [Brownfield Land Points](#brownfield-land-points)                                                       | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/brownfield-land)                                                                                                               |                                                                                                                                                                       | [Docs link](https://design.planning.data.gov.uk/planning-consideration/brownfield-land)                                                          |
@@ -71,20 +70,6 @@ Title boundaries, with title numbers, and separate lookup tables providing estat
 
 
 
-## INSPIRE Index Polygons
-
-Open dataset developed to comply with the INSPIRE Directive. Contains indicative polygons showing the position and extent of freehold registered property in England and Wales. Each polygon has a unique INSPIRE ID linked to a title. Updated monthly.
-
-- **Category:** Land & Land Use
-- **Secondary Category:** 
-- **Provider:** HM Land Registry
-- **Licensing:** Open
-- **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download)
-- **Data link 2:** 
-- **Docs link:** [Docs link](https://www.gov.uk/guidance/inspire-index-polygons-spatial-data)
-
-
-
 ## Local Land Charges
 
 The indicative extent and position of local land charges (categorised as being within INSPIRE theme groups) in England and Wales for Local Authorities which have migrated their datasets to HM Land Registry. Not all Local Authorities are covered, but more will be added with time. Covers environmental policies, land use policies, and protected sites such as listed buildings, biodiversity sites, and conversation areas. Updated monthly.
@@ -99,9 +84,9 @@ The indicative extent and position of local land charges (categorised as being w
 
 
 
-## INSPIRE Index Polygon
+## INSPIRE Index Polygons
 
-Boundaries of registered freeholds (not leaseholds). No title numbers or other attribution provided besides location. Updated monthly and served by local authority.
+Boundaries of registered freeholds (not leaseholds). Complies with the INSPIRE Directive. No title numbers or other attribution provided besides location. Each polygon has a unique INSPIRE ID linked to a title. Updated monthly. Updated monthly and served by local authority.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** 
