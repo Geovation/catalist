@@ -14,6 +14,7 @@ nav_order: 10
 | [National Polygon Service](#national-polygon-service)                                                   | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)                                                                                                      | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                                                        | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                                              |
 | [INSPIRE Index Polygons](#inspire-index-polygons)                                                       | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download)                                                                                                |                                                                                                                                                                       | [Docs link](https://www.gov.uk/guidance/inspire-index-polygons-spatial-data)                                                                     |
 | [Local Land Charges](#local-land-charges)                                                               | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/llc/download)                                                                                                    |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/llc)                                                                          |
+| [INSPIRE Index Polygon](#inspire-index-polygon)                                                         | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download#download)                                                                                       |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/inspire)                                                                      |
 | [Barbour ABI Planning Applications](#barbour-abi-planning-applications)                                 | Landmark                                            | Premium   | [Data link 1](https://www.landmark.co.uk/products/planning-api/planning-api-documentation/)                                                                                           |                                                                                                                                                                       | [Docs link](https://www.landmark.co.uk/products/planning-api)                                                                                    |
 | [UK Planning Data Platform](#uk-planning-data-platform)                                                 | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                                                                              |                                                                                                                                                                       | [Docs link](https://www.planning.data.gov.uk/docs)                                                                                               |
 | [Brownfield Land Points](#brownfield-land-points)                                                       | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/brownfield-land)                                                                                                               |                                                                                                                                                                       | [Docs link](https://design.planning.data.gov.uk/planning-consideration/brownfield-land)                                                          |
@@ -95,6 +96,20 @@ The indicative extent and position of local land charges (categorised as being w
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/llc/download)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/llc)
+
+
+
+## INSPIRE Index Polygon
+
+Boundaries of registered freeholds (not leaseholds). No title numbers or other attribution provided besides location. Updated monthly and served by local authority.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** 
+- **Provider:** HM Land Registry
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download#download)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/inspire)
 
 
 
