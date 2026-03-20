@@ -16,6 +16,8 @@ nav_order: 4
 | [HMLR UK Companies Data](#hmlr-uk-companies-data)                   | HM Land Registry                                   | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod)                                                                       | [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod)                                                                                            | [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)                                                                       |
 | [HMLR Price Paid Data](#hmlr-price-paid-data)                       | HM Land Registry                                   | Open      | [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)                                                     |                                                                                                                                                                       | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)                                                                                       |
 | [Local Land Charges](#local-land-charges)                           | HM Land Registry                                   | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/llc/download)                                                               |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/llc)                                                                                  |
+| [Zoopla Listings API](#zoopla-listings-api)                         | Hometrack                                          | Premium   | [Data link 1](https://data.hometrack.com/documentation/listings)                                                                                 | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                                                      | [Docs link](https://www.hometrack.com/data-services/property-listings-data-from-hometrack/)                                                              |
+| [Zoopla Comparables API](#zoopla-comparables-api)                   | Hometrack                                          | Premium   | [Data link 1](https://data.hometrack.com/documentation/comparables)                                                                              | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                                                      | [Docs link](https://www.hometrack.com/data-services/comparables-data-from-hometrack/)                                                                    |
 | [OS NGD Buildings Theme](#os-ngd-buildings-theme)                   | Ordnance Survey                                    | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                                 | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/buildings)                                                                                           |
 | [OS Open UPRN](#os-open-uprn)                                       | Ordnance Survey                                    | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenUPRN)                                                                                   | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature)                                                        | [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)                                                                                    |
 | [Overture Maps Buildings Layer](#overture-maps-buildings-layer)     | Overture Maps Foundation                           | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                                       | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/buildings/)                                                                                             |
@@ -119,6 +121,34 @@ The indicative extent and position of local land charges (categorised as being w
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/llc/download)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/llc)
+
+
+
+## Zoopla Listings API
+
+Details of Zoopla property sales and rental listings, including value, Zoopla URL, and images/content, based on an input UPRN.
+
+- **Category:** Buildings
+- **Secondary Category:** Addressing
+- **Provider:** Hometrack
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://data.hometrack.com/documentation/listings)
+- **Data link 2:** [Data link 2](https://www.hometrack.com/data-services/data-hub/)
+- **Docs link:** [Docs link](https://www.hometrack.com/data-services/property-listings-data-from-hometrack/)
+
+
+
+## Zoopla Comparables API
+
+Property details and comparables for Zoopla listings, both rental and sales. These cover property type, bedrooms, bathrooms, receptions, building age, floor space, property value, rental value, energy performance details, address, point location. For valuations, the information source is provided. Some properties do not include valuations. Data is searchable by UPRN, location, or comparables and attributes.
+
+- **Category:** Buildings
+- **Secondary Category:** Addressing
+- **Provider:** Hometrack
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://data.hometrack.com/documentation/comparables)
+- **Data link 2:** [Data link 2](https://www.hometrack.com/data-services/data-hub/)
+- **Docs link:** [Docs link](https://www.hometrack.com/data-services/comparables-data-from-hometrack/)
 
 
 

@@ -13,6 +13,8 @@ nav_order: 1
 | [Open Council Tax Address Lists](#open-council-tax-address-lists)                                     | Datadaptive             | Open      | [Data link 1](https://www.datadaptive.com/addr)                                                                             |                                                                                                                                   | [Docs link](https://www.owenboswarva.com/blog/)                                                                         |
 | [GetAddress APIs](#getaddress-apis)                                                                   | GetAddress              | Premium   | [Data link 1](https://documentation.getaddress.io)                                                                          | [Data link 2](https://admin.getaddress.io/account/sign-up)                                                                        | [Docs link](https://getaddress.io/)                                                                                     |
 | [HMLR Price Paid Data](#hmlr-price-paid-data)                                                         | HM Land Registry        | Open      | [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)                                |                                                                                                                                   | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)                                                      |
+| [Zoopla Listings API](#zoopla-listings-api)                                                           | Hometrack               | Premium   | [Data link 1](https://data.hometrack.com/documentation/listings)                                                            | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                  | [Docs link](https://www.hometrack.com/data-services/property-listings-data-from-hometrack/)                             |
+| [Zoopla Comparables API](#zoopla-comparables-api)                                                     | Hometrack               | Premium   | [Data link 1](https://data.hometrack.com/documentation/comparables)                                                         | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                  | [Docs link](https://www.hometrack.com/data-services/comparables-data-from-hometrack/)                                   |
 | [OS NGD Address Theme](#os-ngd-address-theme)                                                         | Ordnance Survey         | Premium   | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-places-api/technical-specification)                           | [Data link 2](https://www.ordnancesurvey.co.uk/products/os-gb-address)                                                            | [Docs link](https://docs.os.uk/osngd/data-structure/address)                                                            |
 | [OS Open UPRN](#os-open-uprn)                                                                         | Ordnance Survey         | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenUPRN)                                                              | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature)                    | [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)                                                   |
 | [OS Code-Point Open](#os-code-point-open)                                                             | Ordnance Survey         | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/CodePointOpen)                                                         | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/code-point-open)                                    |
@@ -74,6 +76,34 @@ The price paid for properties, and the completion date. Address included, but no
 - **Data link 1:** [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)
+
+
+
+## Zoopla Listings API
+
+Details of Zoopla property sales and rental listings, including value, Zoopla URL, and images/content, based on an input UPRN.
+
+- **Category:** Buildings
+- **Secondary Category:** Addressing
+- **Provider:** Hometrack
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://data.hometrack.com/documentation/listings)
+- **Data link 2:** [Data link 2](https://www.hometrack.com/data-services/data-hub/)
+- **Docs link:** [Docs link](https://www.hometrack.com/data-services/property-listings-data-from-hometrack/)
+
+
+
+## Zoopla Comparables API
+
+Property details and comparables for Zoopla listings, both rental and sales. These cover property type, bedrooms, bathrooms, receptions, building age, floor space, property value, rental value, energy performance details, address, point location. For valuations, the information source is provided. Some properties do not include valuations. Data is searchable by UPRN, location, or comparables and attributes.
+
+- **Category:** Buildings
+- **Secondary Category:** Addressing
+- **Provider:** Hometrack
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://data.hometrack.com/documentation/comparables)
+- **Data link 2:** [Data link 2](https://www.hometrack.com/data-services/data-hub/)
+- **Docs link:** [Docs link](https://www.hometrack.com/data-services/comparables-data-from-hometrack/)
 
 
 
