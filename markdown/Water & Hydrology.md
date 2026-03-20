@@ -40,7 +40,7 @@ Risk of flooding from rivers and the sea shows the chance of flooding from river
 The extents and locations of surface water catchment areas: designated sites designed to manage and balance the amount of nutrients, like nitrogen and phosphorus, that enter and leave a specific ecosystem.
 
 - **Category:** Water & Hydrology
-- **Secondary Category:** Soil
+- **Secondary Category:** Soil & Geology
 - **Provider:** Department for Environment, Food & Rural Affairs
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about)
