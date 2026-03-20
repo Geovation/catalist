@@ -126,7 +126,7 @@ The indicative extent and position of local land charges (categorised as being w
 
 ## Zoopla Listings API
 
-Details of Zoopla property sales and rental listings, including value, Zoopla URL, and images/content, based on an input UPRN.
+Details of Zoopla property sales and rental listings, including value, Zoopla URL, time on the market, and images/content, based on an input UPRN.
 
 - **Category:** Buildings
 - **Secondary Category:** Addressing

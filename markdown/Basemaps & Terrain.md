@@ -12,6 +12,7 @@ nav_order: 3
 | [BlueSky DSM](#bluesky-dsm)                               | BlueSky                      | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/lidar-dsm)                                                                                                                                               | [Data link 2](https://www.blueskymapshop.com/account/register)                                                                    | [Docs link](https://www.blueskymapshop.com/products/height-data)                                           |
 | [BlueSky DTM](#bluesky-dtm)                               | BlueSky                      | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/lidar-dtm)                                                                                                                                               | [Data link 2](https://www.blueskymapshop.com/account/register)                                                                    | [Docs link](https://www.blueskymapshop.com/products/height-data)                                           |
 | [Environment Agency LiDAR](#environment-agency-lidar)     | Environment Agency           | Open      | [Data link 1](https://environment.data.gov.uk/survey)                                                                                                                                                      |                                                                                                                                   | [Docs link](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) |
+| [Google Maps Tiles](#google-maps-tiles)                   | Google                       | Premium   | [Data link 1](https://developers.google.com/maps/documentation/tile)                                                                                                                                       |                                                                                                                                   | [Docs link](https://mapsplatform.google.com/intl/en_uk/maps-products/map-tiles/)                           |
 | [Historic OS Maps Catalogue](#historic-os-maps-catalogue) | National Library of Scotland | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                                                                                                                                                               |                                                                                                                                   | [Docs link](https://maps.nls.uk/os/)                                                                       |
 | [OpenStreetMap Raster Tiles](#openstreetmap-raster-tiles) | OpenStreetMap                | Open      | [Data link 1](https://operations.osmfoundation.org/policies/tiles/)                                                                                                                                        |                                                                                                                                   | [Docs link](https://wiki.openstreetmap.org/wiki/Raster_tiles)                                              |
 | [OS OpenMap - Local](#os-openmap---local)                 | Ordnance Survey              | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenMapLocal)                                                                                                                                         | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/contextual-or-derived-mapping/os-openmap-local)                |
@@ -60,6 +61,20 @@ nav_order: 3
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/survey)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme)
+
+
+
+## Google Maps Tiles
+
+Google maps background layers: Roadmap, Sattelite, Terrain. Also includes photorealistic 3D Mesh and Streetview layers.
+
+- **Category:** Basemaps & Terrain
+- **Secondary Category:** 
+- **Provider:** Google
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://developers.google.com/maps/documentation/tile)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://mapsplatform.google.com/intl/en_uk/maps-products/map-tiles/)
 
 
 
