@@ -11,8 +11,11 @@ nav_order: 6
 | ----------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | [Real-Time Location Estimates](#real-time-location-estimates)                 | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/location-insights/#getintouch)                                                                                          |                                                                     | [Docs link](https://developer.bt.com/products/real-time-location-insights)                                                 |
 | [Rail Insights](#rail-insights)                                               | BT                                                  | Premium   | [Data link 1](https://business.bt.com/iot/active-intelligence/journey-insights/#getintouch)                                                                                           |                                                                     | [Docs link](https://developer.bt.com/products/rail-network-api)                                                            |
+| [Church of England Church Footprints](#church-of-england-church-footprints)   | Church of England                                   | Open      | [Data link 1](https://www.arcgis.com/apps/mapviewer/index.html?layers=f0334de1c2b24f6ab588561e6302154e)                                                                               |                                                                     | [Docs link](https://www.arcgis.com/home/item.html?id=f0334de1c2b24f6ab588561e6302154e)                                     |
 | [Explore Education Statistics](#explore-education-statistics)                 | Department for Education                            | Open      | [Data link 1](https://explore-education-statistics.service.gov.uk/data-catalogue)                                                                                                     | [Data link 2](https://api.education.gov.uk/statistics/docs/)        | [Docs link](https://explore-education-statistics.service.gov.uk/methodology)                                               |
 | [Get Information about Schools](#get-information-about-schools)               | Department for Education                            | Open      | [Data link 1](https://get-information-schools.service.gov.uk/Downloads)                                                                                                               |                                                                     | [Docs link](https://get-information-schools.service.gov.uk/help)                                                           |
+| [Output Area Classification](#output-area-classification)                     | Geographic Data Service                             | Open      | [Data link 1](https://data.geods.ac.uk/dataset/output-area-classification-2021)                                                                                                       |                                                                     | [Docs link](https://github.com/GeographicDataService/Output_Area_Classification)                                           |
+| [Places of Worshop](#places-of-worshop)                                       | HM Passport Office                                  | Open      | [Data link 1](https://www.data.gov.uk/dataset/143fdbae-daae-45b1-b970-061dcaaf109f/places-of-worship)                                                                                 |                                                                     | [Docs link](https://www.gov.uk/government/publications/places-of-worship-registered-for-marriage)                          |
 | [Airbnb Listings](#airbnb-listings)                                           | InsideAirbnb                                        | Open      | [Data link 1](https://insideairbnb.com/get-the-data)                                                                                                                                  |                                                                     | [Docs link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit)                      |
 | [MHCLG Open Data](#mhclg-open-data)                                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)                                                   | [Data link 2](https://opendatacommunities.org/help?tab=api)         | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
 | [Indices of Multiple Deprivation 2025](#indices-of-multiple-deprivation-2025) | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025#documents)                                                                                 |                                                                     | [Docs link](https://assets.publishing.service.gov.uk/media/68ff59c80f801e57b5bef907/ID_2025_Technical_Report.pdf)          |
@@ -50,6 +53,20 @@ Various insights into rail demographics and statistics: passenger volumes, stati
 
 
 
+## Church of England Church Footprints
+
+Church of England church building footprints, addresses, UPRNs, listed building status, and some accessibility information. Only includes active churches with congregations, and includes some chapels, Fresh Expressions and Bishops Mission Orders. Also includes congregations which meet in non-church buildings.
+
+- **Category:** Demographics
+- **Secondary Category:** History
+- **Provider:** Church of England
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.arcgis.com/apps/mapviewer/index.html?layers=f0334de1c2b24f6ab588561e6302154e)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.arcgis.com/home/item.html?id=f0334de1c2b24f6ab588561e6302154e)
+
+
+
 ## Explore Education Statistics
 
 Various statistics about schools at the school level, and aggregated to various units. Statistics cover various themes including outcomes/performance, workforce, absence, capacity, exclusion, SEN, destinations, attainment. Some data is available by API. Historic data exists from around 2021. School locations are not included in the datasets (except for addresses). However, location can be found by joining via URN to Get Informations About Schools.
@@ -75,6 +92,34 @@ Administritive information about schools. Together, the datasets provide address
 - **Data link 1:** [Data link 1](https://get-information-schools.service.gov.uk/Downloads)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://get-information-schools.service.gov.uk/help)
+
+
+
+## Output Area Classification
+
+Hierarchical Output Area-level geodemographic classification across the UK which identifies areas of the country with similar characteristics. Broken down into three tiers, with about 50 categories at the lowest level.
+
+- **Category:** Demographics
+- **Secondary Category:** Land & Land Use
+- **Provider:** Geographic Data Service
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://data.geods.ac.uk/dataset/output-area-classification-2021)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://github.com/GeographicDataService/Output_Area_Classification)
+
+
+
+## Places of Worshop
+
+Addresses of non-Church-of-England places of worship registered for weddings. No geolocation includes, but includes address and religion/denomination information.
+
+- **Category:** Demographics
+- **Secondary Category:** History
+- **Provider:** HM Passport Office
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.data.gov.uk/dataset/143fdbae-daae-45b1-b970-061dcaaf109f/places-of-worship)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.gov.uk/government/publications/places-of-worship-registered-for-marriage)
 
 
 

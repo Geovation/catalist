@@ -20,7 +20,7 @@ nav_order: 3
 | [OS Maps API](#os-maps-api)                               | Ordnance Survey              | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-maps-api)                                                                                                                                       | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api/technical-specification#api-reference)                     | [Docs link](https://docs.os.uk/os-apis/accessing-os-apis/os-maps-api)                                      |
 | [OS NGD API - Tiles](#os-ngd-api---tiles)                 | Ordnance Survey              | Premium   | [Data link 1](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-tiles/technical-specification/tiles#get-collections-collectionid-tiles-tilematrixsetid-tilematrix-tilerow-tilecol) |                                                                                                                                   | [Docs link](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-tiles)               |
 | [OS Net API](#os-net-api)                                 | Ordnance Survey              | Open      | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-net-api/technical-specification#os-net-api)                                                                                                  | [Data link 2](https://osdatahub.os.uk/data/positioning/osnet/direct)                                                              | [Docs link](https://www.ordnancesurvey.co.uk/geodesy-positioning/os-net)                                   |
-| [Vexcel: Elevate](#vexcel:-elevate)                       | Vexcel                       | Premium   | [Data link 1](https://vexceldata.com/platform/evaluations/)                                                                                                                                                | [Data link 2](https://vexceldata.com/request-a-demo/)                                                                             | [Docs link](https://vexceldata.com/products/digital-surface-models/)                                       |
+| [Vexcel - Elevate](#vexcel---elevate)                     | Vexcel                       | Premium   | [Data link 1](https://vexceldata.com/platform/evaluations/)                                                                                                                                                | [Data link 2](https://vexceldata.com/request-a-demo/)                                                                             | [Docs link](https://vexceldata.com/products/digital-surface-models/)                                       |
 
 ## BlueSky DSM
 
@@ -176,7 +176,7 @@ Centimeter-level precision GNSS (Global Navigation Satellite System) data across
 
 
 
-## Vexcel: Elevate
+## Vexcel - Elevate
 
 DSM and DTM layers derived from Vexcel's imagery. DTM available at 15-20cm resolution. DSM available at 7.5cm resolution for urban areas and 15-20cm elsewhere.
 

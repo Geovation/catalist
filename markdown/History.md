@@ -11,7 +11,9 @@ nav_order: 9
 | ------------------------------------------------------------------------------------------------------- | ---------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Lost Habitats](#lost-habitats)                                                                         | ArchAI                       | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                        |                                                                                                                                                                       | [Docs link](https://www.archai.io/historichabitats)                                                                                              |
 | [Lost Boundaries](#lost-boundaries)                                                                     | ArchAI                       | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                        |                                                                                                                                                                       | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                                       |
+| [Church of England Church Footprints](#church-of-england-church-footprints)                             | Church of England            | Open      | [Data link 1](https://www.arcgis.com/apps/mapviewer/index.html?layers=f0334de1c2b24f6ab588561e6302154e)                                             |                                                                                                                                                                       | [Docs link](https://www.arcgis.com/home/item.html?id=f0334de1c2b24f6ab588561e6302154e)                                                           |
 | [Listed Buildings & Sites](#listed-buildings-&-sites)                                                   | Historic England             | Open      | [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)    |                                                                                                                                                                       | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)     |
+| [Places of Worshop](#places-of-worshop)                                                                 | HM Passport Office           | Open      | [Data link 1](https://www.data.gov.uk/dataset/143fdbae-daae-45b1-b970-061dcaaf109f/places-of-worship)                                               |                                                                                                                                                                       | [Docs link](https://www.gov.uk/government/publications/places-of-worship-registered-for-marriage)                                                |
 | [Historic OS Maps Catalogue](#historic-os-maps-catalogue)                                               | National Library of Scotland | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                                                                                                        |                                                                                                                                                                       | [Docs link](https://maps.nls.uk/os/)                                                                                                             |
 | [National Historic Landscape Characterisation Grid](#national-historic-landscape-characterisation-grid) | Natural England              | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/national-historic-landscape-characterisation-250m-grid-england/explore)     | [Data link 2](https://environment.data.gov.uk/geoservices/datasets/e417a184-9ec0-4664-a257-d2f123571574/ogc/features/v1/openapi#/Data)                                | [Docs link](https://www.data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7b819205002/national-historic-landscape-characterisation-250m-grid-england) |
 | [OS NGD Geographical Names Theme](#os-ngd-geographical-names-theme)                                     | Ordnance Survey              | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)                                                                          | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)                                                                          |
@@ -46,6 +48,20 @@ Historic field boundaries, categories when known, from the last 200 years, infer
 
 
 
+## Church of England Church Footprints
+
+Church of England church building footprints, addresses, UPRNs, listed building status, and some accessibility information. Only includes active churches with congregations, and includes some chapels, Fresh Expressions and Bishops Mission Orders. Also includes congregations which meet in non-church buildings.
+
+- **Category:** Demographics
+- **Secondary Category:** History
+- **Provider:** Church of England
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.arcgis.com/apps/mapviewer/index.html?layers=f0334de1c2b24f6ab588561e6302154e)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.arcgis.com/home/item.html?id=f0334de1c2b24f6ab588561e6302154e)
+
+
+
 ## Listed Buildings & Sites
 
 Official, up to date, register of all nationally protected historic buildings and sites in England - listed buildings, scheduled monuments, protected wrecks, registered parks and gardens, and battlefields. Updated daily.
@@ -57,6 +73,20 @@ Official, up to date, register of all nationally protected historic buildings an
 - **Data link 1:** [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)
+
+
+
+## Places of Worshop
+
+Addresses of non-Church-of-England places of worship registered for weddings. No geolocation includes, but includes address and religion/denomination information.
+
+- **Category:** Demographics
+- **Secondary Category:** History
+- **Provider:** HM Passport Office
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.data.gov.uk/dataset/143fdbae-daae-45b1-b970-061dcaaf109f/places-of-worship)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.gov.uk/government/publications/places-of-worship-registered-for-marriage)
 
 
 

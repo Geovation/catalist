@@ -16,7 +16,7 @@ nav_order: 14
 | [Pixxel Hyperspectral Imagery](#pixxel-hyperspectral-imagery)       | Pixxel                | Premium   | [Data link 1](https://www.pixxel.space/hyperspectral-imagery)                                                                          | [Data link 2](https://docs.pixxel.space/api-reference/introduction)                                  | [Docs link](https://support.pixxel.space/hc/en-us/articles/9588039261724-Pixxel-Product-Specifications-Guide) |
 | [PlanetScope - Planet Monitoring](#planetscope---planet-monitoring) | Planet                | Premium   | [Data link 1](https://www.planet.com/products/satellite-monitoring/)                                                                   | [Data link 2](https://docs.planet.com/develop/apis/data/)                                            | [Docs link](https://docs.planet.com/data/imagery/planetscope/)                                                |
 | [SkySat - Planet Tasking](#skysat---planet-tasking)                 | Planet                | Premium   | [Data link 1](https://www.planet.com/products/high-resolution-satellite-imagery/)                                                      | [Data link 2](https://docs.planet.com/develop/apis/data/)                                            | [Docs link](https://docs.planet.com/data/imagery/skysat/)                                                     |
-| [Vantor: WorldView](#vantor:-worldview)                             | Vantor                | Premium   | [Data link 1](https://vantor.com/get-started/)                                                                                         | [Data link 2](https://vantor.com/partner-directory/)                                                 | [Docs link](https://vantor.com/product/worldview)                                                             |
+| [Vantor - WorldView](#vantor---worldview)                           | Vantor                | Premium   | [Data link 1](https://vantor.com/get-started/)                                                                                         | [Data link 2](https://vantor.com/partner-directory/)                                                 | [Docs link](https://vantor.com/product/worldview)                                                             |
 | [Vexcel Oblique Imagery](#vexcel-oblique-imagery)                   | Vexcel                | Premium   | [Data link 1](https://vexceldata.com/platform/evaluations/)                                                                            | [Data link 2](https://vexceldata.com/request-a-demo/)                                                | [Docs link](https://vexceldata.com/products/oblique-imagery/)                                                 |
 | [Vexcel Orthomosaic Imagery](#vexcel-orthomosaic-imagery)           | Vexcel                | Premium   | [Data link 1](https://vexceldata.com/platform/evaluations/)                                                                            | [Data link 2](https://vexceldata.com/request-a-demo/)                                                | [Docs link](https://vexceldata.com/products/orthomosaic-imagery/)                                             |
 
@@ -36,7 +36,7 @@ nav_order: 14
 
 ## BlueSky Imagery
 
-12.5cm aerial imagery on 2-year update programme.
+12.5cm aerial imagery on 2-year update programme. ± 50cm accuracy.
 
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
@@ -118,7 +118,7 @@ High-resolution imagery captured by a fleet of satellites, updated up to 10 time
 
 
 
-## Vantor: WorldView
+## Vantor - WorldView
 
 Sub-daily 30cm resolution global satellite imagery, with capacity for higher resolution.
 
