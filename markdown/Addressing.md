@@ -13,6 +13,7 @@ nav_order: 1
 | [Open Council Tax Address Lists](#open-council-tax-address-lists)                                     | Datadaptive             | Open      | [Data link 1](https://www.datadaptive.com/addr)                                                                             |                                                                                                                                   | [Docs link](https://www.owenboswarva.com/blog/)                                                                         |
 | [GetAddress APIs](#getaddress-apis)                                                                   | GetAddress              | Premium   | [Data link 1](https://documentation.getaddress.io)                                                                          | [Data link 2](https://admin.getaddress.io/account/sign-up)                                                                        | [Docs link](https://getaddress.io/)                                                                                     |
 | [HMLR Price Paid Data](#hmlr-price-paid-data)                                                         | HM Land Registry        | Open      | [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)                                |                                                                                                                                   | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)                                                      |
+| [Registered Leases](#registered-leases)                                                               | HM Land Registry        | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/leases#access)                                         | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                    | [Docs link](https://use-land-property-data.service.gov.uk/datasets/leases/tech-spec)                                    |
 | [Zoopla Listings API](#zoopla-listings-api)                                                           | Hometrack               | Premium   | [Data link 1](https://data.hometrack.com/documentation/listings)                                                            | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                  | [Docs link](https://www.hometrack.com/data-services/property-listings-data-from-hometrack/)                             |
 | [Zoopla Comparables API](#zoopla-comparables-api)                                                     | Hometrack               | Premium   | [Data link 1](https://data.hometrack.com/documentation/comparables)                                                         | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                  | [Docs link](https://www.hometrack.com/data-services/comparables-data-from-hometrack/)                                   |
 | [OS NGD Address Theme](#os-ngd-address-theme)                                                         | Ordnance Survey         | Premium   | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-places-api/technical-specification)                           | [Data link 2](https://www.ordnancesurvey.co.uk/products/os-gb-address)                                                            | [Docs link](https://docs.os.uk/osngd/data-structure/address)                                                            |
@@ -20,6 +21,7 @@ nav_order: 1
 | [OS Code-Point Open](#os-code-point-open)                                                             | Ordnance Survey         | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/CodePointOpen)                                                         | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product) | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/code-point-open)                                    |
 | [OS Code-Point with Polygons](#os-code-point-with-polygons)                                           | Ordnance Survey         | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/code-point-polygons#get)                                            |                                                                                                                                   | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/code-point-with-polygons)                           |
 | [OS Linked Identifiers](#os-linked-identifiers)                                                       | Ordnance Survey         | Open      | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-linked-identifiers-api/technical-specification#api-reference) | [Data link 2](https://osdatahub.os.uk/data/downloads/open/LIDS)                                                                   | [Docs link](https://docs.os.uk/os-downloads/products/buildings-and-infrastructure-portfolio/os-open-linked-identifiers) |
+| [PropertyData Title Registers](#propertydata-title-registers)                                         | PropertyData            | Premium   | [Data link 1](https://propertydata.co.uk/api/pricing?x=api_docs)                                                            |                                                                                                                                   | [Docs link](https://propertydata.co.uk/api/documentation/land-registry-documents)                                       |
 | [Rightmove Property Data](#rightmove-property-data)                                                   | Rightmove               | Premium   | [Data link 1](https://www.rightmove.co.uk/property-data/)                                                                   |                                                                                                                                   | [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/)                                        |
 | [Verisk UKBuildings](#verisk-ukbuildings)                                                             | Verisk                  | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                                                           | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                             | [Docs link](https://www.verisk.com/en-gb/products/ukbuildings)                                                          |
 
@@ -76,6 +78,20 @@ The price paid for properties, and the completion date. Address included, but no
 - **Data link 1:** [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)
+
+
+
+## Registered Leases
+
+Leases of more than seven years in England and Wales. Includes dates and terms, UPRN, price paid, registration order (for multi-lease titles), though these attributes are not always present. No geometries provided, but includes associated property descriptions eg. "LAND TO THE EAST OF 63 GRANBY GLEBE AVENUE, NE3 4FR". Updated monthly.
+
+- **Category:** Addressing
+- **Secondary Category:** Buildings
+- **Provider:** HM Land Registry
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/leases#access)
+- **Data link 2:** [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)
+- **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/leases/tech-spec)
 
 
 
@@ -174,6 +190,20 @@ Authoritative relationships between Unique Property Reference Numbers (UPRNs), U
 - **Data link 1:** [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-linked-identifiers-api/technical-specification#api-reference)
 - **Data link 2:** [Data link 2](https://osdatahub.os.uk/data/downloads/open/LIDS)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/products/buildings-and-infrastructure-portfolio/os-open-linked-identifiers)
+
+
+
+## PropertyData Title Registers
+
+Supplies official copies of title registers and/or title plans. A streamlined wrapper around HMLR's document access API. A document URL is supplied with the response which can be used to download the files.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Addressing
+- **Provider:** PropertyData
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://propertydata.co.uk/api/pricing?x=api_docs)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://propertydata.co.uk/api/documentation/land-registry-documents)
 
 
 

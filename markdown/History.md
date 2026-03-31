@@ -13,10 +13,11 @@ nav_order: 9
 | [Lost Boundaries](#lost-boundaries)                                                                     | ArchAI                       | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                        |                                                                                                                                                                       | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                                       |
 | [Church of England Church Footprints](#church-of-england-church-footprints)                             | Church of England            | Open      | [Data link 1](https://www.arcgis.com/apps/mapviewer/index.html?layers=f0334de1c2b24f6ab588561e6302154e)                                             |                                                                                                                                                                       | [Docs link](https://www.arcgis.com/home/item.html?id=f0334de1c2b24f6ab588561e6302154e)                                                           |
 | [Listed Buildings & Sites](#listed-buildings-&-sites)                                                   | Historic England             | Open      | [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3)    |                                                                                                                                                                       | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)     |
-| [Places of Worshop](#places-of-worshop)                                                                 | HM Passport Office           | Open      | [Data link 1](https://www.data.gov.uk/dataset/143fdbae-daae-45b1-b970-061dcaaf109f/places-of-worship)                                               |                                                                                                                                                                       | [Docs link](https://www.gov.uk/government/publications/places-of-worship-registered-for-marriage)                                                |
+| [Places of Worship (non-CofE)](#places-of-worship-(non-cofe))                                           | HM Passport Office           | Open      | [Data link 1](https://www.data.gov.uk/dataset/143fdbae-daae-45b1-b970-061dcaaf109f/places-of-worship)                                               |                                                                                                                                                                       | [Docs link](https://www.gov.uk/government/publications/places-of-worship-registered-for-marriage)                                                |
 | [Historic OS Maps Catalogue](#historic-os-maps-catalogue)                                               | National Library of Scotland | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                                                                                                        |                                                                                                                                                                       | [Docs link](https://maps.nls.uk/os/)                                                                                                             |
 | [National Historic Landscape Characterisation Grid](#national-historic-landscape-characterisation-grid) | Natural England              | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/national-historic-landscape-characterisation-250m-grid-england/explore)     | [Data link 2](https://environment.data.gov.uk/geoservices/datasets/e417a184-9ec0-4664-a257-d2f123571574/ogc/features/v1/openapi#/Data)                                | [Docs link](https://www.data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7b819205002/national-historic-landscape-characterisation-250m-grid-england) |
 | [OS NGD Geographical Names Theme](#os-ngd-geographical-names-theme)                                     | Ordnance Survey              | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)                                                                          | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)                                                                          |
+| [Historic OS Features](#historic-os-features)                                                           | Ordnance Survey              | Premium   | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature#get-wfs-archive-year)                 |                                                                                                                                                                       | [Docs link](https://www.ordnancesurvey.co.uk/products/os-features-api)                                                                           |
 | [Ancient Tree Inventory](#ancient-tree-inventory)                                                       | Woodland Trust               | Open      | [Data link 1](https://opendata-woodlandtrust.hub.arcgis.com/datasets/9d2d13b04d654ceb9ba6e0697c1e0c29_0/explore?location=53.745564%2C-2.834680%2C7) |                                                                                                                                                                       | [Docs link](https://ati.woodlandtrust.org.uk/)                                                                                                   |
 | [X API](#x-api)                                                                                         | X                            | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                                                                          |                                                                                                                                                                       | [Docs link](https://docs.x.com/x-api/introduction)                                                                                               |
 
@@ -76,7 +77,7 @@ Official, up to date, register of all nationally protected historic buildings an
 
 
 
-## Places of Worshop
+## Places of Worship (non-CofE)
 
 Addresses of non-Church-of-England places of worship registered for weddings. No geolocation includes, but includes address and religion/denomination information.
 
@@ -129,6 +130,20 @@ the most current and comprehensive list of vernacular names of features and plac
 - **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)
 - **Data link 2:** [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items)
 - **Docs link:** [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)
+
+
+
+## Historic OS Features
+
+Yearly snapshots of OS features going back to 2004. These cover buildings, land, paths, water, structures, admin boundaries, and transport features and networks. Less attribution than current buildings.
+
+- **Category:** History
+- **Secondary Category:** Buildings
+- **Provider:** Ordnance Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature#get-wfs-archive-year)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.ordnancesurvey.co.uk/products/os-features-api)
 
 
 

@@ -15,8 +15,10 @@ nav_order: 10
 | [National Polygon Service](#national-polygon-service)                                                   | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)                                                                                                      | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                                                        | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                                              |
 | [Local Land Charges](#local-land-charges)                                                               | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/llc/download)                                                                                                    |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/llc)                                                                          |
 | [INSPIRE Index Polygons](#inspire-index-polygons)                                                       | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download#download)                                                                                       |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/inspire)                                                                      |
+| [Restrictive Covenants](#restrictive-covenants)                                                         | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/res_cov#access)                                                                                                  | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                                                        | [Docs link](https://use-land-property-data.service.gov.uk/datasets/res_cov/tech-spec)                                                            |
 | [NATMAP Vector](#natmap-vector)                                                                         | LandIS - Cranfield University                       | Premium   | [Data link 1](https://www.landis.org.uk/contact/)                                                                                                                                     |                                                                                                                                                                       | [Docs link](https://www.landis.org.uk/data/nmvector.cfm)                                                                                         |
 | [Barbour ABI Planning Applications](#barbour-abi-planning-applications)                                 | Landmark                                            | Premium   | [Data link 1](https://www.landmark.co.uk/products/planning-api/planning-api-documentation/)                                                                                           |                                                                                                                                                                       | [Docs link](https://www.landmark.co.uk/products/planning-api)                                                                                    |
+| [LandTech Planning Applications](#landtech-planning-applications)                                       | LandTech                                            | Premium   | [Data link 1](https://developers.land.tech/openapi/planning-applications)                                                                                                             |                                                                                                                                                                       | [Docs link](https://land.tech/landtech-datasets#planning-applications-data)                                                                      |
 | [UK Planning Data Platform](#uk-planning-data-platform)                                                 | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                                                                              |                                                                                                                                                                       | [Docs link](https://www.planning.data.gov.uk/docs)                                                                                               |
 | [Brownfield Land Points](#brownfield-land-points)                                                       | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/brownfield-land)                                                                                                               |                                                                                                                                                                       | [Docs link](https://design.planning.data.gov.uk/planning-consideration/brownfield-land)                                                          |
 | [Sites of Special Scientific Interest](#sites-of-special-scientific-interest)                           | Natural England                                     | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)                                                  | [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1)                                               | [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about)                 |
@@ -25,8 +27,10 @@ nav_order: 10
 | [OS Open Greenspace](#os-open-greenspace)                                                               | Ordnance Survey                                     | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace)                                                                                                                  | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)                                     | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)                                                                       |
 | [OS NGD Land Use Theme](#os-ngd-land-use-theme)                                                         | Ordnance Survey                                     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-land-use-features)                                                                                                         | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/land-use)                                                                                    |
 | [Overture Maps Base Layer](#overture-maps-base-layer)                                                   | Overture Maps Foundation                            | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                                                                            | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                                          |
-| [Planning Applications](#planning-applications)                                                         | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                                                                            |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                                             |
+| [PropertyData Title Registers](#propertydata-title-registers)                                           | PropertyData                                        | Premium   | [Data link 1](https://propertydata.co.uk/api/pricing?x=api_docs)                                                                                                                      |                                                                                                                                                                       | [Docs link](https://propertydata.co.uk/api/documentation/land-registry-documents)                                                                |
+| [Searchland Planning Applications](#searchland-planning-applications)                                   | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                                                                            |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                                             |
 | [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)                             | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                                                                 |
+| [Searchland HMOs](#searchland-hmos)                                                                     | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/HMO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/hmo)                                                                                               |
 | ["Spatial Signatures"](#"spatial-signatures")                                                           | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures)                                                                                                   | [Docs link](https://urbangrammarai.xyz/story/)                                                                                                   |
 | [Verisk UKLand](#verisk-ukland)                                                                         | Verisk                                              | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                                                                                                                     | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                                                                 | [Docs link](https://www.verisk.com/en-gb/products/ukland)                                                                                        |
 
@@ -114,6 +118,20 @@ Boundaries of registered freeholds (not leaseholds). Complies with the INSPIRE D
 
 
 
+## Restrictive Covenants
+
+Records of restrictive covenants between two properties. Does not include the details of what the restriction is, but includes tenure information. No geometries provided, but includes associated property descriptions eg. "LAND TO THE EAST OF 63 GRANBY GLEBE AVENUE, NE3 4FR". Updated monthly.
+
+- **Category:** Buildings
+- **Secondary Category:** Land & Land Use
+- **Provider:** HM Land Registry
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/res_cov#access)
+- **Data link 2:** [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)
+- **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/res_cov/tech-spec)
+
+
+
 ## NATMAP Vector
 
 1:250K scale map of England and Wales from ~300 soil associations. Detailed soil information and related information such as topsoil, subsoils, available water, drainage, and carbon. Includes some geological and land use descriptions. This is LANDIS's principle soil dataset, which is derived into simpler datasets such as NATMAP Soilscapes NATMAP 1000, and NATMAP Carbon. 
@@ -139,6 +157,20 @@ A comprehensive collection os planning applications, decisions and, other notice
 - **Data link 1:** [Data link 1](https://www.landmark.co.uk/products/planning-api/planning-api-documentation/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.landmark.co.uk/products/planning-api)
+
+
+
+## LandTech Planning Applications
+
+Large compilation of planning applications published by local councils. Data includes application type, key dates, decision/stage, and appeals information sourced from the Planning Inspectorate Appeals Database.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Buildings
+- **Provider:** LandTech
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://developers.land.tech/openapi/planning-applications)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://land.tech/landtech-datasets#planning-applications-data)
 
 
 
@@ -254,7 +286,21 @@ Structures (bridges, comms towers etc.), water, land cover, and land use data. C
 
 
 
-## Planning Applications
+## PropertyData Title Registers
+
+Supplies official copies of title registers and/or title plans. A streamlined wrapper around HMLR's document access API. A document URL is supplied with the response which can be used to download the files.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Addressing
+- **Provider:** PropertyData
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://propertydata.co.uk/api/pricing?x=api_docs)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://propertydata.co.uk/api/documentation/land-registry-documents)
+
+
+
+## Searchland Planning Applications
 
 Large compilation of planning applications published by local councils since 1990 until the present. Data includes application type, key dates, decision/stage, the assigned case officer, and associated documents.
 
@@ -279,6 +325,20 @@ A near-complete compiled dataset for Tree Preservation orders, including invidiv
 - **Data link 1:** [Data link 1](https://docs.searchland.co.uk/#tag/TPO)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://searchland.co.uk/blog/tree-protection-order)
+
+
+
+## Searchland HMOs
+
+Compiled dataset of Houses of Multiple occupation cross local authorities in England and Wales. Includes license holders and durations and property details including numbers of types of rooms.
+
+- **Category:** Demographics
+- **Secondary Category:** Land & Land Use
+- **Provider:** Searchland
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://docs.searchland.co.uk/#tag/HMO)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://searchland.co.uk/our-apis/hmo)
 
 
 

@@ -120,7 +120,7 @@ High-resolution imagery captured by a fleet of satellites, updated up to 10 time
 
 ## Vantor - WorldView
 
-Sub-daily 30cm resolution global satellite imagery, with capacity for higher resolution.
+Sub-daily 30cm resolution global satellite imagery, with capacity for higher resolution. Formerly known as 'Maxar'.
 
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 

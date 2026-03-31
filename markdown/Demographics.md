@@ -15,12 +15,13 @@ nav_order: 6
 | [Explore Education Statistics](#explore-education-statistics)                 | Department for Education                            | Open      | [Data link 1](https://explore-education-statistics.service.gov.uk/data-catalogue)                                                                                                     | [Data link 2](https://api.education.gov.uk/statistics/docs/)        | [Docs link](https://explore-education-statistics.service.gov.uk/methodology)                                               |
 | [Get Information about Schools](#get-information-about-schools)               | Department for Education                            | Open      | [Data link 1](https://get-information-schools.service.gov.uk/Downloads)                                                                                                               |                                                                     | [Docs link](https://get-information-schools.service.gov.uk/help)                                                           |
 | [Output Area Classification](#output-area-classification)                     | Geographic Data Service                             | Open      | [Data link 1](https://data.geods.ac.uk/dataset/output-area-classification-2021)                                                                                                       |                                                                     | [Docs link](https://github.com/GeographicDataService/Output_Area_Classification)                                           |
-| [Places of Worshop](#places-of-worshop)                                       | HM Passport Office                                  | Open      | [Data link 1](https://www.data.gov.uk/dataset/143fdbae-daae-45b1-b970-061dcaaf109f/places-of-worship)                                                                                 |                                                                     | [Docs link](https://www.gov.uk/government/publications/places-of-worship-registered-for-marriage)                          |
+| [Places of Worship (non-CofE)](#places-of-worship-(non-cofe))                 | HM Passport Office                                  | Open      | [Data link 1](https://www.data.gov.uk/dataset/143fdbae-daae-45b1-b970-061dcaaf109f/places-of-worship)                                                                                 |                                                                     | [Docs link](https://www.gov.uk/government/publications/places-of-worship-registered-for-marriage)                          |
 | [Airbnb Listings](#airbnb-listings)                                           | InsideAirbnb                                        | Open      | [Data link 1](https://insideairbnb.com/get-the-data)                                                                                                                                  |                                                                     | [Docs link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit)                      |
 | [MHCLG Open Data](#mhclg-open-data)                                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)                                                   | [Data link 2](https://opendatacommunities.org/help?tab=api)         | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
 | [Indices of Multiple Deprivation 2025](#indices-of-multiple-deprivation-2025) | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025#documents)                                                                                 |                                                                     | [Docs link](https://assets.publishing.service.gov.uk/media/68ff59c80f801e57b5bef907/ID_2025_Technical_Report.pdf)          |
 | [2021 Census Statistics](#2021-census-statistics)                             | Office for National Statistics                      | Open      | [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)                                                                                                                     | [Data link 2](https://www.nomisweb.co.uk/api/v01/help)              | [Docs link](https://www.ons.gov.uk/census/census2021dictionary)                                                            |
 | [Police Indicents and Arrests](#police-indicents-and-arrests)                 | Police UK                                           | Open      | [Data link 1](https://data.police.uk/data/)                                                                                                                                           | [Data link 2](https://data.police.uk/docs/)                         | [Docs link](https://data.police.uk/about/)                                                                                 |
+| [Searchland HMOs](#searchland-hmos)                                           | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/HMO)                                                                                                                                 |                                                                     | [Docs link](https://searchland.co.uk/our-apis/hmo)                                                                         |
 | ["Spatial Signatures"](#"spatial-signatures")                                 | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures) | [Docs link](https://urbangrammarai.xyz/story/)                                                                             |
 
 ## Real-Time Location Estimates
@@ -109,7 +110,7 @@ Hierarchical Output Area-level geodemographic classification across the UK which
 
 
 
-## Places of Worshop
+## Places of Worship (non-CofE)
 
 Addresses of non-Church-of-England places of worship registered for weddings. No geolocation includes, but includes address and religion/denomination information.
 
@@ -190,6 +191,20 @@ Various data about crimes and policing, including details, approximate location,
 - **Data link 1:** [Data link 1](https://data.police.uk/data/)
 - **Data link 2:** [Data link 2](https://data.police.uk/docs/)
 - **Docs link:** [Docs link](https://data.police.uk/about/)
+
+
+
+## Searchland HMOs
+
+Compiled dataset of Houses of Multiple occupation cross local authorities in England and Wales. Includes license holders and durations and property details including numbers of types of rooms.
+
+- **Category:** Demographics
+- **Secondary Category:** Land & Land Use
+- **Provider:** Searchland
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://docs.searchland.co.uk/#tag/HMO)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://searchland.co.uk/our-apis/hmo)
 
 
 
