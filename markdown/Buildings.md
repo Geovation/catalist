@@ -21,6 +21,7 @@ nav_order: 4
 | [Zoopla Listings API](#zoopla-listings-api)                           | Hometrack                                          | Premium   | [Data link 1](https://data.hometrack.com/documentation/listings)                                                                                 | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                                                      | [Docs link](https://www.hometrack.com/data-services/property-listings-data-from-hometrack/)                                                              |
 | [Zoopla Comparables API](#zoopla-comparables-api)                     | Hometrack                                          | Premium   | [Data link 1](https://data.hometrack.com/documentation/comparables)                                                                              | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                                                      | [Docs link](https://www.hometrack.com/data-services/comparables-data-from-hometrack/)                                                                    |
 | [LandTech Planning Applications](#landtech-planning-applications)     | LandTech                                           | Premium   | [Data link 1](https://developers.land.tech/openapi/planning-applications)                                                                        |                                                                                                                                                                       | [Docs link](https://land.tech/landtech-datasets#planning-applications-data)                                                                              |
+| [Broadband Coverage & Performance](#broadband-coverage-&-performance) | Ofcom                                              | Open      | [Data link 1](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252/data-downloads-2025)                     | [Data link 2](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252)                                                              | [Docs link](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252)                                                   |
 | [OS NGD Buildings Theme](#os-ngd-buildings-theme)                     | Ordnance Survey                                    | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                                 | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/buildings)                                                                                           |
 | [OS Open UPRN](#os-open-uprn)                                         | Ordnance Survey                                    | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenUPRN)                                                                                   | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature)                                                        | [Docs link](https://docs.os.uk/os-downloads/identifiers/os-open-uprn)                                                                                    |
 | [Historic OS Features](#historic-os-features)                         | Ordnance Survey                                    | Premium   | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature#get-wfs-archive-year)              |                                                                                                                                                                       | [Docs link](https://www.ordnancesurvey.co.uk/products/os-features-api)                                                                                   |
@@ -195,6 +196,20 @@ Large compilation of planning applications published by local councils. Data inc
 - **Data link 1:** [Data link 1](https://developers.land.tech/openapi/planning-applications)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://land.tech/landtech-datasets#planning-applications-data)
+
+
+
+## Broadband Coverage & Performance
+
+Statistics on broadband coverage and speed. Coverage is provided a postcode and higher levels, and includes percentages at various download speeds, super-fast and ultra-fast coverage, full-fibre take-up, Universal Service Obligation, Next Generation Access, and fixed wireless access. Performance is provided at the Output Area level and provides average maximum download and upload speeds.
+
+- **Category:** Energy & Infrastructure
+- **Secondary Category:** Buildings
+- **Provider:** Ofcom
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252/data-downloads-2025)
+- **Data link 2:** [Data link 2](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252)
+- **Docs link:** [Docs link](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252)
 
 
 
