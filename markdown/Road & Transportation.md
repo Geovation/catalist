@@ -22,6 +22,8 @@ nav_order: 13
 | [OS NGD Transport - Streetlights](#os-ngd-transport---streetlights)                                 | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-transport-features#street-lights)                                |                                                                                                                                                                       | [Docs link](https://docs.os.uk/osngd/data-structure/transport/transport-features/street-light)                                      |
 | [OS Linked Identifiers](#os-linked-identifiers)                                                     | Ordnance Survey          | Open      | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-linked-identifiers-api/technical-specification#api-reference) | [Data link 2](https://osdatahub.os.uk/data/downloads/open/LIDS)                                                                                                       | [Docs link](https://docs.os.uk/os-downloads/products/buildings-and-infrastructure-portfolio/os-open-linked-identifiers)             |
 | [Overture Maps Transporting Layer](#overture-maps-transporting-layer)                               | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                  | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/transportation/)                                                                   |
+| [NUMBAT](#numbat)                                                                                   | Transport for London     | Open      | [Data link 1](https://crowding.data.tfl.gov.uk/#!NUMBAT%2F)                                                                 | [Data link 2](https://crowding.data.tfl.gov.uk/#!NUMBAT%2FNUMBAT%202024%2FOD%20Data%2F)                                                                               | [Docs link](https://crowding.data.tfl.gov.uk/NUMBAT/Intro_to_NUMBAT.pdf)                                                            |
+| [BUSTO](#busto)                                                                                     | Transport for London     | Open      | [Data link 1](https://crowding.data.tfl.gov.uk/#!BUSTO%2F)                                                                  |                                                                                                                                                                       | [Docs link](https://crowding.data.tfl.gov.uk/BUSTO/BUSTO%20User%20Guide%20and%20Data%20Dictionary%20v1.2.pdf)                       |
 
 ## Real-Time Location Estimates
 
@@ -204,3 +206,31 @@ LineString and Point data representing transport nodes and links. Covers rail, r
 - **Data link 1:** [Data link 1](https://docs.overturemaps.org/getting-data/)
 - **Data link 2:** [Data link 2](https://github.com/OvertureMaps/overturemaps-py)
 - **Docs link:** [Docs link](https://docs.overturemaps.org/guides/transportation/)
+
+
+
+## NUMBAT
+
+Detailed average measures of rail activity, including origin-destination, between TfL-operated underground, overground, light rail, and crossrail stations. Includes load and frequency of line segments, line & station entry/exit/boarding/alighting information, and various counts of flow within stations. Origin-destination average volumes are provided by time band, and includes travel time by line and route choice. Disaggregated by day of the week and quarter-hour time window for an average autumn day. Data goes back to 2016.
+
+- **Category:** Road & Transportation
+- **Secondary Category:** 
+- **Provider:** Transport for London
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://crowding.data.tfl.gov.uk/#!NUMBAT%2F)
+- **Data link 2:** [Data link 2](https://crowding.data.tfl.gov.uk/#!NUMBAT%2FNUMBAT%202024%2FOD%20Data%2F)
+- **Docs link:** [Docs link](https://crowding.data.tfl.gov.uk/NUMBAT/Intro_to_NUMBAT.pdf)
+
+
+
+## BUSTO
+
+Average counts of bus boardings and estimated alightings at TfL bus stops. Split by route, direction, 15-minute interval, and week segment (weekday/Saturday/Sunday). Includes load, frequency, and seating availability data. Alightings are inferred from subsequent journey tap-ins, with the remaining unknown destinations estimated by scaling up. Based on a typical autumn week, and goes back to 2023.
+
+- **Category:** Road & Transportation
+- **Secondary Category:** 
+- **Provider:** Transport for London
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://crowding.data.tfl.gov.uk/#!BUSTO%2F)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://crowding.data.tfl.gov.uk/BUSTO/BUSTO%20User%20Guide%20and%20Data%20Dictionary%20v1.2.pdf)

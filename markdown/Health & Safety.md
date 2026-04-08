@@ -13,6 +13,7 @@ nav_order: 8
 | [Registered Charities in England and Wales](#registered-charities-in-england-and-wales)                   | Charity Commission             | Open      | [Data link 1](https://register-of-charities.charitycommission.gov.uk/en/register/full-register-download)   | [Data link 2](https://api-portal.charitycommission.gov.uk/api-details#api=register-of-charities-api)                    | [Docs link](https://register-of-charities.charitycommission.gov.uk/en/)                                                      |
 | [Road Collisions](#road-collisions)                                                                       | Department for Transport       | Open      | [Data link 1](https://www.gov.uk/government/statistics/road-safety-data#latest-year-data)                  | [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html)                                               | [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance)                                        |
 | [Sewage Discharges](#sewage-discharges)                                                                   | Environmental Agency           | Open      | [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                |                                                                                                                         | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                    |
+| [Food Hygiene Ratings](#food-hygiene-ratings)                                                             | Food Standards Agency          | Open      | [Data link 1](https://api.ratings.food.gov.uk/Help/Index)                                                  | [Data link 2](https://data.food.gov.uk/catalog/datasets/38dd8d6a-5ab1-4f50-b753-ab33288e3201)                           | [Docs link](https://ratings.food.gov.uk/open-data)                                                                           |
 | [Summary Hospital-level Mortality Indicators - SHMI](#summary-hospital-level-mortality-indicators---shmi) | NHS Digital                    | Open      | [Data link 1](https://digital.nhs.uk/data-and-information/publications/statistical/shmi#latest-statistics) |                                                                                                                         | [Docs link](https://digital.nhs.uk/data-and-information/publications/ci-hub/summary-hospital-level-mortality-indicator-shmi) |
 | [2021 Census Statistics](#2021-census-statistics)                                                         | Office for National Statistics | Open      | [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)                                          | [Data link 2](https://www.nomisweb.co.uk/api/v01/help)                                                                  | [Docs link](https://www.ons.gov.uk/census/census2021dictionary)                                                              |
 | [Police Indicents and Arrests](#police-indicents-and-arrests)                                             | Police UK                      | Open      | [Data link 1](https://data.police.uk/data/)                                                                | [Data link 2](https://data.police.uk/docs/)                                                                             | [Docs link](https://data.police.uk/about/)                                                                                   |
@@ -70,6 +71,20 @@ Data about releases of raw, untreated sewage into waterbodies through storm over
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
+
+
+
+## Food Hygiene Ratings
+
+Hygiene ratings for establishments where people eat: restaurants, pubs, cafés, takeaways, hotels etc., scored 1-5. Includes address, geolocation, and basic classification of the esablishment.
+
+- **Category:** Retail
+- **Secondary Category:** Health & Safety
+- **Provider:** Food Standards Agency
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://api.ratings.food.gov.uk/Help/Index)
+- **Data link 2:** [Data link 2](https://data.food.gov.uk/catalog/datasets/38dd8d6a-5ab1-4f50-b753-ab33288e3201)
+- **Docs link:** [Docs link](https://ratings.food.gov.uk/open-data)
 
 
 
