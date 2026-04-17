@@ -18,13 +18,12 @@ nav_order: 6
 | [Places of Worship (non-CofE)](#places-of-worship-(non-cofe))                 | HM Passport Office                                  | Open      | [Data link 1](https://www.data.gov.uk/dataset/143fdbae-daae-45b1-b970-061dcaaf109f/places-of-worship)                                                                                 |                                                                                                                         | [Docs link](https://www.gov.uk/government/publications/places-of-worship-registered-for-marriage)                          |
 | [Historic Elections Results](#historic-elections-results)                     | House of Commons Library                            | Open      | [Data link 1](https://commonslibrary.parliament.uk/research-briefings/cbp-8647/)                                                                                                      |                                                                                                                         | [Docs link](https://commonslibrary.parliament.uk/research-briefings/cbp-8647/)                                             |
 | [Recent General Election Results](#recent-general-election-results)           | House of Commons Library                            | Open      | [Data link 1](https://commonslibrary.parliament.uk/research-briefings/cbp-10009/)                                                                                                     | [Data link 2](https://commonslibrary.parliament.uk/census-data-how-do-constituencies-with-different-demographics-vote/) | [Docs link](https://commonslibrary.parliament.uk/research-briefings/cbp-10009/)                                            |
-| [Airbnb Listings](#airbnb-listings)                                           | InsideAirbnb                                        | Open      | [Data link 1](https://insideairbnb.com/get-the-data)                                                                                                                                  |                                                                                                                         | [Docs link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit)                      |
 | [MHCLG Open Data](#mhclg-open-data)                                           | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://opendatacommunities.org/resource?uri=http%3A%2F%2Fopendatacommunities.org%2Fdef%2Fconcept%2Ffolders%2Fthemes)                                                   | [Data link 2](https://opendatacommunities.org/help?tab=api)                                                             | [Docs link](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics) |
 | [Indices of Multiple Deprivation 2025](#indices-of-multiple-deprivation-2025) | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025#documents)                                                                                 |                                                                                                                         | [Docs link](https://assets.publishing.service.gov.uk/media/68ff59c80f801e57b5bef907/ID_2025_Technical_Report.pdf)          |
 | [2021 Census Statistics](#2021-census-statistics)                             | Office for National Statistics                      | Open      | [Data link 1](https://www.nomisweb.co.uk/census/2021/data_finder)                                                                                                                     | [Data link 2](https://www.nomisweb.co.uk/api/v01/help)                                                                  | [Docs link](https://www.ons.gov.uk/census/census2021dictionary)                                                            |
 | [Police Indicents and Arrests](#police-indicents-and-arrests)                 | Police UK                                           | Open      | [Data link 1](https://data.police.uk/data/)                                                                                                                                           | [Data link 2](https://data.police.uk/docs/)                                                                             | [Docs link](https://data.police.uk/about/)                                                                                 |
 | [Searchland HMOs](#searchland-hmos)                                           | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/HMO)                                                                                                                                 |                                                                                                                         | [Docs link](https://searchland.co.uk/our-apis/hmo)                                                                         |
-| ["Spatial Signatures"](#"spatial-signatures")                                 | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures)                                                     | [Docs link](https://urbangrammarai.xyz/story/)                                                                             |
+| [Spatial Signatures](#spatial-signatures)                                     | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures)                                                     | [Docs link](https://urbangrammarai.xyz/story/)                                                                             |
 
 ## Real-Time Location Estimates
 
@@ -154,20 +153,6 @@ Historic elections results by constituency since 1918.
 
 
 
-## Airbnb Listings
-
-Listing, review, and calendar data for Airbnb covering four GB cities: London, Manchester, Bristol, and Edinburgh. Data is scraped from Airbnb and compiled. Includes detailed information about hosts, rooms, amenities, free-text listing and neighbourhood descriptions, and various other statistics. Location is provided as latitude and longitude, though the exact location is not available, as it is jittered by up to 150m.
-
-- **Category:** Places & Points-of-Interest
-- **Secondary Category:** Demographics
-- **Provider:** InsideAirbnb
-- **Licensing:** Open
-- **Data link 1:** [Data link 1](https://insideairbnb.com/get-the-data)
-- **Data link 2:** 
-- **Docs link:** [Docs link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit)
-
-
-
 ## MHCLG Open Data
 
 Various housing, community, and social statistics by quarter/year, by administrative unit.
@@ -238,7 +223,7 @@ Compiled dataset of Houses of Multiple occupation cross local authorities in Eng
 
 
 
-## "Spatial Signatures"
+## Spatial Signatures
 
 The result of a research project (https://www.nature.com/articles/s41597-022-01640-8) which has subdivided Great Britain into 'spatial signatures' - contiguous clusters of land enclosures which broadly share both form and function. Machine learning, clustering, and other data processing has been used to generate the dataset, and the code used in the research has also been published on Github (see second data link). There are 16 'spatial signature' categories, which primarily relate to human geography rather than natural geography. Note that the reserach was published in 2022 and the currency of the data will not necessarily be maintained.
 

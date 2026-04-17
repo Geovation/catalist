@@ -7,13 +7,15 @@ nav_order: 7
 
 # Energy & Infrastructure
 
-| Name                                                                | Provider                                           | Licensing | Data link 1                                                                                                                  | Data link 2                                                                                                                                                           | Docs link                                                                                              |
-| ------------------------------------------------------------------- | -------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Energy Performance Certificates](#energy-performance-certificates) | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://epc.opendatacommunities.org/openapi/index.html)                                                        | [Data link 2](https://epc.opendatacommunities.org/downloads/domestic)                                                                                                 | [Docs link](https://epc.opendatacommunities.org/domestic/search)                                       |
-| [Google Solar](#google-solar)                                       | Google                                             | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest)                                         |                                                                                                                                                                       | [Docs link](https://developers.google.com/maps/documentation/solar/overview)                           |
-| [LandTech Power Infrastructure](#landtech-power-infrastructure)     | LandTech                                           | Premium   | [Data link 1](https://developers.land.tech/openapi/power)                                                                    |                                                                                                                                                                       | [Docs link](https://land.tech/landtech-datasets#power-infrastructure-data)                             |
-| [Connected Nations Broadband](#connected-nations-broadband)         | Ofcom                                              | Open      | [Data link 1](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252/data-downloads-2025) | [Data link 2](https://api.ofcom.org.uk/api-details#api=ofcom-connected-nations-broadband-api&operation=CoverageByPostCodeGet)                                         | [Docs link](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252) |
-| [OS NGD Structures Theme](#os-ngd-structures-theme)                 | Ordnance Survey                                    | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                             | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/structures)                                        |
+| Name                                                                              | Provider                                           | Licensing | Data link 1                                                                                                                  | Data link 2                                                                                                                                                           | Docs link                                                                                              |
+| --------------------------------------------------------------------------------- | -------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Energy Performance Certificates](#energy-performance-certificates)               | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://epc.opendatacommunities.org/openapi/index.html)                                                        | [Data link 2](https://epc.opendatacommunities.org/downloads/domestic)                                                                                                 | [Docs link](https://epc.opendatacommunities.org/domestic/search)                                       |
+| [Google Solar](#google-solar)                                                     | Google                                             | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest)                                         |                                                                                                                                                                       | [Docs link](https://developers.google.com/maps/documentation/solar/overview)                           |
+| [DNO Energy Catalogues](#dno-energy-catalogues)                                   | Huwise                                             | Open      | [Data link 1](https://help.opendatasoft.com/apis/ods-explore-v2/#tag/Dataset/operation/getRecords)                           | [Data link 2](https://help.opendatasoft.com/apis/ods-explore-v2/#tag/Dataset/operation/exportRecords)                                                                 | [Docs link](https://ukpowernetworks.opendatasoft.com/pages/home/)                                      |
+| [LandTech Power Infrastructure](#landtech-power-infrastructure)                   | LandTech                                           | Premium   | [Data link 1](https://developers.land.tech/openapi/power)                                                                    |                                                                                                                                                                       | [Docs link](https://land.tech/landtech-datasets#power-infrastructure-data)                             |
+| [National Grid Electricity Distribution](#national-grid-electricity-distribution) | National Grid Group                                | Open      | [Data link 1](https://connecteddata.nationalgrid.co.uk/api-guidance)                                                         | [Data link 2](https://connecteddata.nationalgrid.co.uk/dataset/)                                                                                                      | [Docs link](https://connecteddata.nationalgrid.co.uk/)                                                 |
+| [Connected Nations Broadband](#connected-nations-broadband)                       | Ofcom                                              | Open      | [Data link 1](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252/data-downloads-2025) | [Data link 2](https://api.ofcom.org.uk/api-details#api=ofcom-connected-nations-broadband-api&operation=CoverageByPostCodeGet)                                         | [Docs link](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-20252) |
+| [OS NGD Structures Theme](#os-ngd-structures-theme)                               | Ordnance Survey                                    | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                             | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/structures)                                        |
 
 ## Energy Performance Certificates
 
@@ -43,6 +45,20 @@ Insights about the location and dimensions of buildings, and estimated solar pot
 
 
 
+## DNO Energy Catalogues
+
+Detailed infrastructure data for five of the six GB Distribution Network Operators (DNOs) covering all GB except the midlands, south Wales, and the southwest (see National Grid Electricity Distribution). Includes infrastructure, networks, usage, capacity, outages etc.. For API documentation, substitude the domain in this url "https://{domain}.opendatasoft.com/api/explore/v2.1/console" for one of the following: ukpowernetworks, ssentransmission, northernpowergrid, electricitynorthwest, spenergynetworks. (The docs link uses UK Power Networks as an example url.)
+
+- **Category:** Energy & Infrastructure
+- **Secondary Category:** 
+- **Provider:** Huwise
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://help.opendatasoft.com/apis/ods-explore-v2/#tag/Dataset/operation/getRecords)
+- **Data link 2:** [Data link 2](https://help.opendatasoft.com/apis/ods-explore-v2/#tag/Dataset/operation/exportRecords)
+- **Docs link:** [Docs link](https://ukpowernetworks.opendatasoft.com/pages/home/)
+
+
+
 ## LandTech Power Infrastructure
 
 Compiled dataset of power substations from all DNOs, and towers and cables, which may be limited to the East, Southeast, and London. Substation data includes location, type, and voltage range.
@@ -57,9 +73,23 @@ Compiled dataset of power substations from all DNOs, and towers and cables, whic
 
 
 
+## National Grid Electricity Distribution
+
+Detailed infrastructure data for the NGED Distribution Network Operator, covering the midlands, south Wales, and the southwest - the only DNO not covered by Huwise's APIs. Includes infrastructure, networks, usage, capacity, outages etc..
+
+- **Category:** Energy & Infrastructure
+- **Secondary Category:** 
+- **Provider:** National Grid Group
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://connecteddata.nationalgrid.co.uk/api-guidance)
+- **Data link 2:** [Data link 2](https://connecteddata.nationalgrid.co.uk/dataset/)
+- **Docs link:** [Docs link](https://connecteddata.nationalgrid.co.uk/)
+
+
+
 ## Connected Nations Broadband
 
-Statistics on broadband coverage and speed. Coverage is provided a postcode and higher levels, and includes percentages at various download speeds, super-fast and ultra-fast coverage, full-fibre take-up, Universal Service Obligation, Next Generation Access, and fixed wireless access. Performance is provided at the Output Area level and provides average maximum download and upload speeds.
+Statistics on broadband coverage and speed. Coverage is provided at postcode and higher levels, and includes percentages at various download speeds, super-fast and ultra-fast coverage, full-fibre take-up, Universal Service Obligation, Next Generation Access, and fixed wireless access. Performance is provided at the Output Area level and provides average maximum download and upload speeds.
 
 - **Category:** Energy & Infrastructure
 - **Secondary Category:** Buildings

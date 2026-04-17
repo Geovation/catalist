@@ -18,6 +18,7 @@ nav_order: 11
 | [OS Open Names](#os-open-names)                                             | Ordnance Survey          | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenNames)                                | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-names-api)                                                                                              | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-names)                    |
 | [OS NGD Geographical Names Theme](#os-ngd-geographical-names-theme)         | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)                     | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)                               |
 | [Overture Maps Places Layer](#overture-maps-places-layer)                   | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                     | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/places/)                                             |
+| [TomTom Places & POIs](#tomtom-places-&-pois)                               | TomTom                   | Premium   | [Data link 1](https://docs.tomtom.com/#:~:text=Documentation-,Places,-Batch%20Search%20API)    |                                                                                                                                                                       | [Docs link](https://www.tomtom.com/products/places-apis/)                                             |
 | [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions) | TripAdvisor              | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                       |                                                                                                                                                                       | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)                             |
 | [X API](#x-api)                                                             | X                        | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                     |                                                                                                                                                                       | [Docs link](https://docs.x.com/x-api/introduction)                                                    |
 
@@ -67,8 +68,8 @@ Categorised places with various details including opening hours, amenities, rati
 
 Listing, review, and calendar data for Airbnb covering four GB cities: London, Manchester, Bristol, and Edinburgh. Data is scraped from Airbnb and compiled. Includes detailed information about hosts, rooms, amenities, free-text listing and neighbourhood descriptions, and various other statistics. Location is provided as latitude and longitude, though the exact location is not available, as it is jittered by up to 150m.
 
-- **Category:** Places & Points-of-Interest
-- **Secondary Category:** Demographics
+- **Category:** Retail
+- **Secondary Category:** Places & Points-of-Interest
 - **Provider:** InsideAirbnb
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://insideairbnb.com/get-the-data)
@@ -144,6 +145,20 @@ Real-world entities and points of interest: schools, businesses, hospitals, reli
 - **Data link 1:** [Data link 1](https://docs.overturemaps.org/getting-data/)
 - **Data link 2:** [Data link 2](https://github.com/OvertureMaps/overturemaps-py)
 - **Docs link:** [Docs link](https://docs.overturemaps.org/guides/places/)
+
+
+
+## TomTom Places & POIs
+
+Various APIs for searching and handling Places, Addresses, and Points of Interest such as railway stations, airports, restaurants, and hotels. Includes and EV charging search endpoint. Avaiable as geospatial searches, free-text fuzzy searches, autocompletion, and batch search.
+
+- **Category:** Places & Points-of-Interest
+- **Secondary Category:** Addressing
+- **Provider:** TomTom
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://docs.tomtom.com/#:~:text=Documentation-,Places,-Batch%20Search%20API)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.tomtom.com/products/places-apis/)
 
 
 

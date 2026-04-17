@@ -31,7 +31,8 @@ nav_order: 10
 | [Searchland Planning Applications](#searchland-planning-applications)                                   | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                                                                            |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                                             |
 | [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)                             | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                                                                 |
 | [Searchland HMOs](#searchland-hmos)                                                                     | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/HMO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/hmo)                                                                                               |
-| ["Spatial Signatures"](#"spatial-signatures")                                                           | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures)                                                                                                   | [Docs link](https://urbangrammarai.xyz/story/)                                                                                                   |
+| [UKCEH Land Cover Map](#ukceh-land-cover-map)                                                           | UK Centre for Ecology & Hydrology                   | Open      | [Data link 1](https://www.ceh.ac.uk/data-request-form)                                                                                                                                | [Data link 2](https://catalogue.ceh.ac.uk/documents/c0078881-7d5a-4641-91e2-c271426bc8a0)                                                                             | [Docs link](https://www.ceh.ac.uk/data/ukceh-land-cover-maps)                                                                                    |
+| [Spatial Signatures](#spatial-signatures)                                                               | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures)                                                                                                   | [Docs link](https://urbangrammarai.xyz/story/)                                                                                                   |
 | [Verisk UKLand](#verisk-ukland)                                                                         | Verisk                                              | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                                                                                                                     | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                                                                 | [Docs link](https://www.verisk.com/en-gb/products/ukland)                                                                                        |
 
 ## Lost Boundaries
@@ -134,7 +135,7 @@ Records of restrictive covenants between two properties. Does not include the de
 
 ## NATMAP Vector
 
-1:250K scale map of England and Wales from ~300 soil associations. Detailed soil information and related information such as topsoil, subsoils, available water, drainage, and carbon. Includes some geological and land use descriptions. This is LANDIS's principle soil dataset, which is derived into simpler datasets such as NATMAP Soilscapes NATMAP 1000, and NATMAP Carbon. 
+1:250K scale map of England and Wales from ~300 soil associations. Detailed soil information and related information such as topsoil, subsoils, available water, drainage, and carbon. Includes some geological and land use descriptions. This is LANDIS's principal soil dataset, which is derived into simpler datasets such as NATMAP Soilscapes NATMAP 1000, and NATMAP Carbon. 
 
 - **Category:** Soil & Geology
 - **Secondary Category:** Land & Land Use
@@ -342,7 +343,21 @@ Compiled dataset of Houses of Multiple occupation cross local authorities in Eng
 
 
 
-## "Spatial Signatures"
+## UKCEH Land Cover Map
+
+Land parcels classified into 21 UKCEH Land Cover Classes based on Biodiversity Broad Habitats. Based on classification of Sentiel-2 imagery. Available as a 10m classified pixel dataset (raster), a vector parcel version (generated by intesecting the 10m pixels with UKCEH land parcels), and aggregated 25m and 1km rasterised land parcels (generated from the vector parcels). Published annually.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** 
+- **Provider:** UK Centre for Ecology & Hydrology
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.ceh.ac.uk/data-request-form)
+- **Data link 2:** [Data link 2](https://catalogue.ceh.ac.uk/documents/c0078881-7d5a-4641-91e2-c271426bc8a0)
+- **Docs link:** [Docs link](https://www.ceh.ac.uk/data/ukceh-land-cover-maps)
+
+
+
+## Spatial Signatures
 
 The result of a research project (https://www.nature.com/articles/s41597-022-01640-8) which has subdivided Great Britain into 'spatial signatures' - contiguous clusters of land enclosures which broadly share both form and function. Machine learning, clustering, and other data processing has been used to generate the dataset, and the code used in the research has also been published on Github (see second data link). There are 16 'spatial signature' categories, which primarily relate to human geography rather than natural geography. Note that the reserach was published in 2022 and the currency of the data will not necessarily be maintained.
 

@@ -59,7 +59,7 @@ The extents and locations of surface water catchment areas: designated sites des
 
 ## NATMAP Vector
 
-1:250K scale map of England and Wales from ~300 soil associations. Detailed soil information and related information such as topsoil, subsoils, available water, drainage, and carbon. Includes some geological and land use descriptions. This is LANDIS's principle soil dataset, which is derived into simpler datasets such as NATMAP Soilscapes NATMAP 1000, and NATMAP Carbon. 
+1:250K scale map of England and Wales from ~300 soil associations. Detailed soil information and related information such as topsoil, subsoils, available water, drainage, and carbon. Includes some geological and land use descriptions. This is LANDIS's principal soil dataset, which is derived into simpler datasets such as NATMAP Soilscapes NATMAP 1000, and NATMAP Carbon. 
 
 - **Category:** Soil & Geology
 - **Secondary Category:** Land & Land Use

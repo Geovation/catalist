@@ -16,6 +16,7 @@ nav_order: 12
 | [Bank & Building Societies Points](#bank-&-building-societies-points)                                       | Geolytix                | Open      | [Data link 1](https://drive.google.com/file/d/1RjyAK7qa-qoKtU25KI4e-_mmdxW601tj/view)                                                                                 |                                                                                               | [Docs link](https://geolytix.co.uk/blog/banking-building-societies-locations/)                                                                           |
 | [Google Places](#google-places)                                                                             | Google                  | Premium   | [Data link 1](https://developers.google.com/maps/documentation/places/web-service/op-overview)                                                                        |                                                                                               | [Docs link](https://developers.google.com/maps/documentation/places/web-service)                                                                         |
 | [HMLR UK Companies Data](#hmlr-uk-companies-data)                                                           | HM Land Registry        | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod)                                                                                            | [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod)                    | [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)                                                                       |
+| [Airbnb Listings](#airbnb-listings)                                                                         | InsideAirbnb            | Open      | [Data link 1](https://insideairbnb.com/get-the-data)                                                                                                                  |                                                                                               | [Docs link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit)                                                    |
 | [OS NGD Admin & Statistical Units - Functional Areas](#os-ngd-admin-&-statistical-units---functional-areas) | Ordnance Survey         | Premium   | [Data link 1](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) |                                                                                               | [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units/functional-areas)                                               |
 | [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)                                 | TripAdvisor             | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                                                                                              |                                                                                               | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)                                                                                |
 | [VOA Non-Domestic Valuations](#voa-non-domestic-valuations)                                                 | Valuation Office Agency | Open      | [Data link 1](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)                                                                                          |                                                                                               | [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf) |
@@ -115,6 +116,20 @@ Information about UK (ccod) and overseas (ocod) companies that own property in t
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/ccod)
 - **Data link 2:** [Data link 2](https://use-land-property-data.service.gov.uk/datasets/ocod)
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/ccod/tech-spec)
+
+
+
+## Airbnb Listings
+
+Listing, review, and calendar data for Airbnb covering four GB cities: London, Manchester, Bristol, and Edinburgh. Data is scraped from Airbnb and compiled. Includes detailed information about hosts, rooms, amenities, free-text listing and neighbourhood descriptions, and various other statistics. Location is provided as latitude and longitude, though the exact location is not available, as it is jittered by up to 150m.
+
+- **Category:** Retail
+- **Secondary Category:** Places & Points-of-Interest
+- **Provider:** InsideAirbnb
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://insideairbnb.com/get-the-data)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit)
 
 
 

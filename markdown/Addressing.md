@@ -23,6 +23,7 @@ nav_order: 1
 | [OS Linked Identifiers](#os-linked-identifiers)                                                       | Ordnance Survey         | Open      | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-linked-identifiers-api/technical-specification#api-reference) | [Data link 2](https://osdatahub.os.uk/data/downloads/open/LIDS)                                                                   | [Docs link](https://docs.os.uk/os-downloads/products/buildings-and-infrastructure-portfolio/os-open-linked-identifiers) |
 | [PropertyData Title Registers](#propertydata-title-registers)                                         | PropertyData            | Premium   | [Data link 1](https://propertydata.co.uk/api/pricing?x=api_docs)                                                            |                                                                                                                                   | [Docs link](https://propertydata.co.uk/api/documentation/land-registry-documents)                                       |
 | [Rightmove Property Data](#rightmove-property-data)                                                   | Rightmove               | Premium   | [Data link 1](https://www.rightmove.co.uk/property-data/)                                                                   |                                                                                                                                   | [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/)                                        |
+| [TomTom Places & POIs](#tomtom-places-&-pois)                                                         | TomTom                  | Premium   | [Data link 1](https://docs.tomtom.com/#:~:text=Documentation-,Places,-Batch%20Search%20API)                                 |                                                                                                                                   | [Docs link](https://www.tomtom.com/products/places-apis/)                                                               |
 | [Verisk UKBuildings](#verisk-ukbuildings)                                                             | Verisk                  | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                                                           | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                             | [Docs link](https://www.verisk.com/en-gb/products/ukbuildings)                                                          |
 
 ## Medical/Care Establishment Locations and Ratings
@@ -218,6 +219,20 @@ Data created by property listings, visits, and leads on Rightmove. Includes data
 - **Data link 1:** [Data link 1](https://www.rightmove.co.uk/property-data/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.rightmove.co.uk/property-data/rightmoves-property-data/)
+
+
+
+## TomTom Places & POIs
+
+Various APIs for searching and handling Places, Addresses, and Points of Interest such as railway stations, airports, restaurants, and hotels. Includes and EV charging search endpoint. Avaiable as geospatial searches, free-text fuzzy searches, autocompletion, and batch search.
+
+- **Category:** Places & Points-of-Interest
+- **Secondary Category:** Addressing
+- **Provider:** TomTom
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://docs.tomtom.com/#:~:text=Documentation-,Places,-Batch%20Search%20API)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.tomtom.com/products/places-apis/)
 
 
 

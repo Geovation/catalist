@@ -201,7 +201,7 @@ Large compilation of planning applications published by local councils. Data inc
 
 ## Connected Nations Broadband
 
-Statistics on broadband coverage and speed. Coverage is provided a postcode and higher levels, and includes percentages at various download speeds, super-fast and ultra-fast coverage, full-fibre take-up, Universal Service Obligation, Next Generation Access, and fixed wireless access. Performance is provided at the Output Area level and provides average maximum download and upload speeds.
+Statistics on broadband coverage and speed. Coverage is provided at postcode and higher levels, and includes percentages at various download speeds, super-fast and ultra-fast coverage, full-fibre take-up, Universal Service Obligation, Next Generation Access, and fixed wireless access. Performance is provided at the Output Area level and provides average maximum download and upload speeds.
 
 - **Category:** Energy & Infrastructure
 - **Secondary Category:** Buildings
