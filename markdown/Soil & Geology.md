@@ -7,13 +7,16 @@ nav_order: 15
 
 # Soil & Geology
 
-| Name                                                              | Provider                                         | Licensing | Data link 1                                                                                                           | Data link 2 | Docs link                                                                                                                 |
-| ----------------------------------------------------------------- | ------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [Radon Poteintial](#radon-poteintial)                             | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/radon-data-radon-potential-dataset/)                                     |             | [Docs link](https://nora.nerc.ac.uk/id/eprint/537367/)                                                                    |
-| [Indicative Atlas of Radon](#indicative-atlas-of-radon)           | British Geological Survey                        | Open      | [Data link 1](https://www.bgs.ac.uk/datasets/radon-data-indicative-atlas-of-radon/)                                   |             | [Docs link](https://nora.nerc.ac.uk/id/eprint/537367/)                                                                    |
-| [Nutrient Neutrality Catchments](#nutrient-neutrality-catchments) | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about) |             | [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)                           |
-| [NATMAP Vector](#natmap-vector)                                   | LandIS - Cranfield University                    | Premium   | [Data link 1](https://www.landis.org.uk/contact/)                                                                     |             | [Docs link](https://www.landis.org.uk/data/nmvector.cfm)                                                                  |
-| [UK Topsoil Geochemistry ](#uk-topsoil-geochemistry-)             | UK Soil Observatory                              | Open      | [Data link 1](https://www.ukso.org/static-maps/uk-topsoil-geochemistry.html)                                          |             | [Docs link](https://www.data.gov.uk/dataset/4147e16c-b6ba-48b1-834a-0cedd7c7ca0e/uk-compiled-topsoil-ukts-raster-dataset) |
+| Name                                                              | Provider                                         | Licensing | Data link 1                                                                                                           | Data link 2                                                                              | Docs link                                                                                                                 |
+| ----------------------------------------------------------------- | ------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Radon Poteintial](#radon-poteintial)                             | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/radon-data-radon-potential-dataset/)                                     |                                                                                          | [Docs link](https://nora.nerc.ac.uk/id/eprint/537367/)                                                                    |
+| [Indicative Atlas of Radon](#indicative-atlas-of-radon)           | British Geological Survey                        | Open      | [Data link 1](https://www.bgs.ac.uk/datasets/radon-data-indicative-atlas-of-radon/)                                   |                                                                                          | [Docs link](https://nora.nerc.ac.uk/id/eprint/537367/)                                                                    |
+| [BGS Geology 10K](#bgs-geology-10k)                               | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-10k/)                                                        | [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)           | [Docs link](https://nora.nerc.ac.uk/id/eprint/540336/)                                                                    |
+| [BGS Geology 50K](#bgs-geology-50k)                               | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-50k-digmapgb/)                                               | [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)           | [Docs link](https://nora.nerc.ac.uk/id/eprint/540337/)                                                                    |
+| [BGS Geology 625K](#bgs-geology-625k)                             | British Geological Survey                        | Open      | [Data link 1](https://www.bgs.ac.uk/download/bgs-geology-625k-bedrock/)                                               | [Data link 2](https://www.bgs.ac.uk/technologies/web-services/web-feature-services-wfs/) | [Docs link](https://www.bgs.ac.uk/datasets/bgs-geology-625k/)                                                             |
+| [Nutrient Neutrality Catchments](#nutrient-neutrality-catchments) | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about) |                                                                                          | [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)                           |
+| [NATMAP Vector](#natmap-vector)                                   | LandIS - Cranfield University                    | Premium   | [Data link 1](https://www.landis.org.uk/contact/)                                                                     |                                                                                          | [Docs link](https://www.landis.org.uk/data/nmvector.cfm)                                                                  |
+| [UK Topsoil Geochemistry ](#uk-topsoil-geochemistry-)             | UK Soil Observatory                              | Open      | [Data link 1](https://www.ukso.org/static-maps/uk-topsoil-geochemistry.html)                                          |                                                                                          | [Docs link](https://www.data.gov.uk/dataset/4147e16c-b6ba-48b1-834a-0cedd7c7ca0e/uk-compiled-topsoil-ukts-raster-dataset) |
 
 ## Radon Poteintial
 
@@ -40,6 +43,49 @@ Banded likelihoods of land having a radon level being at or above the Action Lev
 - **Data link 1:** [Data link 1](https://www.bgs.ac.uk/datasets/radon-data-indicative-atlas-of-radon/)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://nora.nerc.ac.uk/id/eprint/537367/)
+
+
+
+## BGS Geology 10K
+
+Detailed geological map over five themes/layers covering a significant proportion of GB, but not complete. Bedrock is the main mass of older rock that exists everywhere. Superficial Deposits are recent unconsolidated sediments, such as gravel, sand, silt and clay. Mass Movement is a layer of superficial deposits that have moved downslope under gravity to form landslips. Linear Features is a layer of line geometries covering rock/coal bands, faults, fold axes, mineral veins, alteration areas, and landforms. Artificial Ground covers land that has been modified by human activities. Data includes age, rock type according to the BGS classification system, and other classifications. Intended for use at 1:10 000 scale (with some rural
+areas limited to 1:25 000 scale).
+
+- **Category:** Soil & Geology
+- **Secondary Category:** Basemaps & Terrain
+- **Provider:** British Geological Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-10k/)
+- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)
+- **Docs link:** [Docs link](https://nora.nerc.ac.uk/id/eprint/540336/)
+
+
+
+## BGS Geology 50K
+
+An equivalent product to BGS Geology 50k, except that the data coverage is almost complete for GBm except less geographically detailed (intended for use as 1:50,000 scle). BGS Geology 250k is also available for a lower granularity product.
+
+- **Category:** Soil & Geology
+- **Secondary Category:** Basemaps & Terrain
+- **Provider:** British Geological Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-50k-digmapgb/)
+- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)
+- **Docs link:** [Docs link](https://nora.nerc.ac.uk/id/eprint/540337/)
+
+
+
+## BGS Geology 625K
+
+A generalised low-scale geological map of GB, covering bedrock (the older rock layers present everywhere) which includes rock classification and age, superficial deposits (more recent and softer), dykes, and a line geometry layer representing faultlines.
+
+- **Category:** Soil & Geology
+- **Secondary Category:** Basemaps & Terrain
+- **Provider:** British Geological Survey
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/download/bgs-geology-625k-bedrock/)
+- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/technologies/web-services/web-feature-services-wfs/)
+- **Docs link:** [Docs link](https://www.bgs.ac.uk/datasets/bgs-geology-625k/)
 
 
 

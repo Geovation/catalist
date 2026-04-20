@@ -22,6 +22,7 @@ nav_order: 13
 | [OS NGD Transport - Streetlights](#os-ngd-transport---streetlights)                                 | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-transport-features#street-lights)                                |                                                                                                                                                                       | [Docs link](https://docs.os.uk/osngd/data-structure/transport/transport-features/street-light)                                      |
 | [OS Linked Identifiers](#os-linked-identifiers)                                                     | Ordnance Survey          | Open      | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-linked-identifiers-api/technical-specification#api-reference) | [Data link 2](https://osdatahub.os.uk/data/downloads/open/LIDS)                                                                                                       | [Docs link](https://docs.os.uk/os-downloads/products/buildings-and-infrastructure-portfolio/os-open-linked-identifiers)             |
 | [Overture Maps Transporting Layer](#overture-maps-transporting-layer)                               | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                  | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/transportation/)                                                                   |
+| [Public Rights of Way](#public-rights-of-way)                                                       | Rowmaps                  | Open      | [Data link 1](https://www.rowmaps.com/jsons/)                                                                               | [Data link 2](https://www.arcgis.com/home/item.html?id=5f12c2deb7244d9e9a2c08d71eab10b6)                                                                              | [Docs link](https://www.rowmaps.com/)                                                                                               |
 | [NUMBAT](#numbat)                                                                                   | Transport for London     | Open      | [Data link 1](https://crowding.data.tfl.gov.uk/#!NUMBAT%2F)                                                                 | [Data link 2](https://crowding.data.tfl.gov.uk/#!NUMBAT%2FNUMBAT%202024%2FOD%20Data%2F)                                                                               | [Docs link](https://crowding.data.tfl.gov.uk/NUMBAT/Intro_to_NUMBAT.pdf)                                                            |
 | [BUSTO](#busto)                                                                                     | Transport for London     | Open      | [Data link 1](https://crowding.data.tfl.gov.uk/#!BUSTO%2F)                                                                  |                                                                                                                                                                       | [Docs link](https://crowding.data.tfl.gov.uk/BUSTO/BUSTO%20User%20Guide%20and%20Data%20Dictionary%20v1.2.pdf)                       |
 
@@ -206,6 +207,20 @@ LineString and Point data representing transport nodes and links. Covers rail, r
 - **Data link 1:** [Data link 1](https://docs.overturemaps.org/getting-data/)
 - **Data link 2:** [Data link 2](https://github.com/OvertureMaps/overturemaps-py)
 - **Docs link:** [Docs link](https://docs.overturemaps.org/guides/transportation/)
+
+
+
+## Public Rights of Way
+
+Compiled datasets for public rights of way across the majority of England and Wales, apart from a few areas (ommissions are visible from the 'missing data' page). Some data is more current/reliable. Local Authorities are manually checked for updates. Data is often split into footbaths, bridleways, and byways. Others have compiled this data into single API-accessible dataset layers (see second Data Link), but these versions are likely less up-to-date/complete.
+
+- **Category:** Road & Transportation
+- **Secondary Category:** 
+- **Provider:** Rowmaps
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.rowmaps.com/jsons/)
+- **Data link 2:** [Data link 2](https://www.arcgis.com/home/item.html?id=5f12c2deb7244d9e9a2c08d71eab10b6)
+- **Docs link:** [Docs link](https://www.rowmaps.com/)
 
 
 
