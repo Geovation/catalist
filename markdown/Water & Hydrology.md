@@ -9,6 +9,8 @@ nav_order: 17
 
 | Name                                                                              | Provider                                         | Licensing | Data link 1                                                                                                           | Data link 2                                                                                                                                                           | Docs link                                                                                                                                                |
 | --------------------------------------------------------------------------------- | ------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [BGS GeoScour Open](#bgs-geoscour-open)                                           | British Geological Survey                        | Open      | [Data link 1](https://www.bgs.ac.uk/download/bgs-geoscour-open-2/)                                                    | [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-open/)                                                                                                      | [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)                                                                                     |
+| [BGS GeoScour Premium](#bgs-geoscour-premium)                                     | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)                                        | [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-premium/)                                                                                                   | [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)                                                                                     |
 | [Risk of Flooding from Rivers and Sea](#risk-of-flooding-from-rivers-and-sea)     | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://environment.data.gov.uk/dataset/96ab4342-82c1-4095-87f1-0082e8d84ef1)                           |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/file-management-open/data-sets/cf7e9513-2004-4ab7-befa-12294eedde0f/files/RoFRS%20Product%20Description.pdf) |
 | [Nutrient Neutrality Catchments](#nutrient-neutrality-catchments)                 | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about) |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)                                                          |
 | [Natural Capital & Ecosystem Assessment](#natural-capital-&-ecosystem-assessment) | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/classifier-search?level=1)         |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/about)                                                                  |
@@ -20,6 +22,34 @@ nav_order: 17
 | [OS NGD Water Theme](#os-ngd-water-theme)                                         | Ordnance Survey                                  | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-water-features)                                            | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/water)                                                                                               |
 | [Overture Maps Base Layer](#overture-maps-base-layer)                             | Overture Maps Foundation                         | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                            | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                                                  |
 | [National River Flow Archive](#national-river-flow-archive)                       | UK Centre for Ecology & Hydrology                | Open      | [Data link 1](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)                                                          |                                                                                                                                                                       | [Docs link](https://nrfa.ceh.ac.uk/)                                                                                                                     |
+
+## BGS GeoScour Open
+
+Aggregate measures of river scouring (erosion or removal of  bank deposits) metrics across ~450 catchments. Includes average/best/worst susceptibility, flood accomodation, and runoff risk metrics.
+
+- **Category:** Water & Hydrology
+- **Secondary Category:** Soil & Geology
+- **Provider:** British Geological Survey
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/download/bgs-geoscour-open-2/)
+- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-open/)
+- **Docs link:** [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)
+
+
+
+## BGS GeoScour Premium
+
+Scores for lateral erosion (scouring) susceptibility at 50m intervals along watercourses, for distances from scouring-side between 5m and 200m. Also includes watercourse-segment-level measures of sediment strength and susceptibility to scouring, from low to high, for best, worst, and average case. This is provided for both surface-level and bedrock. Split into surface-level and bedrock susceptibility. Includes other geological measures, fall, and sinuosity measures for river segments.
+
+- **Category:** Water & Hydrology
+- **Secondary Category:** Soil & Geology
+- **Provider:** British Geological Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)
+- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-premium/)
+- **Docs link:** [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)
+
+
 
 ## Risk of Flooding from Rivers and Sea
 

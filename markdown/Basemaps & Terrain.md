@@ -11,9 +11,6 @@ nav_order: 3
 | --------------------------------------------------------- | ---------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | [BlueSky DSM](#bluesky-dsm)                               | BlueSky                      | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/lidar-dsm)                                                                                                                                               | [Data link 2](https://www.blueskymapshop.com/account/register)                                                                    | [Docs link](https://www.blueskymapshop.com/products/height-data)                                           |
 | [BlueSky DTM](#bluesky-dtm)                               | BlueSky                      | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/lidar-dtm)                                                                                                                                               | [Data link 2](https://www.blueskymapshop.com/account/register)                                                                    | [Docs link](https://www.blueskymapshop.com/products/height-data)                                           |
-| [BGS Geology 10K](#bgs-geology-10k)                       | British Geological Survey    | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-10k/)                                                                                                                                             | [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)                                                    | [Docs link](https://nora.nerc.ac.uk/id/eprint/540336/)                                                     |
-| [BGS Geology 50K](#bgs-geology-50k)                       | British Geological Survey    | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-50k-digmapgb/)                                                                                                                                    | [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)                                                    | [Docs link](https://nora.nerc.ac.uk/id/eprint/540337/)                                                     |
-| [BGS Geology 625K](#bgs-geology-625k)                     | British Geological Survey    | Open      | [Data link 1](https://www.bgs.ac.uk/download/bgs-geology-625k-bedrock/)                                                                                                                                    | [Data link 2](https://www.bgs.ac.uk/technologies/web-services/web-feature-services-wfs/)                                          | [Docs link](https://www.bgs.ac.uk/datasets/bgs-geology-625k/)                                              |
 | [Environment Agency LiDAR](#environment-agency-lidar)     | Environment Agency           | Open      | [Data link 1](https://environment.data.gov.uk/survey)                                                                                                                                                      |                                                                                                                                   | [Docs link](https://www.data.gov.uk/dataset/f0db0249-f17b-4036-9e65-309148c97ce4/national-lidar-programme) |
 | [Google Maps Tiles](#google-maps-tiles)                   | Google                       | Premium   | [Data link 1](https://developers.google.com/maps/documentation/tile)                                                                                                                                       |                                                                                                                                   | [Docs link](https://mapsplatform.google.com/intl/en_uk/maps-products/map-tiles/)                           |
 | [Historic OS Maps Catalogue](#historic-os-maps-catalogue) | National Library of Scotland | Open      | [Data link 1](https://maps.nls.uk/geo/find/)                                                                                                                                                               |                                                                                                                                   | [Docs link](https://maps.nls.uk/os/)                                                                       |
@@ -51,49 +48,6 @@ nav_order: 3
 - **Data link 1:** [Data link 1](https://www.blueskymapshop.com/maps/lidar-dtm)
 - **Data link 2:** [Data link 2](https://www.blueskymapshop.com/account/register)
 - **Docs link:** [Docs link](https://www.blueskymapshop.com/products/height-data)
-
-
-
-## BGS Geology 10K
-
-Detailed geological map over five themes/layers covering a significant proportion of GB, but not complete. Bedrock is the main mass of older rock that exists everywhere. Superficial Deposits are recent unconsolidated sediments, such as gravel, sand, silt and clay. Mass Movement is a layer of superficial deposits that have moved downslope under gravity to form landslips. Linear Features is a layer of line geometries covering rock/coal bands, faults, fold axes, mineral veins, alteration areas, and landforms. Artificial Ground covers land that has been modified by human activities. Data includes age, rock type according to the BGS classification system, and other classifications. Intended for use at 1:10 000 scale (with some rural
-areas limited to 1:25 000 scale).
-
-- **Category:** Soil & Geology
-- **Secondary Category:** Basemaps & Terrain
-- **Provider:** British Geological Survey
-- **Licensing:** Premium
-- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-10k/)
-- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)
-- **Docs link:** [Docs link](https://nora.nerc.ac.uk/id/eprint/540336/)
-
-
-
-## BGS Geology 50K
-
-An equivalent product to BGS Geology 50k, except that the data coverage is almost complete for GBm except less geographically detailed (intended for use as 1:50,000 scle). BGS Geology 250k is also available for a lower granularity product.
-
-- **Category:** Soil & Geology
-- **Secondary Category:** Basemaps & Terrain
-- **Provider:** British Geological Survey
-- **Licensing:** Premium
-- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-50k-digmapgb/)
-- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)
-- **Docs link:** [Docs link](https://nora.nerc.ac.uk/id/eprint/540337/)
-
-
-
-## BGS Geology 625K
-
-A generalised low-scale geological map of GB, covering bedrock (the older rock layers present everywhere) which includes rock classification and age, superficial deposits (more recent and softer), dykes, and a line geometry layer representing faultlines.
-
-- **Category:** Soil & Geology
-- **Secondary Category:** Basemaps & Terrain
-- **Provider:** British Geological Survey
-- **Licensing:** Open
-- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/download/bgs-geology-625k-bedrock/)
-- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/technologies/web-services/web-feature-services-wfs/)
-- **Docs link:** [Docs link](https://www.bgs.ac.uk/datasets/bgs-geology-625k/)
 
 
 
