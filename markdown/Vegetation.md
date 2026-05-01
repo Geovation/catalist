@@ -7,16 +7,20 @@ nav_order: 16
 
 # Vegetation
 
-| Name                                                                            | Provider            | Licensing | Data link 1                                                                                                                                         | Data link 2                                                                                                                                                           | Docs link                                                                                           |
-| ------------------------------------------------------------------------------- | ------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [Lost Habitats](#lost-habitats)                                                 | ArchAI              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                        |                                                                                                                                                                       | [Docs link](https://www.archai.io/historichabitats)                                                 |
-| [BlueSky National Treemap/Hedgerow Map](#bluesky-national-treemap/hedgerow-map) | BlueSky             | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/ntm-v2)                                                                                           | [Data link 2](https://www.blueskymapshop.com/account/register)                                                                                                        | [Docs link](https://bluesky-world.com/ntm/)                                                         |
-| [National Trees Outside Woodland Map](#national-trees-outside-woodland-map)     | Forest Research     | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/documents/01667a77c65f4fd9aaf6a45279373a25/explore)                                         |                                                                                                                                                                       | [Docs link](https://www.forestresearch.gov.uk/tools-and-resources/fthr/trees-outside-woodland-map/) |
-| [National Forest Inventory GB](#national-forest-inventory-gb)                   | Forestry Commission | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/5a3efa283e81431b911b5c9872527ca5_0/explore)                                        |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/0dbabff6-588e-44b3-a316-6353c4e47025)           |
-| [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map)     | META                | Open      | [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)                                                                                |                                                                                                                                                                       | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                |
-| [OS NGD Structures - Field Boundaries](#os-ngd-structures---field-boundaries)   | Ordnance Survey     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-structure-features#field-boundaries)                                                     | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/structures/structure-features/field-boundary)   |
-| [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)     | Searchland          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                                                               |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                    |
-| [Ancient Tree Inventory](#ancient-tree-inventory)                               | Woodland Trust      | Open      | [Data link 1](https://opendata-woodlandtrust.hub.arcgis.com/datasets/9d2d13b04d654ceb9ba6e0697c1e0c29_0/explore?location=53.745564%2C-2.834680%2C7) |                                                                                                                                                                       | [Docs link](https://ati.woodlandtrust.org.uk/)                                                      |
+| Name                                                                            | Provider                          | Licensing | Data link 1                                                                                                                                         | Data link 2                                                                                                                                                           | Docs link                                                                                                                                   |
+| ------------------------------------------------------------------------------- | --------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Lost Habitats](#lost-habitats)                                                 | ArchAI                            | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                        |                                                                                                                                                                       | [Docs link](https://www.archai.io/historichabitats)                                                                                         |
+| [BlueSky National Treemap/Hedgerow Map](#bluesky-national-treemap/hedgerow-map) | BlueSky                           | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/ntm-v2)                                                                                           | [Data link 2](https://www.blueskymapshop.com/account/register)                                                                                                        | [Docs link](https://bluesky-world.com/ntm/)                                                                                                 |
+| [OS Enhanced Land Cover](#os-enhanced-land-cover)                               | Emapsite                          | Premium   | [Data link 1](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/?p=OSEnhancedLandCover)                  | [Data link 2](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/#contactformjump)                                          | [Docs link](https://www.ordnancesurvey.co.uk/documents/partners-secure/sales-enablement/os-enhanced-land-cover-technical-specification.pdf) |
+| [National Trees Outside Woodland Map](#national-trees-outside-woodland-map)     | Forest Research                   | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/documents/01667a77c65f4fd9aaf6a45279373a25/explore)                                         |                                                                                                                                                                       | [Docs link](https://www.forestresearch.gov.uk/tools-and-resources/fthr/trees-outside-woodland-map/)                                         |
+| [National Forest Inventory GB](#national-forest-inventory-gb)                   | Forestry Commission               | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/5a3efa283e81431b911b5c9872527ca5_0/explore)                                        |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/0dbabff6-588e-44b3-a316-6353c4e47025)                                                   |
+| [WRI and Meta Tree Canopy Height Map](#wri-and-meta-tree-canopy-height-map)     | META                              | Open      | [Data link 1](https://registry.opendata.aws/dataforgood-fb-forests/)                                                                                |                                                                                                                                                                       | [Docs link](https://github.com/facebookresearch/HighResCanopyHeight)                                                                        |
+| [Living England Habitat Map](#living-england-habitat-map)                       | Natural England                   | Open      | [Data link 1](https://environment.data.gov.uk/geoservices/datasets/4aa716ce-f6af-454c-8ba2-833ebc1bde96/ogc/features/v1/openapi?f=text%2Fhtml)      | [Data link 2](https://www.data.gov.uk/dataset/e207e1b3-72e2-4b6a-8aec-0c7b8bb9998c/living-england-habitat-map-phase-4)                                                | [Docs link](https://www.gov.uk/algorithmic-transparency-records/natural-england-living-england)                                             |
+| [OS NGD Structures - Field Boundaries](#os-ngd-structures---field-boundaries)   | Ordnance Survey                   | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-structure-features#field-boundaries)                                                     | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/structures/structure-features/field-boundary)                                           |
+| [Crop Map of England (CROME)](#crop-map-of-england-(crome))                     | Rural Payments Agency             | Open      | [Data link 1](https://environment.data.gov.uk/explore/04dc895b-e25d-485d-9b0c-d912a0259da8?download=true)                                           | [Data link 2](https://environment.data.gov.uk/geoservices/datasets/04dc895b-e25d-485d-9b0c-d912a0259da8/ogc/features/v1/openapi?f=text%2Fhtml)                        | [Docs link](https://environment.data.gov.uk/dataset/04dc895b-e25d-485d-9b0c-d912a0259da8)                                                   |
+| [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)     | Searchland                        | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                                                               |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                                                            |
+| [UKCEH Land Cover Plus: Crops](#ukceh-land-cover-plus:-crops)                   | UK Centre for Ecology & Hydrology | Premium   | [Data link 1](https://www.ceh.ac.uk/data-request-form)                                                                                              |                                                                                                                                                                       | [Docs link](https://www.ceh.ac.uk/data/ceh-land-cover-plus-crops-2015)                                                                      |
+| [Ancient Tree Inventory](#ancient-tree-inventory)                               | Woodland Trust                    | Open      | [Data link 1](https://opendata-woodlandtrust.hub.arcgis.com/datasets/9d2d13b04d654ceb9ba6e0697c1e0c29_0/explore?location=53.745564%2C-2.834680%2C7) |                                                                                                                                                                       | [Docs link](https://ati.woodlandtrust.org.uk/)                                                                                              |
 
 ## Lost Habitats
 
@@ -43,6 +47,20 @@ Canopy, idealised crowns, and centroids of trees, and height.
 - **Data link 1:** [Data link 1](https://www.blueskymapshop.com/maps/ntm-v2)
 - **Data link 2:** [Data link 2](https://www.blueskymapshop.com/account/register)
 - **Docs link:** [Docs link](https://bluesky-world.com/ntm/)
+
+
+
+## OS Enhanced Land Cover
+
+
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Vegetation
+- **Provider:** Emapsite
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/?p=OSEnhancedLandCover)
+- **Data link 2:** [Data link 2](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/#contactformjump)
+- **Docs link:** [Docs link](https://www.ordnancesurvey.co.uk/documents/partners-secure/sales-enablement/os-enhanced-land-cover-technical-specification.pdf)
 
 
 
@@ -88,6 +106,20 @@ All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover
 
 
 
+## Living England Habitat Map
+
+
+
+- **Category:** Vegetation
+- **Secondary Category:** 
+- **Provider:** Natural England
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/geoservices/datasets/4aa716ce-f6af-454c-8ba2-833ebc1bde96/ogc/features/v1/openapi?f=text%2Fhtml)
+- **Data link 2:** [Data link 2](https://www.data.gov.uk/dataset/e207e1b3-72e2-4b6a-8aec-0c7b8bb9998c/living-england-habitat-map-phase-4)
+- **Docs link:** [Docs link](https://www.gov.uk/algorithmic-transparency-records/natural-england-living-england)
+
+
+
 ## OS NGD Structures - Field Boundaries
 
 Line geometries representing field boundaries, granularly subdivided into categories: wall, hedge, tree canopy, wooded strip, other, unknown.  Captures, for example, individual trees along a hedgerow or wall.
@@ -102,6 +134,20 @@ Line geometries representing field boundaries, granularly subdivided into catego
 
 
 
+## Crop Map of England (CROME)
+
+32 million hexagonal cells classifying England into over 15 main crop types, grassland, and non-agricultural land covers, such as Woodland, Water Bodies, Fallow Land and other non-agricultural land covers. The classification was created automatically using supervised classification (Random Forest Classification) from the combination of Sentinel-1 Radar Satellite time series images during the period January 2025 – August 2025. A separate downloadable lookup table matches the codes to the land classifications.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Vegetation
+- **Provider:** Rural Payments Agency
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/explore/04dc895b-e25d-485d-9b0c-d912a0259da8?download=true)
+- **Data link 2:** [Data link 2](https://environment.data.gov.uk/geoservices/datasets/04dc895b-e25d-485d-9b0c-d912a0259da8/ogc/features/v1/openapi?f=text%2Fhtml)
+- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/04dc895b-e25d-485d-9b0c-d912a0259da8)
+
+
+
 ## Searchland Tree Preservation Orders
 
 A near-complete compiled dataset for Tree Preservation orders, including invidividual trees and areas.
@@ -113,6 +159,20 @@ A near-complete compiled dataset for Tree Preservation orders, including invidiv
 - **Data link 1:** [Data link 1](https://docs.searchland.co.uk/#tag/TPO)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://searchland.co.uk/blog/tree-protection-order)
+
+
+
+## UKCEH Land Cover Plus: Crops
+
+UKCEH Land Cover parcels categorised into 11 crops (winter & spring wheat/barley, beet, beans, maize, oilseed rape, poratoes, grass, 'other') using Sentinel satellite data. Accuracy of about 90%.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Vegetation
+- **Provider:** UK Centre for Ecology & Hydrology
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.ceh.ac.uk/data-request-form)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.ceh.ac.uk/data/ceh-land-cover-plus-crops-2015)
 
 
 

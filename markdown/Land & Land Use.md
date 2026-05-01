@@ -10,6 +10,7 @@ nav_order: 10
 | Name                                                                                                    | Provider                                            | Licensing | Data link 1                                                                                                                                                                           | Data link 2                                                                                                                                                           | Docs link                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Lost Boundaries](#lost-boundaries)                                                                     | ArchAI                                              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                                                          |                                                                                                                                                                       | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                                       |
+| [OS Enhanced Land Cover](#os-enhanced-land-cover)                                                       | Emapsite                                            | Premium   | [Data link 1](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/?p=OSEnhancedLandCover)                                                    | [Data link 2](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/#contactformjump)                                          | [Docs link](https://www.ordnancesurvey.co.uk/documents/partners-secure/sales-enablement/os-enhanced-land-cover-technical-specification.pdf)      |
 | [Output Area Classification](#output-area-classification)                                               | Geographic Data Service                             | Open      | [Data link 1](https://data.geods.ac.uk/dataset/output-area-classification-2021)                                                                                                       |                                                                                                                                                                       | [Docs link](https://github.com/GeographicDataService/Output_Area_Classification)                                                                 |
 | [London Plan - Opportunity Areas](#london-plan---opportunity-areas)                                     | Greater London Authority                            | Open      | [Data link 1](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/about)                                                                                               | [Data link 2](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/api)                                                                                 | [Docs link](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/londons-opportunity-areas)                         |
 | [National Polygon Service](#national-polygon-service)                                                   | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)                                                                                                      | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                                                        | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                                              |
@@ -28,10 +29,12 @@ nav_order: 10
 | [OS NGD Land Use Theme](#os-ngd-land-use-theme)                                                         | Ordnance Survey                                     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-land-use-features)                                                                                                         | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/land-use)                                                                                    |
 | [Overture Maps Base Layer](#overture-maps-base-layer)                                                   | Overture Maps Foundation                            | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                                                                            | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                                          |
 | [PropertyData Title Registers](#propertydata-title-registers)                                           | PropertyData                                        | Premium   | [Data link 1](https://propertydata.co.uk/api/pricing?x=api_docs)                                                                                                                      |                                                                                                                                                                       | [Docs link](https://propertydata.co.uk/api/documentation/land-registry-documents)                                                                |
+| [Crop Map of England (CROME)](#crop-map-of-england-(crome))                                             | Rural Payments Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/explore/04dc895b-e25d-485d-9b0c-d912a0259da8?download=true)                                                                             | [Data link 2](https://environment.data.gov.uk/geoservices/datasets/04dc895b-e25d-485d-9b0c-d912a0259da8/ogc/features/v1/openapi?f=text%2Fhtml)                        | [Docs link](https://environment.data.gov.uk/dataset/04dc895b-e25d-485d-9b0c-d912a0259da8)                                                        |
 | [Searchland Planning Applications](#searchland-planning-applications)                                   | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                                                                            |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                                             |
 | [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)                             | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                                                                 |
 | [Searchland HMOs](#searchland-hmos)                                                                     | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/HMO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/hmo)                                                                                               |
 | [UKCEH Land Cover Map](#ukceh-land-cover-map)                                                           | UK Centre for Ecology & Hydrology                   | Open      | [Data link 1](https://www.ceh.ac.uk/data-request-form)                                                                                                                                | [Data link 2](https://catalogue.ceh.ac.uk/documents/c0078881-7d5a-4641-91e2-c271426bc8a0)                                                                             | [Docs link](https://www.ceh.ac.uk/data/ukceh-land-cover-maps)                                                                                    |
+| [UKCEH Land Cover Plus: Crops](#ukceh-land-cover-plus:-crops)                                           | UK Centre for Ecology & Hydrology                   | Premium   | [Data link 1](https://www.ceh.ac.uk/data-request-form)                                                                                                                                |                                                                                                                                                                       | [Docs link](https://www.ceh.ac.uk/data/ceh-land-cover-plus-crops-2015)                                                                           |
 | [Spatial Signatures](#spatial-signatures)                                                               | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures)                                                                                                   | [Docs link](https://urbangrammarai.xyz/story/)                                                                                                   |
 | [Verisk UKLand](#verisk-ukland)                                                                         | Verisk                                              | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                                                                                                                     | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                                                                 | [Docs link](https://www.verisk.com/en-gb/products/ukland)                                                                                        |
 
@@ -46,6 +49,20 @@ Historic field boundaries, categories when known, from the last 200 years, infer
 - **Data link 1:** [Data link 1](https://www.archai.io/contact)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.archai.io/historicfieldboundaries)
+
+
+
+## OS Enhanced Land Cover
+
+
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Vegetation
+- **Provider:** Emapsite
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/?p=OSEnhancedLandCover)
+- **Data link 2:** [Data link 2](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/#contactformjump)
+- **Docs link:** [Docs link](https://www.ordnancesurvey.co.uk/documents/partners-secure/sales-enablement/os-enhanced-land-cover-technical-specification.pdf)
 
 
 
@@ -301,6 +318,20 @@ Supplies official copies of title registers and/or title plans. A streamlined wr
 
 
 
+## Crop Map of England (CROME)
+
+32 million hexagonal cells classifying England into over 15 main crop types, grassland, and non-agricultural land covers, such as Woodland, Water Bodies, Fallow Land and other non-agricultural land covers. The classification was created automatically using supervised classification (Random Forest Classification) from the combination of Sentinel-1 Radar Satellite time series images during the period January 2025 – August 2025. A separate downloadable lookup table matches the codes to the land classifications.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Vegetation
+- **Provider:** Rural Payments Agency
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/explore/04dc895b-e25d-485d-9b0c-d912a0259da8?download=true)
+- **Data link 2:** [Data link 2](https://environment.data.gov.uk/geoservices/datasets/04dc895b-e25d-485d-9b0c-d912a0259da8/ogc/features/v1/openapi?f=text%2Fhtml)
+- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/04dc895b-e25d-485d-9b0c-d912a0259da8)
+
+
+
 ## Searchland Planning Applications
 
 Large compilation of planning applications published by local councils since 1990 until the present. Data includes application type, key dates, decision/stage, the assigned case officer, and associated documents.
@@ -354,6 +385,20 @@ Land parcels classified into 21 UKCEH Land Cover Classes based on Biodiversity B
 - **Data link 1:** [Data link 1](https://www.ceh.ac.uk/data-request-form)
 - **Data link 2:** [Data link 2](https://catalogue.ceh.ac.uk/documents/c0078881-7d5a-4641-91e2-c271426bc8a0)
 - **Docs link:** [Docs link](https://www.ceh.ac.uk/data/ukceh-land-cover-maps)
+
+
+
+## UKCEH Land Cover Plus: Crops
+
+UKCEH Land Cover parcels categorised into 11 crops (winter & spring wheat/barley, beet, beans, maize, oilseed rape, poratoes, grass, 'other') using Sentinel satellite data. Accuracy of about 90%.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Vegetation
+- **Provider:** UK Centre for Ecology & Hydrology
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.ceh.ac.uk/data-request-form)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.ceh.ac.uk/data/ceh-land-cover-plus-crops-2015)
 
 
 
