@@ -30,7 +30,7 @@ Geometry and codes for various administrative/census/electoral boundaries.
 
 ## OS NGD Admin & Statistical Units Theme
 
-Administrative and electoral boundaries and their names for England, Wales and Scotland.
+Administrative and electoral boundaries and their names for England, Wales and Scotland. Includes postcode centroid points, and areas based on notional extents of addresses sharing the postcode.
 
 - **Category:** Administrative Boundaries
 - **Secondary Category:** 

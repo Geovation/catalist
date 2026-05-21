@@ -52,7 +52,7 @@ Canopy, idealised crowns, and centroids of trees, and height.
 
 ## OS Enhanced Land Cover
 
-
+A land-cover dataset mapped onto a H3 hex grid (310m2 each), using premium os NGD data, enhanced by open third-party datasets from Natural England (Living England, Ancient Woodland, Priority Habitats, Designated Sites), Historic England (Designated Sites) and Rural Payments Agency (CROME dataset). OS imagery and height data are used to identify detailed areas of tree canopy and vegetation cover. The combined dataset is classified into broad land cover types and UKHab primary and secondary land cover types.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** Vegetation
@@ -108,7 +108,7 @@ All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover
 
 ## Living England Habitat Map
 
-
+A multi‑year programme developing a national habitat map of England using satellite imagery and machine learning. Land is classified into 15+ broad habitat categories using a Random Forest model. The output is based on a 10‑metre grid, aligned with the resolution of Sentinel‑1 and Sentinel‑2 Copernicus satellite data, which form the core earth observation inputs. The current habitat probability map is primarily trained on satellite data from 2021, alongside field survey data collected over multiple years and a wide range of historic and contemporary datasets .
 
 - **Category:** Vegetation
 - **Secondary Category:** 

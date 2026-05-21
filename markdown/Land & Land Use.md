@@ -54,7 +54,7 @@ Historic field boundaries, categories when known, from the last 200 years, infer
 
 ## OS Enhanced Land Cover
 
-
+A land-cover dataset mapped onto a H3 hex grid (310m2 each), using premium os NGD data, enhanced by open third-party datasets from Natural England (Living England, Ancient Woodland, Priority Habitats, Designated Sites), Historic England (Designated Sites) and Rural Payments Agency (CROME dataset). OS imagery and height data are used to identify detailed areas of tree canopy and vegetation cover. The combined dataset is classified into broad land cover types and UKHab primary and secondary land cover types.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** Vegetation
