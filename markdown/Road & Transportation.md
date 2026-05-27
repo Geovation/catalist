@@ -2,7 +2,7 @@
 title: Road & Transportation
 has_children: false
 parent: Catalist
-nav_order: 13
+nav_order: 14
 ---
 
 # Road & Transportation
@@ -14,7 +14,8 @@ nav_order: 13
 | [Road Collisions](#road-collisions)                                                                                           | Department for Transport | Open      | [Data link 1](https://www.gov.uk/government/statistics/road-safety-data#latest-year-data)                                   | [Data link 2](https://cran.r-project.org/web/packages/stats19/index.html)                                                                                             | [Docs link](https://www.gov.uk/guidance/road-accident-and-safety-statistics-guidance)                                                    |
 | [Bus Open Data Service](#bus-open-data-service)                                                                               | Department for Transport | Open      | [Data link 1](https://data.bus-data.dft.gov.uk/downloads/)                                                                  | [Data link 2](https://data.bus-data.dft.gov.uk/guidance/requirements/?section=apireference)                                                                           | [Docs link](https://data.bus-data.dft.gov.uk/guidance/requirements/)                                                                     |
 | [National Public Transport Access Nodes - NaPTAN](#national-public-transport-access-nodes---naptan)                           | Department for Transport | Open      | [Data link 1](https://beta-naptan.dft.gov.uk/download)                                                                      |                                                                                                                                                                       | [Docs link](https://www.gov.uk/government/publications/national-public-transport-access-node-schema/naptan-guide-for-data-managers)      |
-| [HERE Traffic Flow & Incidents](#here-traffic-flow-&-incidents)                                                               | HERE Technologies        | Premium   | [Data link 1](https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html)                                | [Data link 2](https://docs.here.com/here-sdk/docs/readme)                                                                                                             | [Docs link](https://www.here.com/docs/bundle/traffic-api-developer-guide-v7/page/README.html)                                            |
+| [Road Traffic Data](#road-traffic-data)                                                                                       | Department for Transport | Open      | [Data link 1](https://roadtraffic.dft.gov.uk/api-documentation)                                                             | [Data link 2](https://roadtraffic.dft.gov.uk/downloads#downloads)                                                                                                     | [Docs link](https://roadtraffic.dft.gov.uk/about)                                                                                        |
+| [HERE Traffic Flow & Incidents](#here-traffic-flow-&-incidents)                                                               | HERE Technologies        | Premium   | [Data link 1](https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html)                                | [Data link 2](https://docs.here.com/here-sdk/docs)                                                                                                                    | [Docs link](https://www.here.com/docs/bundle/traffic-api-developer-guide-v7/page/README.html)                                            |
 | [Directory of Low Bridges, Truck Stops, Weighbridge Locations](#directory-of-low-bridges,-truck-stops,-weighbridge-locations) | HGV Alliance             | Open      | [Data link 1](https://www.google.co.uk/maps/d/viewer?mid=14LIoLXZYXIKEqcYGj_00INpdCw7T_akY&hl=en_GB)                        |                                                                                                                                                                       | [Docs link](https://www.motorhomefun.co.uk/forum/threads/google-map-of-uk-with-low-bridges-public-weigh-bridges-and-truck-stops.292321/) |
 | [Network Rail Data Feeds](#network-rail-data-feeds)                                                                           | Network Rail             | Open      | [Data link 1](https://www.rspaccreditation.org/publicDocumentation.php#RSPS5xxx)                                            |                                                                                                                                                                       | [Docs link](https://publicdatafeeds.networkrail.co.uk/ntrod/account/profile)                                                             |
 | [OS NGD Transport Theme](#os-ngd-transport-theme)                                                                             | Ordnance Survey          | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                            | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/transport)                                                                           |
@@ -99,6 +100,20 @@ All bus, rail, tram, metro, underground, air and ferry public transport access p
 
 
 
+## Road Traffic Data
+
+Counts of vehicles passing count points long roads in GB. There are between 45k and 50k count points. Counts are split by day, direction of travel, and by vehicle. Vehicles cover bicycles, cars/taxis, buses/coaches, motorbikes/mopeds, LGVs, and various types of HGVs. Some data points are directly measured, others are estimated. Details about the road are also provided.
+
+- **Category:** Road & Transportation
+- **Secondary Category:** 
+- **Provider:** Department for Transport
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://roadtraffic.dft.gov.uk/api-documentation)
+- **Data link 2:** [Data link 2](https://roadtraffic.dft.gov.uk/downloads#downloads)
+- **Docs link:** [Docs link](https://roadtraffic.dft.gov.uk/about)
+
+
+
 ## HERE Traffic Flow & Incidents
 
 Real-time traffic flow and incident data, compiled from various datasets including connected car probes, roadway sensors, and live operations centers. Flow/conjestion data is updated every minute and incident data every two minutes. Covers 70 countries besides the UK. Flow/congestion data includes jam ratings, expected speed (with confidence ratings depending on data availability), jam tendancy (whether conjestion is increasing or decreasing junction closure), and sometimes lane-specific information. Incident data is detailed and categorised with causes, times, criticality, junction transversability, and free-text descriptions. Restrictions are also included, including the vehicle type(s) and the restriction type (eg. emissions, weight, height, fuel type).
@@ -108,7 +123,7 @@ Real-time traffic flow and incident data, compiled from various datasets includi
 - **Provider:** HERE Technologies
 - **Licensing:** Premium
 - **Data link 1:** [Data link 1](https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html)
-- **Data link 2:** [Data link 2](https://docs.here.com/here-sdk/docs/readme)
+- **Data link 2:** [Data link 2](https://docs.here.com/here-sdk/docs)
 - **Docs link:** [Docs link](https://www.here.com/docs/bundle/traffic-api-developer-guide-v7/page/README.html)
 
 

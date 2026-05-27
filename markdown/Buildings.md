@@ -2,14 +2,14 @@
 title: Buildings
 has_children: false
 parent: Catalist
-nav_order: 4
+nav_order: 5
 ---
 
 # Buildings
 
 | Name                                                                  | Provider                                           | Licensing | Data link 1                                                                                                                                      | Data link 2                                                                                                                                                           | Docs link                                                                                                                                                |
 | --------------------------------------------------------------------- | -------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Energy Performance Certificates](#energy-performance-certificates)   | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://swagger.io/specification/)                                                                                                 | [Data link 2](https://get-energy-performance-data.communities.gov.uk/filter-properties)                                                                               | [Docs link](https://get-energy-performance-data.communities.gov.uk/guidance)                                                                             |
+| [Energy Performance Certificates](#energy-performance-certificates)   | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://swagger.io/specification/)                                                                                                 | [Data link 2](https://get-energy-performance-data.communities.gov.uk/type-of-properties)                                                                              | [Docs link](https://get-energy-performance-data.communities.gov.uk/guidance)                                                                             |
 | [Google Solar](#google-solar)                                         | Google                                             | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest)                                                             |                                                                                                                                                                       | [Docs link](https://developers.google.com/maps/documentation/solar/overview)                                                                             |
 | [Listed Buildings & Sites](#listed-buildings-&-sites)                 | Historic England                                   | Open      | [Data link 1](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/explore?layer=3) |                                                                                                                                                                       | [Docs link](https://opendata-historicengland.hub.arcgis.com/datasets/historicengland::national-heritage-list-for-england-nhle/about?layer=3)             |
 | [National Polygon Service](#national-polygon-service)                 | HM Land Registry                                   | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/nps#access)                                                                 | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                                                        | [Docs link](https://use-land-property-data.service.gov.uk/datasets/nps/tech-spec/1)                                                                      |
@@ -40,7 +40,7 @@ EPC rating for properties, along with other energy-related stats. About 60% have
 - **Provider:** Department for Levelling Up, Housing & Communities
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://swagger.io/specification/)
-- **Data link 2:** [Data link 2](https://get-energy-performance-data.communities.gov.uk/filter-properties)
+- **Data link 2:** [Data link 2](https://get-energy-performance-data.communities.gov.uk/type-of-properties)
 - **Docs link:** [Docs link](https://get-energy-performance-data.communities.gov.uk/guidance)
 
 

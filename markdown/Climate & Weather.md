@@ -2,7 +2,7 @@
 title: Climate & Weather
 has_children: false
 parent: Catalist
-nav_order: 5
+nav_order: 6
 ---
 
 # Climate & Weather

@@ -2,14 +2,14 @@
 title: Energy & Infrastructure
 has_children: false
 parent: Catalist
-nav_order: 7
+nav_order: 8
 ---
 
 # Energy & Infrastructure
 
 | Name                                                                              | Provider                                           | Licensing | Data link 1                                                                                                                  | Data link 2                                                                                                                                                           | Docs link                                                                                                            |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Energy Performance Certificates](#energy-performance-certificates)               | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://swagger.io/specification/)                                                                             | [Data link 2](https://get-energy-performance-data.communities.gov.uk/filter-properties)                                                                               | [Docs link](https://get-energy-performance-data.communities.gov.uk/guidance)                                         |
+| [Energy Performance Certificates](#energy-performance-certificates)               | Department for Levelling Up, Housing & Communities | Open      | [Data link 1](https://swagger.io/specification/)                                                                             | [Data link 2](https://get-energy-performance-data.communities.gov.uk/type-of-properties)                                                                              | [Docs link](https://get-energy-performance-data.communities.gov.uk/guidance)                                         |
 | [Google Solar](#google-solar)                                                     | Google                                             | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest)                                         |                                                                                                                                                                       | [Docs link](https://developers.google.com/maps/documentation/solar/overview)                                         |
 | [DNO Energy Catalogues](#dno-energy-catalogues)                                   | Huwise                                             | Open      | [Data link 1](https://help.opendatasoft.com/apis/ods-explore-v2/#tag/Dataset/operation/getRecords)                           | [Data link 2](https://help.opendatasoft.com/apis/ods-explore-v2/#tag/Dataset/operation/exportRecords)                                                                 | [Docs link](https://ukpowernetworks.opendatasoft.com/pages/home/)                                                    |
 | [Cadent Open Data](#cadent-open-data)                                             | Huwise                                             | Open      | [Data link 1](https://cadentgas.opendatasoft.com/api/explore/v2.1/console)                                                   | [Data link 2](https://cadentgas.opendatasoft.com/explore/?sort=explore.popularity_score&refine.theme=Open)                                                            | [Docs link](https://cadentgas.opendatasoft.com/explore/dataset/gas-pipe-infrastructure-gpi_open/information/)        |
@@ -29,7 +29,7 @@ EPC rating for properties, along with other energy-related stats. About 60% have
 - **Provider:** Department for Levelling Up, Housing & Communities
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://swagger.io/specification/)
-- **Data link 2:** [Data link 2](https://get-energy-performance-data.communities.gov.uk/filter-properties)
+- **Data link 2:** [Data link 2](https://get-energy-performance-data.communities.gov.uk/type-of-properties)
 - **Docs link:** [Docs link](https://get-energy-performance-data.communities.gov.uk/guidance)
 
 
