@@ -2,7 +2,7 @@
 title: History
 has_children: false
 parent: Catalist
-nav_order: 10
+nav_order: 11
 ---
 
 # History
@@ -19,6 +19,7 @@ nav_order: 10
 | [National Historic Landscape Characterisation Grid](#national-historic-landscape-characterisation-grid) | Natural England              | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/national-historic-landscape-characterisation-250m-grid-england/explore)     | [Data link 2](https://environment.data.gov.uk/geoservices/datasets/e417a184-9ec0-4664-a257-d2f123571574/ogc/features/v1/openapi#/Data)                                | [Docs link](https://www.data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7b819205002/national-historic-landscape-characterisation-250m-grid-england) |
 | [OS NGD Geographical Names Theme](#os-ngd-geographical-names-theme)                                     | Ordnance Survey              | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-named-features)                                                                          | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/geographical-names)                                                                          |
 | [Historic OS Features](#historic-os-features)                                                           | Ordnance Survey              | Premium   | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature#get-wfs-archive-year)                 |                                                                                                                                                                       | [Docs link](https://www.ordnancesurvey.co.uk/products/os-features-api)                                                                           |
+| [OS Triangulation Stations](#os-triangulation-stations)                                                 | Ordnance Survey              | Open      | [Data link 1](https://www.ordnancesurvey.co.uk/geodesy-positioning/legacy-data/trig-search)                                                         |                                                                                                                                                                       | [Docs link](https://www.ordnancesurvey.co.uk/documents/resources/history-retriangulation-great-britain-1935-1962.pdf)                            |
 | [Ancient Tree Inventory](#ancient-tree-inventory)                                                       | Woodland Trust               | Open      | [Data link 1](https://opendata-woodlandtrust.hub.arcgis.com/datasets/9d2d13b04d654ceb9ba6e0697c1e0c29_0/explore?location=53.745564%2C-2.834680%2C7) |                                                                                                                                                                       | [Docs link](https://ati.woodlandtrust.org.uk/)                                                                                                   |
 | [X API](#x-api)                                                                                         | X                            | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                                                                          |                                                                                                                                                                       | [Docs link](https://docs.x.com/x-api/introduction)                                                                                               |
 
@@ -159,6 +160,20 @@ Yearly snapshots of OS features going back to 2004. These cover buildings, land,
 - **Data link 1:** [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature#get-wfs-archive-year)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.ordnancesurvey.co.uk/products/os-features-api)
+
+
+
+## OS Triangulation Stations
+
+Coordinates for all GB triangulation stations (trig pillars), including approximate locations for destroyed stations.
+
+- **Category:** Basemaps & Terrain
+- **Secondary Category:** History
+- **Provider:** Ordnance Survey
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.ordnancesurvey.co.uk/geodesy-positioning/legacy-data/trig-search)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.ordnancesurvey.co.uk/documents/resources/history-retriangulation-great-britain-1935-1962.pdf)
 
 
 

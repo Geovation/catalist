@@ -2,7 +2,7 @@
 title: Land & Land Use
 has_children: false
 parent: Catalist
-nav_order: 11
+nav_order: 12
 ---
 
 # Land & Land Use
@@ -25,7 +25,7 @@ nav_order: 11
 | [Sites of Special Scientific Interest](#sites-of-special-scientific-interest)                           | Natural England                                     | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)                                                  | [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1)                                               | [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about)                 |
 | [National Historic Landscape Characterisation Grid](#national-historic-landscape-characterisation-grid) | Natural England                                     | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/national-historic-landscape-characterisation-250m-grid-england/explore)                                       | [Data link 2](https://environment.data.gov.uk/geoservices/datasets/e417a184-9ec0-4664-a257-d2f123571574/ogc/features/v1/openapi#/Data)                                | [Docs link](https://www.data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7b819205002/national-historic-landscape-characterisation-250m-grid-england) |
 | [OS NGD Land Theme](#os-ngd-land-theme)                                                                 | Ordnance Survey                                     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                                                                      | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/land)                                                                                        |
-| [OS Open Greenspace](#os-open-greenspace)                                                               | Ordnance Survey                                     | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace)                                                                                                                  | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)                                     | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)                                                                       |
+| [OS Open Greenspace](#os-open-greenspace)                                                               | Ordnance Survey                                     | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace)                                                                                                                  | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature#get-wfs)                                                | [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)                                                                       |
 | [OS NGD Land Use Theme](#os-ngd-land-use-theme)                                                         | Ordnance Survey                                     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-land-use-features)                                                                                                         | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/land-use)                                                                                    |
 | [Overture Maps Base Layer](#overture-maps-base-layer)                                                   | Overture Maps Foundation                            | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                                                                            | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                                          |
 | [PropertyData Title Registers](#propertydata-title-registers)                                           | PropertyData                                        | Premium   | [Data link 1](https://propertydata.co.uk/api/pricing?x=api_docs)                                                                                                                      |                                                                                                                                                                       | [Docs link](https://propertydata.co.uk/api/documentation/land-registry-documents)                                                                |
@@ -82,7 +82,7 @@ Hierarchical Output Area-level geodemographic classification across the UK which
 
 ## London Plan - Opportunity Areas
 
-Areas identified in the Mayor's London Plan as key locations with potential for new homes, jobs and infrastructure of all types. Many are linked to existing or potential public transport improvements and typically have capacity for at least 2,500 new homes or 5,000 new jobs, or a combination of the two. London’s major source of brownfield land with significant capacity. Includes estimates of non-adopted boundaries.
+Areas identified in the Mayor's London Plan as key locations with potential for new homes, jobs and infrastructure of all types. Many are linked to existing or potential public transport improvements and typically have capacity for at least 2,500 new homes or 5,000 new jobs, or a combination of the two. London�s major source of brownfield land with significant capacity. Includes estimates of non-adopted boundaries.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** 
@@ -271,7 +271,7 @@ OS Open Greenspace depicts the location and extent of spaces, such as parks and 
 - **Provider:** Ordnance Survey
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://osdatahub.os.uk/downloads/open/OpenGreenspace)
-- **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)
+- **Data link 2:** [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-features-api/technical-specification/getfeature#get-wfs)
 - **Docs link:** [Docs link](https://docs.os.uk/os-downloads/topography/os-open-greenspace)
 
 
@@ -320,7 +320,7 @@ Supplies official copies of title registers and/or title plans. A streamlined wr
 
 ## Crop Map of England (CROME)
 
-32 million hexagonal cells classifying England into over 15 main crop types, grassland, and non-agricultural land covers, such as Woodland, Water Bodies, Fallow Land and other non-agricultural land covers. The classification was created automatically using supervised classification (Random Forest Classification) from the combination of Sentinel-1 Radar Satellite time series images during the period January 2025 – August 2025. A separate downloadable lookup table matches the codes to the land classifications.
+32 million hexagonal cells classifying England into over 15 main crop types, grassland, and non-agricultural land covers, such as Woodland, Water Bodies, Fallow Land and other non-agricultural land covers. The classification was created automatically using supervised classification (Random Forest Classification) from the combination of Sentinel-1 Radar Satellite time series images during the period January 2025 � August 2025. A separate downloadable lookup table matches the codes to the land classifications.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** Vegetation

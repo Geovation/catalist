@@ -2,7 +2,7 @@
 title: Energy & Infrastructure
 has_children: false
 parent: Catalist
-nav_order: 8
+nav_order: 9
 ---
 
 # Energy & Infrastructure

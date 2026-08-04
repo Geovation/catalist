@@ -2,7 +2,7 @@
 title: Vegetation
 has_children: false
 parent: Catalist
-nav_order: 17
+nav_order: 18
 ---
 
 # Vegetation
@@ -66,7 +66,7 @@ A land-cover dataset mapped onto a H3 hex grid (310m2 each), using premium os NG
 
 ## National Trees Outside Woodland Map
 
-Trees above 3 metres and 5m2 area outside of woodland, including small woods, groups of trees and lone trees in England. Includes max/min/average height.
+Trees above 3 metres and 5m2 area outside of woodland, including small woods, groups of trees and lone trees in England.�Includes max/min/average height.
 
 - **Category:** Vegetation
 - **Secondary Category:** 
@@ -108,7 +108,7 @@ All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover
 
 ## Living England Habitat Map
 
-A multi‑year programme developing a national habitat map of England using satellite imagery and machine learning. Land is classified into 15+ broad habitat categories using a Random Forest model. The output is based on a 10‑metre grid, aligned with the resolution of Sentinel‑1 and Sentinel‑2 Copernicus satellite data, which form the core earth observation inputs. The current habitat probability map is primarily trained on satellite data from 2021, alongside field survey data collected over multiple years and a wide range of historic and contemporary datasets .
+A multi?year programme developing a national habitat map of England using satellite imagery and machine learning. Land is classified into 15+ broad habitat categories using a Random Forest model. The output is based on a 10?metre grid, aligned with the resolution of Sentinel?1 and Sentinel?2 Copernicus satellite data, which form the core earth observation inputs. The current habitat probability map is primarily trained on satellite data from 2021, alongside field survey data collected over multiple years and a wide range of historic and contemporary datasets .
 
 - **Category:** Vegetation
 - **Secondary Category:** 
@@ -136,7 +136,7 @@ Line geometries representing field boundaries, granularly subdivided into catego
 
 ## Crop Map of England (CROME)
 
-32 million hexagonal cells classifying England into over 15 main crop types, grassland, and non-agricultural land covers, such as Woodland, Water Bodies, Fallow Land and other non-agricultural land covers. The classification was created automatically using supervised classification (Random Forest Classification) from the combination of Sentinel-1 Radar Satellite time series images during the period January 2025 – August 2025. A separate downloadable lookup table matches the codes to the land classifications.
+32 million hexagonal cells classifying England into over 15 main crop types, grassland, and non-agricultural land covers, such as Woodland, Water Bodies, Fallow Land and other non-agricultural land covers. The classification was created automatically using supervised classification (Random Forest Classification) from the combination of Sentinel-1 Radar Satellite time series images during the period January 2025 � August 2025. A separate downloadable lookup table matches the codes to the land classifications.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** Vegetation

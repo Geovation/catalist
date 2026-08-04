@@ -2,27 +2,28 @@
 title: Satellite & Aerial Imagery
 has_children: false
 parent: Catalist
-nav_order: 15
+nav_order: 16
 ---
 
 # Satellite & Aerial Imagery
 
 | Name                                                                | Provider              | Licensing | Data link 1                                                                                                                            | Data link 2                                                                                          | Docs link                                                                                                     |
 | ------------------------------------------------------------------- | --------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [Pléiades Neo](#pléiades-neo)                                       | Airbus                | Premium   | [Data link 1](https://space-solutions.airbus.com/contact-us/order-imagery/)                                                            | [Data link 2](https://space-solutions.airbus.com/imagery/how-to-order-imagery-and-data/one-tasking/) | [Docs link](https://space-solutions.airbus.com/imagery/our-optical-and-radar-satellite-imagery/pleiades-neo/) |
+| [Pl�iades Neo](#pl�iades-neo)                                       | Airbus                | Premium   | [Data link 1](https://space-solutions.airbus.com/contact-us/order-imagery/)                                                            | [Data link 2](https://space-solutions.airbus.com/imagery/how-to-order-imagery-and-data/one-tasking/) | [Docs link](https://space-solutions.airbus.com/imagery/our-optical-and-radar-satellite-imagery/pleiades-neo/) |
 | [BlueSky Aerial Photography](#bluesky-aerial-photography)           | BlueSky               | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res)                                                                 | [Data link 2](https://www.blueskymapshop.com/account/register)                                       | [Docs link](https://www.blueskymapshop.com/products/aerial-photography)                                       |
 | [Sentinel 2 Imagery](#sentinel-2-imagery)                           | European Space Agency | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis) | [Data link 2](https://browser.dataspace.copernicus.eu/)                                              | [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel2.html)               |
 | [GetMapping Aerial Content](#getmapping-aerial-content)             | GetMapping            | Premium   | [Data link 1](https://www.getmapping.co.uk/contact-getmapping/)                                                                        | [Data link 2](https://www1.getmapping.com/Webshop/Web/Business/Getplanning.aspx)                     | [Docs link](https://www.getmapping.co.uk/aerial-content/)                                                     |
 | [Pixxel Hyperspectral Imagery](#pixxel-hyperspectral-imagery)       | Pixxel                | Premium   | [Data link 1](https://www.pixxel.space/hyperspectral-imagery)                                                                          | [Data link 2](https://docs.pixxel.space/api-reference)                                               | [Docs link](https://support.pixxel.space/hc/en-us/articles/9588039261724-Pixxel-Product-Specifications-Guide) |
 | [PlanetScope - Planet Monitoring](#planetscope---planet-monitoring) | Planet                | Premium   | [Data link 1](https://www.planet.com/products/satellite-monitoring/)                                                                   | [Data link 2](https://docs.planet.com/develop/apis/data/)                                            | [Docs link](https://docs.planet.com/data/imagery/planetscope/)                                                |
 | [SkySat - Planet Tasking](#skysat---planet-tasking)                 | Planet                | Premium   | [Data link 1](https://www.planet.com/products/high-resolution-satellite-imagery/)                                                      | [Data link 2](https://docs.planet.com/develop/apis/data/)                                            | [Docs link](https://docs.planet.com/data/imagery/skysat/)                                                     |
+| [SatVu Thermal Imagery](#satvu-thermal-imagery)                     | SatVu                 | Premium   | [Data link 1](https://docs.satellitevu.com/developers/api/overview/)                                                                   | [Data link 2](https://github.com/SatelliteVu/satvu-api-sdk)                                          | [Docs link](https://www.satellitevu.com/products/thermal-imagery)                                             |
 | [Vantor - WorldView](#vantor---worldview)                           | Vantor                | Premium   | [Data link 1](https://vantor.com/get-started/)                                                                                         | [Data link 2](https://vantor.com/partner-directory/)                                                 | [Docs link](https://vantor.com/product/worldview)                                                             |
 | [Vexcel Oblique Imagery](#vexcel-oblique-imagery)                   | Vexcel                | Premium   | [Data link 1](https://vexceldata.com/platform/evaluations/)                                                                            | [Data link 2](https://vexceldata.com/request-a-demo/)                                                | [Docs link](https://vexceldata.com/products/oblique-imagery/)                                                 |
 | [Vexcel Orthomosaic Imagery](#vexcel-orthomosaic-imagery)           | Vexcel                | Premium   | [Data link 1](https://vexceldata.com/platform/evaluations/)                                                                            | [Data link 2](https://vexceldata.com/request-a-demo/)                                                | [Docs link](https://vexceldata.com/products/orthomosaic-imagery/)                                             |
 
-## Pléiades Neo
+## Pl�iades Neo
 
-30cm-resolution global imagery. 3.5m location accuracy. Daily revisits. Includes multispectral Deep Blue/Red Edge. A lower-resolution product (Pléiades, 50cm) also available.
+30cm-resolution global imagery. 3.5m location accuracy. Daily revisits. Includes multispectral Deep Blue/Red Edge. A lower-resolution product (Pl�iades, 50cm) also available.
 
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
@@ -36,7 +37,7 @@ nav_order: 15
 
 ## BlueSky Aerial Photography
 
-12.5cm aerial imagery on 2-year update programme. ± 50cm accuracy.
+12.5cm aerial imagery on 2-year update programme. � 50cm accuracy.
 
 - **Category:** Satellite & Aerial Imagery
 - **Secondary Category:** 
@@ -115,6 +116,20 @@ High-resolution imagery captured by a fleet of satellites, updated up to 10 time
 - **Data link 1:** [Data link 1](https://www.planet.com/products/high-resolution-satellite-imagery/)
 - **Data link 2:** [Data link 2](https://docs.planet.com/develop/apis/data/)
 - **Docs link:** [Docs link](https://docs.planet.com/data/imagery/skysat/)
+
+
+
+## SatVu Thermal Imagery
+
+3.5m-resolution infrared imagery, captured once every 1-2 days during both day and night. Specific observations can be tasked through the platform. Can also provide video sequences up to 60 seconds long.
+
+- **Category:** Climate & Weather
+- **Secondary Category:** Satellite & Aerial Imagery
+- **Provider:** SatVu
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://docs.satellitevu.com/developers/api/overview/)
+- **Data link 2:** [Data link 2](https://github.com/SatelliteVu/satvu-api-sdk)
+- **Docs link:** [Docs link](https://www.satellitevu.com/products/thermal-imagery)
 
 
 
