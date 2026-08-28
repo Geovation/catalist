@@ -55,7 +55,7 @@ Addresses sourced from OS Code Point Open, property sales, council tax register,
 
 ## HMLR Price Paid Data
 
-The price paid for properties, and the completion date. Address included, but no linking IDs such as UPRNs.
+The price paid for properties, and the completion date. Includes address, and monthly files from August 2026 also include lookup tables for UPRNs and INSPIRE IDs, which enables greater dataset linking and geolocation.
 
 - **Category:** Addressing
 - **Secondary Category:** Buildings

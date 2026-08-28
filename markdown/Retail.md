@@ -37,7 +37,7 @@ Various data about property listings on Expedia and Vrbo, including information 
 
 ## Food Hygiene Ratings
 
-Hygiene ratings for establishments where people eat: restaurants, pubs, caf�s, takeaways, hotels etc., scored 1-5. Includes address, geolocation, and basic classification of the esablishment.
+Hygiene ratings for establishments where people eat: restaurants, pubs, cafés, takeaways, hotels etc., scored 1-5. Includes address, geolocation, and basic classification of the esablishment.
 
 - **Category:** Retail
 - **Secondary Category:** Health & Safety

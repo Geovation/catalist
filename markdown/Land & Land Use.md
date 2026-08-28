@@ -17,7 +17,7 @@ nav_order: 12
 | [Local Land Charges](#local-land-charges)                                                               | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/llc/download)                                                                                                    |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/llc)                                                                          |
 | [INSPIRE Index Polygons](#inspire-index-polygons)                                                       | HM Land Registry                                    | Open      | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/inspire/download#download)                                                                                       |                                                                                                                                                                       | [Docs link](https://use-land-property-data.service.gov.uk/datasets/inspire)                                                                      |
 | [Restrictive Covenants](#restrictive-covenants)                                                         | HM Land Registry                                    | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/res_cov#access)                                                                                                  | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                                                        | [Docs link](https://use-land-property-data.service.gov.uk/datasets/res_cov/tech-spec)                                                            |
-| [NATMAP Vector](#natmap-vector)                                                                         | LandIS - Cranfield University                       | Premium   | [Data link 1](https://www.landis.org.uk/contact/)                                                                                                                                     |                                                                                                                                                                       | [Docs link](https://www.landis.org.uk/data/nmvector.cfm)                                                                                         |
+| [National Soil Map for England and Wales (NATMAP)](#national-soil-map-for-england-and-wales-(natmap))   | LandIS - Cranfield University                       | Premium   | [Data link 1](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/api)                                                                                             | [Data link 2](https://portal.landis.org.uk/search?collection=dataset&tags=natmap)                                                                                     | [Docs link](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/about)                                                        |
 | [Barbour ABI Planning Applications](#barbour-abi-planning-applications)                                 | Landmark                                            | Premium   | [Data link 1](https://www.landmark.co.uk/products/planning-api/planning-api-documentation/)                                                                                           |                                                                                                                                                                       | [Docs link](https://www.landmark.co.uk/products/planning-api)                                                                                    |
 | [LandTech Planning Applications](#landtech-planning-applications)                                       | LandTech                                            | Premium   | [Data link 1](https://developers.land.tech/openapi/planning-applications)                                                                                                             |                                                                                                                                                                       | [Docs link](https://land.tech/landtech-datasets#planning-applications-data)                                                                      |
 | [UK Planning Data Platform](#uk-planning-data-platform)                                                 | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                                                                              |                                                                                                                                                                       | [Docs link](https://www.planning.data.gov.uk/docs)                                                                                               |
@@ -82,7 +82,7 @@ Hierarchical Output Area-level geodemographic classification across the UK which
 
 ## London Plan - Opportunity Areas
 
-Areas identified in the Mayor's London Plan as key locations with potential for new homes, jobs and infrastructure of all types. Many are linked to existing or potential public transport improvements and typically have capacity for at least 2,500 new homes or 5,000 new jobs, or a combination of the two. London�s major source of brownfield land with significant capacity. Includes estimates of non-adopted boundaries.
+Areas identified in the Mayor's London Plan as key locations with potential for new homes, jobs and infrastructure of all types. Many are linked to existing or potential public transport improvements and typically have capacity for at least 2,500 new homes or 5,000 new jobs, or a combination of the two. London’s major source of brownfield land with significant capacity. Includes estimates of non-adopted boundaries.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** 
@@ -150,17 +150,17 @@ Records of restrictive covenants between two properties. Does not include the de
 
 
 
-## NATMAP Vector
+## National Soil Map for England and Wales (NATMAP)
 
-1:250K scale map of England and Wales from ~300 soil associations. Detailed soil information and related information such as topsoil, subsoils, available water, drainage, and carbon. Includes some geological and land use descriptions. This is LANDIS's principal soil dataset, which is derived into simpler datasets such as NATMAP Soilscapes NATMAP 1000, and NATMAP Carbon. 
+1:250K scale map of England and Wales from ~300 soil associations. Detailed soil information and related information such as topsoil, subsoils, available water, drainage, and carbon. Includes some geological and land use descriptions. NATMAP is LANDIS's principal soil dataset, which is derived into simpler datasets such as NATMAP Soilscapes, NATMAP 1000, and NATMAP Carbon. 
 
 - **Category:** Soil & Geology
 - **Secondary Category:** Land & Land Use
 - **Provider:** LandIS - Cranfield University
 - **Licensing:** Premium
-- **Data link 1:** [Data link 1](https://www.landis.org.uk/contact/)
-- **Data link 2:** 
-- **Docs link:** [Docs link](https://www.landis.org.uk/data/nmvector.cfm)
+- **Data link 1:** [Data link 1](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/api)
+- **Data link 2:** [Data link 2](https://portal.landis.org.uk/search?collection=dataset&tags=natmap)
+- **Docs link:** [Docs link](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/about)
 
 
 
@@ -320,7 +320,7 @@ Supplies official copies of title registers and/or title plans. A streamlined wr
 
 ## Crop Map of England (CROME)
 
-32 million hexagonal cells classifying England into over 15 main crop types, grassland, and non-agricultural land covers, such as Woodland, Water Bodies, Fallow Land and other non-agricultural land covers. The classification was created automatically using supervised classification (Random Forest Classification) from the combination of Sentinel-1 Radar Satellite time series images during the period January 2025 � August 2025. A separate downloadable lookup table matches the codes to the land classifications.
+32 million hexagonal cells classifying England into over 15 main crop types, grassland, and non-agricultural land covers, such as Woodland, Water Bodies, Fallow Land and other non-agricultural land covers. The classification was created automatically using supervised classification (Random Forest Classification) from the combination of Sentinel-1 Radar Satellite time series images during the period January 2025 – August 2025. A separate downloadable lookup table matches the codes to the land classifications.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** Vegetation
@@ -390,7 +390,7 @@ Land parcels classified into 21 UKCEH Land Cover Classes based on Biodiversity B
 
 ## UKCEH Land Cover Plus - Crops
 
-UKCEH Land Cover parcels categorised into 11 crops (winter & spring wheat/barley, beet, beans, maize, oilseed rape, poratoes, grass, 'other') using Sentinel satellite data. Accuracy of about 90%.
+UKCEH Land Cover parcels categorised into 11 crops (winter & spring wheat/barley, beet, beans, maize, oilseed rape, potatos, grass, 'other') using Sentinel satellite data. Accuracy of about 90%.
 
 - **Category:** Land & Land Use
 - **Secondary Category:** Vegetation

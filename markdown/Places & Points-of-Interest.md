@@ -136,7 +136,7 @@ the most current and comprehensive list of vernacular names of features and plac
 
 ## Overture Maps Places Layer
 
-Real-world entities and points of interest: schools, businesses, hospitals, religious organizations, landmarks, mountain peaks etc. Compiled from Meta, Microsoft, and PinMeTo.
+Real-world entities and points of interest: schools, businesses, hospitals, religious organizations, landmarks, mountain peaks etc. Compiled from Meta, Microsoft, Foursquare, PinMeTo, and other smaller sources.
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** 
