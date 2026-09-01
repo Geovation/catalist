@@ -7,18 +7,20 @@ nav_order: 17
 
 # Soil & Geology
 
-| Name                                                                                                  | Provider                                         | Licensing | Data link 1                                                                                                           | Data link 2                                                                              | Docs link                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| [Radon Poteintial](#radon-poteintial)                                                                 | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/radon-data-radon-potential-dataset/#access)                              |                                                                                          | [Docs link](https://nora.nerc.ac.uk/id/eprint/537367/)                                                                    |
-| [Indicative Atlas of Radon](#indicative-atlas-of-radon)                                               | British Geological Survey                        | Open      | [Data link 1](https://www.bgs.ac.uk/datasets/radon-data-indicative-atlas-of-radon/#access)                            |                                                                                          | [Docs link](https://nora.nerc.ac.uk/id/eprint/537367/)                                                                    |
-| [BGS Geology 10K](#bgs-geology-10k)                                                                   | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-10k/)                                                        | [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)           | [Docs link](https://nora.nerc.ac.uk/id/eprint/540336/)                                                                    |
-| [BGS Geology 50K](#bgs-geology-50k)                                                                   | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-50k-digmapgb/)                                               | [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)           | [Docs link](https://nora.nerc.ac.uk/id/eprint/540337/)                                                                    |
-| [BGS Geology 625K](#bgs-geology-625k)                                                                 | British Geological Survey                        | Open      | [Data link 1](https://www.bgs.ac.uk/download/bgs-geology-625k-bedrock/)                                               | [Data link 2](https://www.bgs.ac.uk/technologies/web-services/web-feature-services-wfs/) | [Docs link](https://www.bgs.ac.uk/datasets/bgs-geology-625k/)                                                             |
-| [BGS GeoScour Open](#bgs-geoscour-open)                                                               | British Geological Survey                        | Open      | [Data link 1](https://www.bgs.ac.uk/download/bgs-geoscour-open-2/)                                                    | [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-open/)                         | [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)                                                      |
-| [BGS GeoScour Premium](#bgs-geoscour-premium)                                                         | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)                                        | [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-premium/)                      | [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)                                                      |
-| [Nutrient Neutrality Catchments](#nutrient-neutrality-catchments)                                     | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about) |                                                                                          | [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)                           |
-| [National Soil Map for England and Wales (NATMAP)](#national-soil-map-for-england-and-wales-(natmap)) | LandIS - Cranfield University                    | Open      | [Data link 1](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/api)                             | [Data link 2](https://portal.landis.org.uk/search?collection=dataset&tags=natmap)        | [Docs link](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/about)                                 |
-| [UK Topsoil Geochemistry ](#uk-topsoil-geochemistry-)                                                 | UK Soil Observatory                              | Open      | [Data link 1](https://www.ukso.org/static-maps/uk-topsoil-geochemistry.html)                                          |                                                                                          | [Docs link](https://www.data.gov.uk/dataset/4147e16c-b6ba-48b1-834a-0cedd7c7ca0e/uk-compiled-topsoil-ukts-raster-dataset) |
+| Name                                                                                                  | Provider                      | Licensing | Data link 1                                                                                                           | Data link 2                                                                              | Docs link                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Radon Poteintial](#radon-poteintial)                                                                 | British Geological Survey     | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/radon-data-radon-potential-dataset/#access)                              |                                                                                          | [Docs link](https://nora.nerc.ac.uk/id/eprint/537367/)                                                                    |
+| [Indicative Atlas of Radon](#indicative-atlas-of-radon)                                               | British Geological Survey     | Open      | [Data link 1](https://www.bgs.ac.uk/datasets/radon-data-indicative-atlas-of-radon/#access)                            |                                                                                          | [Docs link](https://nora.nerc.ac.uk/id/eprint/537367/)                                                                    |
+| [BGS Geology 10K](#bgs-geology-10k)                                                                   | British Geological Survey     | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-10k/)                                                        | [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)           | [Docs link](https://nora.nerc.ac.uk/id/eprint/540336/)                                                                    |
+| [BGS Geology 50K](#bgs-geology-50k)                                                                   | British Geological Survey     | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geology-50k-digmapgb/)                                               | [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)           | [Docs link](https://nora.nerc.ac.uk/id/eprint/540337/)                                                                    |
+| [BGS Geology 625K](#bgs-geology-625k)                                                                 | British Geological Survey     | Open      | [Data link 1](https://www.bgs.ac.uk/download/bgs-geology-625k-bedrock/)                                               | [Data link 2](https://www.bgs.ac.uk/technologies/web-services/web-feature-services-wfs/) | [Docs link](https://www.bgs.ac.uk/datasets/bgs-geology-625k/)                                                             |
+| [BGS GeoScour Open](#bgs-geoscour-open)                                                               | British Geological Survey     | Open      | [Data link 1](https://www.bgs.ac.uk/download/bgs-geoscour-open-2/)                                                    | [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-open/)                         | [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)                                                      |
+| [BGS GeoScour Premium](#bgs-geoscour-premium)                                                         | British Geological Survey     | Premium   | [Data link 1](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)                                        | [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-premium/)                      | [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)                                                      |
+| [BGS GeoSure 5km Hex Grid](#bgs-geosure-5km-hex-grid)                                                 | British Geological Survey     | Open      | [Data link 1](https://www.bgs.ac.uk/download/ogc-geopackage-bgs-geosure-5-km-hex-grid/)                               |                                                                                          | [Docs link](https://www.bgs.ac.uk/download/bgs-geosure-5km-hex-grids-information-note/)                                   |
+| [BGS GeoSure](#bgs-geosure)                                                                           | British Geological Survey     | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/geosure/#access)                                                         |                                                                                          | [Docs link](https://www.bgs.ac.uk/download/geosure_user_guide/)                                                           |
+| [National Soil Map for England and Wales (NATMAP)](#national-soil-map-for-england-and-wales-(natmap)) | LandIS - Cranfield University | Open      | [Data link 1](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/api)                             | [Data link 2](https://portal.landis.org.uk/search?collection=dataset&tags=natmap)        | [Docs link](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/about)                                 |
+| [Nutrient Neutrality Catchments](#nutrient-neutrality-catchments)                                     | Natural England               | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about) |                                                                                          | [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)                           |
+| [UK Topsoil Geochemistry ](#uk-topsoil-geochemistry-)                                                 | UK Soil Observatory           | Open      | [Data link 1](https://www.ukso.org/static-maps/uk-topsoil-geochemistry.html)                                          |                                                                                          | [Docs link](https://www.data.gov.uk/dataset/4147e16c-b6ba-48b1-834a-0cedd7c7ca0e/uk-compiled-topsoil-ukts-raster-dataset) |
 
 ## Radon Poteintial
 
@@ -118,17 +120,31 @@ Scores for lateral erosion (scouring) susceptibility at 50m intervals along wate
 
 
 
-## Nutrient Neutrality Catchments
+## BGS GeoSure 5km Hex Grid
 
-The extents and locations of surface water catchment areas: designated sites designed to manage and balance the amount of nutrients, like nitrogen and phosphorus, that enter and leave a specific ecosystem.
+5km hex-grid aggregated indicator of susceptibility to landslides, shrink-swell, soluble rock, compressible ground, collapsible deposits, and running sand.
 
-- **Category:** Water & Hydrology
-- **Secondary Category:** Soil & Geology
-- **Provider:** Department for Environment, Food & Rural Affairs
+- **Category:** Soil & Geology
+- **Secondary Category:** Land & Land Use
+- **Provider:** British Geological Survey
 - **Licensing:** Open
-- **Data link 1:** [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about)
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/download/ogc-geopackage-bgs-geosure-5-km-hex-grid/)
 - **Data link 2:** 
-- **Docs link:** [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)
+- **Docs link:** [Docs link](https://www.bgs.ac.uk/download/bgs-geosure-5km-hex-grids-information-note/)
+
+
+
+## BGS GeoSure
+
+1:50,000-scale indicator of susceptibility to landslides, shrink-swell, soluble rock, compressible ground, collapsible deposits, running sand, and debris flow.
+
+- **Category:** Soil & Geology
+- **Secondary Category:** Land & Land Use
+- **Provider:** British Geological Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/datasets/geosure/#access)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.bgs.ac.uk/download/geosure_user_guide/)
 
 
 
@@ -143,6 +159,20 @@ The extents and locations of surface water catchment areas: designated sites des
 - **Data link 1:** [Data link 1](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/api)
 - **Data link 2:** [Data link 2](https://portal.landis.org.uk/search?collection=dataset&tags=natmap)
 - **Docs link:** [Docs link](https://portal.landis.org.uk/datasets/b1ae8ea6315c4f43a8c2ae2f353e2664/about)
+
+
+
+## Nutrient Neutrality Catchments
+
+The extents and locations of surface water catchment areas: designated sites designed to manage and balance the amount of nutrients, like nitrogen and phosphorus, that enter and leave a specific ecosystem.
+
+- **Category:** Water & Hydrology
+- **Secondary Category:** Soil & Geology
+- **Provider:** Natural England
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)
 
 
 

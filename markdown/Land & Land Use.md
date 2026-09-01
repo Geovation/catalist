@@ -10,6 +10,8 @@ nav_order: 12
 | Name                                                                                                    | Provider                                            | Licensing | Data link 1                                                                                                                                                                           | Data link 2                                                                                                                                                           | Docs link                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Lost Boundaries](#lost-boundaries)                                                                     | ArchAI                                              | Premium   | [Data link 1](https://www.archai.io/contact)                                                                                                                                          |                                                                                                                                                                       | [Docs link](https://www.archai.io/historicfieldboundaries)                                                                                       |
+| [BGS GeoSure 5km Hex Grid](#bgs-geosure-5km-hex-grid)                                                   | British Geological Survey                           | Open      | [Data link 1](https://www.bgs.ac.uk/download/ogc-geopackage-bgs-geosure-5-km-hex-grid/)                                                                                               |                                                                                                                                                                       | [Docs link](https://www.bgs.ac.uk/download/bgs-geosure-5km-hex-grids-information-note/)                                                          |
+| [BGS GeoSure](#bgs-geosure)                                                                             | British Geological Survey                           | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/geosure/#access)                                                                                                                         |                                                                                                                                                                       | [Docs link](https://www.bgs.ac.uk/download/geosure_user_guide/)                                                                                  |
 | [OS Enhanced Land Cover](#os-enhanced-land-cover)                                                       | Emapsite                                            | Premium   | [Data link 1](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/?p=OSEnhancedLandCover)                                                    | [Data link 2](https://www.emapsite.com/digital-maps-and-data/environmental-information/land-cover-products/#contactformjump)                                          | [Docs link](https://www.ordnancesurvey.co.uk/documents/partners-secure/sales-enablement/os-enhanced-land-cover-technical-specification.pdf)      |
 | [Output Area Classification](#output-area-classification)                                               | Geographic Data Service                             | Open      | [Data link 1](https://data.geods.ac.uk/dataset/output-area-classification-2021)                                                                                                       |                                                                                                                                                                       | [Docs link](https://github.com/GeographicDataService/Output_Area_Classification)                                                                 |
 | [London Plan - Opportunity Areas](#london-plan---opportunity-areas)                                     | Greater London Authority                            | Open      | [Data link 1](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/about)                                                                                               | [Data link 2](https://hub.arcgis.com/datasets/8426b24e43774bb8be9b076f5f3808d3_0/api)                                                                                 | [Docs link](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/londons-opportunity-areas)                         |
@@ -49,6 +51,34 @@ Historic field boundaries, categories when known, from the last 200 years, infer
 - **Data link 1:** [Data link 1](https://www.archai.io/contact)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://www.archai.io/historicfieldboundaries)
+
+
+
+## BGS GeoSure 5km Hex Grid
+
+5km hex-grid aggregated indicator of susceptibility to landslides, shrink-swell, soluble rock, compressible ground, collapsible deposits, and running sand.
+
+- **Category:** Soil & Geology
+- **Secondary Category:** Land & Land Use
+- **Provider:** British Geological Survey
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/download/ogc-geopackage-bgs-geosure-5-km-hex-grid/)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.bgs.ac.uk/download/bgs-geosure-5km-hex-grids-information-note/)
+
+
+
+## BGS GeoSure
+
+1:50,000-scale indicator of susceptibility to landslides, shrink-swell, soluble rock, compressible ground, collapsible deposits, running sand, and debris flow.
+
+- **Category:** Soil & Geology
+- **Secondary Category:** Land & Land Use
+- **Provider:** British Geological Survey
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/datasets/geosure/#access)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://www.bgs.ac.uk/download/geosure_user_guide/)
 
 
 
