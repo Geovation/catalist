@@ -10,9 +10,10 @@ nav_order: 19
 | Name                                                                              | Provider                                         | Licensing | Data link 1                                                                                                           | Data link 2                                                                                                                                                           | Docs link                                                                                                                                                |
 | --------------------------------------------------------------------------------- | ------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [BGS GeoScour Open](#bgs-geoscour-open)                                           | British Geological Survey                        | Open      | [Data link 1](https://www.bgs.ac.uk/download/bgs-geoscour-open-2/)                                                    | [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-open/)                                                                                                      | [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)                                                                                     |
-| [BGS GeoScour Premium](#bgs-geoscour-premium)                                     | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)                                        | [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-premium/)                                                                                                   | [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)                                                                                     |
+| [BGS GeoScour Premium](#bgs-geoscour-premium)                                     | British Geological Survey                        | Premium   | [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geoscour-premium/)                                                   | [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)                                                                                        | [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)                                                                                     |
 | [Risk of Flooding from Rivers and Sea](#risk-of-flooding-from-rivers-and-sea)     | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://environment.data.gov.uk/dataset/96ab4342-82c1-4095-87f1-0082e8d84ef1)                           |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/file-management-open/data-sets/cf7e9513-2004-4ab7-befa-12294eedde0f/files/RoFRS%20Product%20Description.pdf) |
 | [Natural Capital & Ecosystem Assessment](#natural-capital-&-ecosystem-assessment) | Department for Environment, Food & Rural Affairs | Open      | [Data link 1](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/classifier-search?level=1)         |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/about)                                                                  |
+| [Sewage Discharges](#sewage-discharges)                                           | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                           |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                |
 | [Recorded Flood Outlines](#recorded-flood-outlines)                               | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/explore/8c75e700-d465-11e4-8b5b-f0def148f590?download=True)             |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/8c75e700-d465-11e4-8b5b-f0def148f590)                                                                |
 | [Hydrology API](#hydrology-api)                                                   | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/hydrology/doc/reference#api-summary)                                    | [Data link 2](https://environment.data.gov.uk/hydrology/doc/reference#batch-api)                                                                                      | [Docs link](https://environment.data.gov.uk/hydrology/doc/reference)                                                                                     |
 | [Rainfall API](#rainfall-api)                                                     | Environment Agency                               | Open      | [Data link 1]()                                                                                                       |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/flood-monitoring/doc/rainfall)                                                                               |
@@ -20,7 +21,6 @@ nav_order: 19
 | [Water Quality Data Archive](#water-quality-data-archive)                         | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/water-quality/api-docs)                                                 | [Data link 2](https://environment.data.gov.uk/water-quality/downloads)                                                                                                | [Docs link](https://environment.data.gov.uk/dataset/8034d47a-ba8a-4978-aca0-bd5d6e870536)                                                                |
 | [Real-Time Flood Monitoring](#real-time-flood-monitoring)                         | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/flood-monitoring/doc/reference)                                         | [Data link 2](https://environment.data.gov.uk/flood-monitoring/archive)                                                                                               | [Docs link](https://environment.data.gov.uk/flood-monitoring/doc/reference#data)                                                                         |
 | [EA Ecology & Fish Data API](#ea-ecology-&-fish-data-api)                         | Environment Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/ecology/api/v1/index.html)                                              | [Data link 2](https://environment.data.gov.uk/ecology/explorer/downloads/)                                                                                            | [Docs link](https://environment.data.gov.uk/ecology/explorer/docs/)                                                                                      |
-| [Sewage Discharges](#sewage-discharges)                                           | Environmental Agency                             | Open      | [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                           |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)                                                                |
 | [Forestry England Watercourses](#forestry-england-watercourses)                   | Forestry Commission                              | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/d4013d7cf79e4bad957b5943d8fb2c8f_0/explore)          |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/dataset/96925695-41e1-4cd3-ae2d-6f05eabc85a3)                                                                |
 | [Nutrient Neutrality Catchments](#nutrient-neutrality-catchments)                 | Natural England                                  | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/nutrient-neutrality-catchments-england/about) |                                                                                                                                                                       | [Docs link](https://environment.data.gov.uk/defra/c11d1558-7d2f-4a71-9c20-93f02d148ef5/details)                                                          |
 | [OS Open Rivers](#os-open-rivers)                                                 | Ordnance Survey                                  | Open      | [Data link 1](https://osdatahub.os.uk/downloads/open/OpenRivers)                                                      | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)                                     | [Docs link](https://docs.os.uk/os-downloads/networks/os-open-rivers)                                                                                     |
@@ -50,8 +50,8 @@ Scores for lateral erosion (scouring) susceptibility at 50m intervals along wate
 - **Secondary Category:** Soil & Geology
 - **Provider:** British Geological Survey
 - **Licensing:** Premium
-- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)
-- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/datasets/bgs-geoscour-premium/)
+- **Data link 1:** [Data link 1](https://www.bgs.ac.uk/datasets/bgs-geoscour-premium/)
+- **Data link 2:** [Data link 2](https://www.bgs.ac.uk/geological-data/contact-the-digital-team/)
 - **Docs link:** [Docs link](https://www.bgs.ac.uk/download/bgs-geoscour-user-guide/)
 
 
@@ -81,6 +81,20 @@ Various coordinated research-and-development datasets of England's land, freshwa
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/classifier-search?level=1)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/about)
+
+
+
+## Sewage Discharges
+
+Data about releases of raw, untreated sewage into waterbodies through storm overflow outlets. Data provided annually from the 10 Water and Sewerage Companies with storm overflows in England. Includes frequency and duration of discharges, and (post-2021) poteintial causes of high spill counts.
+
+- **Category:** Health & Safety
+- **Secondary Category:** Water & Hydrology
+- **Provider:** Environment Agency
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
 
 
 
@@ -179,20 +193,6 @@ National Fish Population Database (freshwater and coastal), and Biosys (microinv
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/ecology/api/v1/index.html)
 - **Data link 2:** [Data link 2](https://environment.data.gov.uk/ecology/explorer/downloads/)
 - **Docs link:** [Docs link](https://environment.data.gov.uk/ecology/explorer/docs/)
-
-
-
-## Sewage Discharges
-
-Data about releases of raw, untreated sewage into waterbodies through storm overflow outlets. Data provided annually from the 10 Water and Sewerage Companies with storm overflows in England. Includes frequency and duration of discharges, and (post-2021) poteintial causes of high spill counts.
-
-- **Category:** Health & Safety
-- **Secondary Category:** Water & Hydrology
-- **Provider:** Environmental Agency
-- **Licensing:** Open
-- **Data link 1:** [Data link 1](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
-- **Data link 2:** 
-- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
 
 
 
