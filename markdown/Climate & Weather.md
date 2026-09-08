@@ -9,10 +9,11 @@ nav_order: 7
 
 | Name                                                                              | Provider                                            | Licensing | Data link 1                                                                                                                            | Data link 2                                                                                                             | Docs link                                                                                                                        |
 | --------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [ERA5-Land](#era5-land)                                                           | Copernicus Climate Change Service                   | Open      | [Data link 1](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=analysis_ready_data)                                 | [Data link 2](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=download)                             | [Docs link](https://confluence.ecmwf.int/spaces/CKB/pages/140385202/ERA5-Land+data+documentation)                                |
 | [Natural Capital & Ecosystem Assessment](#natural-capital-&-ecosystem-assessment) | Department for Environment, Food & Rural Affairs    | Open      | [Data link 1](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/classifier-search?level=1)                          |                                                                                                                         | [Docs link](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/about)                                          |
 | [Recorded Flood Outlines](#recorded-flood-outlines)                               | Environment Agency                                  | Open      | [Data link 1](https://environment.data.gov.uk/explore/8c75e700-d465-11e4-8b5b-f0def148f590?download=True)                              |                                                                                                                         | [Docs link](https://environment.data.gov.uk/dataset/8c75e700-d465-11e4-8b5b-f0def148f590)                                        |
 | [Hydrology API](#hydrology-api)                                                   | Environment Agency                                  | Open      | [Data link 1](https://environment.data.gov.uk/hydrology/doc/reference#api-summary)                                                     | [Data link 2](https://environment.data.gov.uk/hydrology/doc/reference#batch-api)                                        | [Docs link](https://environment.data.gov.uk/hydrology/doc/reference)                                                             |
-| [Rainfall API](#rainfall-api)                                                     | Environment Agency                                  | Open      | [Data link 1]()                                                                                                                        |                                                                                                                         | [Docs link](https://environment.data.gov.uk/flood-monitoring/doc/rainfall)                                                       |
+| [Rainfall API](#rainfall-api)                                                     | Environment Agency                                  | Open      | [Data link 1](https://environment.data.gov.uk/flood-monitoring/doc/rainfall#readings)                                                  | [Data link 2](https://environment.data.gov.uk/flood-monitoring/archive)                                                 | [Docs link](https://environment.data.gov.uk/flood-monitoring/doc/rainfall)                                                       |
 | [Sentinel Atmospheric Monitering](#sentinel-atmospheric-monitering)               | European Space Agency                               | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis) | [Data link 2](https://browser.dataspace.copernicus.eu/)                                                                 | [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel5P.html)                                 |
 | [National Forest Inventory GB](#national-forest-inventory-gb)                     | Forestry Commission                                 | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/5a3efa283e81431b911b5c9872527ca5_0/explore)                           |                                                                                                                         | [Docs link](https://environment.data.gov.uk/dataset/0dbabff6-588e-44b3-a316-6353c4e47025)                                        |
 | [Forestry England Watercourses](#forestry-england-watercourses)                   | Forestry Commission                                 | Open      | [Data link 1](https://data-forestry.opendata.arcgis.com/datasets/d4013d7cf79e4bad957b5943d8fb2c8f_0/explore)                           |                                                                                                                         | [Docs link](https://environment.data.gov.uk/dataset/96925695-41e1-4cd3-ae2d-6f05eabc85a3)                                        |
@@ -22,6 +23,20 @@ nav_order: 7
 | [Sites of Special Scientific Interest](#sites-of-special-scientific-interest)     | Natural England                                     | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)   | [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1) | [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about) |
 | [SatVu Thermal Imagery](#satvu-thermal-imagery)                                   | SatVu                                               | Premium   | [Data link 1](https://docs.satellitevu.com/developers/api/overview/)                                                                   | [Data link 2](https://github.com/SatelliteVu/satvu-api-sdk)                                                             | [Docs link](https://www.satellitevu.com/products/thermal-imagery)                                                                |
 | [National River Flow Archive](#national-river-flow-archive)                       | UK Centre for Ecology & Hydrology                   | Open      | [Data link 1](https://nrfaapps.ceh.ac.uk/nrfa/nrfa-api.html)                                                                           |                                                                                                                         | [Docs link](https://nrfa.ceh.ac.uk/)                                                                                             |
+
+## ERA5-Land
+
+
+
+- **Category:** Climate & Weather
+- **Secondary Category:** 
+- **Provider:** Copernicus Climate Change Service
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=analysis_ready_data)
+- **Data link 2:** [Data link 2](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=download)
+- **Docs link:** [Docs link](https://confluence.ecmwf.int/spaces/CKB/pages/140385202/ERA5-Land+data+documentation)
+
+
 
 ## Natural Capital & Ecosystem Assessment
 
@@ -73,8 +88,8 @@ Rainfall, in mm, as recorded across over 1000m measuring stations across England
 - **Secondary Category:** Water & Hydrology
 - **Provider:** Environment Agency
 - **Licensing:** Open
-- **Data link 1:** [Data link 1]()
-- **Data link 2:** 
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/flood-monitoring/doc/rainfall#readings)
+- **Data link 2:** [Data link 2](https://environment.data.gov.uk/flood-monitoring/archive)
 - **Docs link:** [Docs link](https://environment.data.gov.uk/flood-monitoring/doc/rainfall)
 
 

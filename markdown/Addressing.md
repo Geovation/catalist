@@ -13,6 +13,7 @@ nav_order: 2
 | [GetAddress APIs](#getaddress-apis)                                                                   | GetAddress              | Premium   | [Data link 1](https://documentation.getaddress.io)                                                                          | [Data link 2](https://admin.getaddress.io/account/sign-up)                                                                        | [Docs link](https://getaddress.io/)                                                                                     |
 | [HMLR Price Paid Data](#hmlr-price-paid-data)                                                         | HM Land Registry        | Open      | [Data link 1](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)                                |                                                                                                                                   | [Docs link](https://www.gov.uk/guidance/about-the-price-paid-data)                                                      |
 | [Registered Leases](#registered-leases)                                                               | HM Land Registry        | Premium   | [Data link 1](https://use-land-property-data.service.gov.uk/datasets/leases#access)                                         | [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)                                                    | [Docs link](https://use-land-property-data.service.gov.uk/datasets/leases/tech-spec)                                    |
+| [Online Owner Verification Service](#online-owner-verification-service)                               | HM Land Registry        | Premium   | [Data link 1](https://landregistry.github.io/bgtechdoc/documents/online_owner_verification/OOV_Interface_Spec.html)         | [Data link 2](https://www.gov.uk/guidance/hm-land-registry-verify-your-property-data#volume-data-matching)                        | [Docs link](https://www.gov.uk/guidance/hm-land-registry-verify-your-property-data)                                     |
 | [Zoopla Listings API](#zoopla-listings-api)                                                           | Hometrack               | Premium   | [Data link 1](https://data.hometrack.com/documentation/listings)                                                            | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                  | [Docs link](https://www.hometrack.com/data-services/property-listings-data-from-hometrack/)                             |
 | [Zoopla Comparables API](#zoopla-comparables-api)                                                     | Hometrack               | Premium   | [Data link 1](https://data.hometrack.com/documentation/comparables)                                                         | [Data link 2](https://www.hometrack.com/data-services/data-hub/)                                                                  | [Docs link](https://www.hometrack.com/data-services/comparables-data-from-hometrack/)                                   |
 | [OS NGD Address Theme](#os-ngd-address-theme)                                                         | Ordnance Survey         | Premium   | [Data link 1](https://docs.os.uk/os-apis/accessing-os-apis/os-places-api/technical-specification)                           | [Data link 2](https://www.ordnancesurvey.co.uk/products/os-gb-address)                                                            | [Docs link](https://docs.os.uk/osngd/data-structure/address)                                                            |
@@ -78,6 +79,20 @@ Leases of more than seven years in England and Wales. Includes dates and terms, 
 - **Data link 1:** [Data link 1](https://use-land-property-data.service.gov.uk/datasets/leases#access)
 - **Data link 2:** [Data link 2](https://use-land-property-data.service.gov.uk/api-documentation)
 - **Docs link:** [Docs link](https://use-land-property-data.service.gov.uk/datasets/leases/tech-spec)
+
+
+
+## Online Owner Verification Service
+
+A tool for validating whether or not an individual owns a specific property. The Title Number or address must be supplied along with the name of the proprietor, and the tool validates ownership at a much lower cost than that of purchasing title registers. For bulk validation, CSV files can be sent, with a 48-hour turnaround time.
+
+- **Category:** Addressing
+- **Secondary Category:** 
+- **Provider:** HM Land Registry
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://landregistry.github.io/bgtechdoc/documents/online_owner_verification/OOV_Interface_Spec.html)
+- **Data link 2:** [Data link 2](https://www.gov.uk/guidance/hm-land-registry-verify-your-property-data#volume-data-matching)
+- **Docs link:** [Docs link](https://www.gov.uk/guidance/hm-land-registry-verify-your-property-data)
 
 
 
