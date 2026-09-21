@@ -10,6 +10,7 @@ nav_order: 7
 | Name                                                                              | Provider                                            | Licensing | Data link 1                                                                                                                            | Data link 2                                                                                                             | Docs link                                                                                                                        |
 | --------------------------------------------------------------------------------- | --------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [ERA5-Land](#era5-land)                                                           | Copernicus Climate Change Service                   | Open      | [Data link 1](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=analysis_ready_data)                                 | [Data link 2](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=download)                             | [Docs link](https://confluence.ecmwf.int/spaces/CKB/pages/140385202/ERA5-Land+data+documentation)                                |
+| [ERA5](#era5)                                                                     | Copernicus Climate Change Service                   | Open      | [Data link 1](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-complete?tab=d_download)                                      |                                                                                                                         | [Docs link](https://confluence.ecmwf.int/spaces/CKB/pages/76414402/ERA5+data+documentation)                                      |
 | [Natural Capital & Ecosystem Assessment](#natural-capital-&-ecosystem-assessment) | Department for Environment, Food & Rural Affairs    | Open      | [Data link 1](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/classifier-search?level=1)                          |                                                                                                                         | [Docs link](https://environment.data.gov.uk/natural-capital-ecosystem-assessment/about)                                          |
 | [Recorded Flood Outlines](#recorded-flood-outlines)                               | Environment Agency                                  | Open      | [Data link 1](https://environment.data.gov.uk/explore/8c75e700-d465-11e4-8b5b-f0def148f590?download=True)                              |                                                                                                                         | [Docs link](https://environment.data.gov.uk/dataset/8c75e700-d465-11e4-8b5b-f0def148f590)                                        |
 | [Hydrology API](#hydrology-api)                                                   | Environment Agency                                  | Open      | [Data link 1](https://environment.data.gov.uk/hydrology/doc/reference#api-summary)                                                     | [Data link 2](https://environment.data.gov.uk/hydrology/doc/reference#batch-api)                                        | [Docs link](https://environment.data.gov.uk/hydrology/doc/reference)                                                             |
@@ -26,15 +27,29 @@ nav_order: 7
 
 ## ERA5-Land
 
-
+Global land-surface metrics at a ~9km resolution, provided at an hourly frequency from 1950 to 5 days before the current date. Data it interpolated from readings from ERA5 atmospheric modelling. Data fields cover temperatures, snow(fall/melt), ice, soil water, albedo, lake stats, runoff, heat flux etc.
 
 - **Category:** Climate & Weather
-- **Secondary Category:** 
+- **Secondary Category:** Soil & Geology
 - **Provider:** Copernicus Climate Change Service
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=analysis_ready_data)
 - **Data link 2:** [Data link 2](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=download)
 - **Docs link:** [Docs link](https://confluence.ecmwf.int/spaces/CKB/pages/140385202/ERA5-Land+data+documentation)
+
+
+
+## ERA5
+
+Global meterological metrics at a ~31km resolution, provided at an hourly frequency from 1940 to 5 days before the current date. Data it assimilated from global weather readings. Data fields cover wind, suface pressure, solar/thermal radiation, and precipitation.
+
+- **Category:** Climate & Weather
+- **Secondary Category:** 
+- **Provider:** Copernicus Climate Change Service
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-complete?tab=d_download)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://confluence.ecmwf.int/spaces/CKB/pages/76414402/ERA5+data+documentation)
 
 
 

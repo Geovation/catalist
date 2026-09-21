@@ -31,7 +31,9 @@ nav_order: 12
 | [OS NGD Land Use Theme](#os-ngd-land-use-theme)                                                         | Ordnance Survey                                     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-land-use-features)                                                                                                         | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/land-use)                                                                                    |
 | [Overture Maps Base Layer](#overture-maps-base-layer)                                                   | Overture Maps Foundation                            | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                                                                                                            | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/base/)                                                                                          |
 | [PropertyData Title Registers](#propertydata-title-registers)                                           | PropertyData                                        | Premium   | [Data link 1](https://propertydata.co.uk/api/pricing?x=api_docs)                                                                                                                      |                                                                                                                                                                       | [Docs link](https://propertydata.co.uk/api/documentation/land-registry-documents)                                                                |
+| [Registers of Scotland Cadastral Parcels (INSPIRE)](#registers-of-scotland-cadastral-parcels-(inspire)) | Registers of Scotland                               | Open      | [Data link 1](https://ros-inspire.themapcloud.com/)                                                                                                                                   |                                                                                                                                                                       | [Docs link](https://ros-inspire.themapcloud.com/assets/files/INSPIRE_dataset_specification_v1.5_March2025.pdf)                                   |
 | [Crop Map of England (CROME)](#crop-map-of-england-(crome))                                             | Rural Payments Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/explore/04dc895b-e25d-485d-9b0c-d912a0259da8?download=true)                                                                             | [Data link 2](https://environment.data.gov.uk/geoservices/datasets/04dc895b-e25d-485d-9b0c-d912a0259da8/ogc/features/v1/openapi?f=text%2Fhtml)                        | [Docs link](https://environment.data.gov.uk/dataset/04dc895b-e25d-485d-9b0c-d912a0259da8)                                                        |
+| [Less Favoured Areas and Moorland Lines Layer](#less-favoured-areas-and-moorland-lines-layer)           | Rural Payments Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/explore/8dc2b71d-8cf5-427f-8af9-41a9dbba495a?download=true)                                                                             | [Data link 2](https://environment.data.gov.uk/spatialdata/lfa-and-moorland-lines-layer/ogc/features/v1)                                                               | [Docs link](https://environment.data.gov.uk/dataset/8dc2b71d-8cf5-427f-8af9-41a9dbba495a)                                                        |
 | [Searchland Planning Applications](#searchland-planning-applications)                                   | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                                                                            |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                                             |
 | [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)                             | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                                                                 |
 | [Searchland HMOs](#searchland-hmos)                                                                     | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/HMO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/hmo)                                                                                               |
@@ -348,6 +350,20 @@ Supplies official copies of title registers and/or title plans. A streamlined wr
 
 
 
+## Registers of Scotland Cadastral Parcels (INSPIRE)
+
+Extents and INSPIRE IDs of titles in Scotland. Complies with the INSPIRE Directive. No title numbers or other attribution provided besides location. Each polygon has a unique INSPIRE ID linked to a title.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Addressing
+- **Provider:** Registers of Scotland
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://ros-inspire.themapcloud.com/)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://ros-inspire.themapcloud.com/assets/files/INSPIRE_dataset_specification_v1.5_March2025.pdf)
+
+
+
 ## Crop Map of England (CROME)
 
 32 million hexagonal cells classifying England into over 15 main crop types, grassland, and non-agricultural land covers, such as Woodland, Water Bodies, Fallow Land and other non-agricultural land covers. The classification was created automatically using supervised classification (Random Forest Classification) from the combination of Sentinel-1 Radar Satellite time series images during the period January 2025 – August 2025. A separate downloadable lookup table matches the codes to the land classifications.
@@ -359,6 +375,20 @@ Supplies official copies of title registers and/or title plans. A streamlined wr
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/explore/04dc895b-e25d-485d-9b0c-d912a0259da8?download=true)
 - **Data link 2:** [Data link 2](https://environment.data.gov.uk/geoservices/datasets/04dc895b-e25d-485d-9b0c-d912a0259da8/ogc/features/v1/openapi?f=text%2Fhtml)
 - **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/04dc895b-e25d-485d-9b0c-d912a0259da8)
+
+
+
+## Less Favoured Areas and Moorland Lines Layer
+
+Less Favoured Areas (LFAs) are (mainly upland) areas where the natural characteristics (geology, altitude, climate, etc.) make economic competition difficult, split into "disadvantaged" and "severely disadvantaged". Moorland lines enclose land within LFAs which has been defined as predominantly semi-natural upland vegetation, or predominantly of rock outcrops and semi-natural vegetation, used primarily for rough grazing.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Vegetation
+- **Provider:** Rural Payments Agency
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/explore/8dc2b71d-8cf5-427f-8af9-41a9dbba495a?download=true)
+- **Data link 2:** [Data link 2](https://environment.data.gov.uk/spatialdata/lfa-and-moorland-lines-layer/ogc/features/v1)
+- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/8dc2b71d-8cf5-427f-8af9-41a9dbba495a)
 
 
 
