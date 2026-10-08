@@ -2,7 +2,7 @@
 title: Land & Land Use
 has_children: false
 parent: Catalist
-nav_order: 12
+nav_order: 11
 ---
 
 # Land & Land Use
@@ -24,6 +24,7 @@ nav_order: 12
 | [LandTech Planning Applications](#landtech-planning-applications)                                       | LandTech                                            | Premium   | [Data link 1](https://developers.land.tech/openapi/planning-applications)                                                                                                             |                                                                                                                                                                       | [Docs link](https://land.tech/landtech-datasets#planning-applications-data)                                                                      |
 | [UK Planning Data Platform](#uk-planning-data-platform)                                                 | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/)                                                                                                                              |                                                                                                                                                                       | [Docs link](https://www.planning.data.gov.uk/docs)                                                                                               |
 | [Brownfield Land Points](#brownfield-land-points)                                                       | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/dataset/brownfield-land)                                                                                                               |                                                                                                                                                                       | [Docs link](https://design.planning.data.gov.uk/planning-consideration/brownfield-land)                                                          |
+| [Greenbelt](#greenbelt)                                                                                 | Ministry of Housing, Communities & Local Government | Open      | [Data link 1](https://www.planning.data.gov.uk/docs)                                                                                                                                  | [Data link 2](https://www.planning.data.gov.uk/dataset/green-belt)                                                                                                    | [Docs link](https://design.planning.data.gov.uk/consideration/greenbelt)                                                                         |
 | [Sites of Special Scientific Interest](#sites-of-special-scientific-interest)                           | Natural England                                     | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/explore)                                                  | [Data link 2](https://environment.data.gov.uk/spatialdata/sites-of-special-scientific-interest-england/ogc/features/v1)                                               | [Docs link](https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::sites-of-special-scientific-interest-england/about)                 |
 | [National Historic Landscape Characterisation Grid](#national-historic-landscape-characterisation-grid) | Natural England                                     | Open      | [Data link 1](https://naturalengland-defra.opendata.arcgis.com/datasets/national-historic-landscape-characterisation-250m-grid-england/explore)                                       | [Data link 2](https://environment.data.gov.uk/geoservices/datasets/e417a184-9ec0-4664-a257-d2f123571574/ogc/features/v1/openapi#/Data)                                | [Docs link](https://www.data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7b819205002/national-historic-landscape-characterisation-250m-grid-england) |
 | [OS NGD Land Theme](#os-ngd-land-theme)                                                                 | Ordnance Survey                                     | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                                                                      | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/land)                                                                                        |
@@ -34,6 +35,7 @@ nav_order: 12
 | [Registers of Scotland Cadastral Parcels (INSPIRE)](#registers-of-scotland-cadastral-parcels-(inspire)) | Registers of Scotland                               | Open      | [Data link 1](https://ros-inspire.themapcloud.com/)                                                                                                                                   |                                                                                                                                                                       | [Docs link](https://ros-inspire.themapcloud.com/assets/files/INSPIRE_dataset_specification_v1.5_March2025.pdf)                                   |
 | [Crop Map of England (CROME)](#crop-map-of-england-(crome))                                             | Rural Payments Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/explore/04dc895b-e25d-485d-9b0c-d912a0259da8?download=true)                                                                             | [Data link 2](https://environment.data.gov.uk/geoservices/datasets/04dc895b-e25d-485d-9b0c-d912a0259da8/ogc/features/v1/openapi?f=text%2Fhtml)                        | [Docs link](https://environment.data.gov.uk/dataset/04dc895b-e25d-485d-9b0c-d912a0259da8)                                                        |
 | [Less Favoured Areas and Moorland Lines Layer](#less-favoured-areas-and-moorland-lines-layer)           | Rural Payments Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/explore/8dc2b71d-8cf5-427f-8af9-41a9dbba495a?download=true)                                                                             | [Data link 2](https://environment.data.gov.uk/spatialdata/lfa-and-moorland-lines-layer/ogc/features/v1)                                                               | [Docs link](https://environment.data.gov.uk/dataset/8dc2b71d-8cf5-427f-8af9-41a9dbba495a)                                                        |
+| [Section 4 Conclusive Registered Common Land](#section-4-conclusive-registered-common-land)             | Rural Payments Agency                               | Open      | [Data link 1](https://environment.data.gov.uk/spatialdata/crow-act-2000-section-4-conclusive-registered-common-land-england/ogc/features/v1)                                          | [Data link 2](https://naturalengland-defra.opendata.arcgis.com/datasets/crow-act-2000-section-4-conclusive-registered-common-land/explore)                            | [Docs link](https://environment.data.gov.uk/dataset/9b0384f8-2664-4a22-9d79-3fa9ca2a83eb)                                                        |
 | [Searchland Planning Applications](#searchland-planning-applications)                                   | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/Planning)                                                                                                                            |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/planning-applications)                                                                             |
 | [Searchland Tree Preservation Orders](#searchland-tree-preservation-orders)                             | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/TPO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/blog/tree-protection-order)                                                                                 |
 | [Searchland HMOs](#searchland-hmos)                                                                     | Searchland                                          | Premium   | [Data link 1](https://docs.searchland.co.uk/#tag/HMO)                                                                                                                                 |                                                                                                                                                                       | [Docs link](https://searchland.co.uk/our-apis/hmo)                                                                                               |
@@ -252,6 +254,20 @@ Point locations of brownfield sites in the UK, including historic ones now devel
 
 
 
+## Greenbelt
+
+Boundaries for land designated by a local planning authority as being green belt, categorised by the 'core' (the built-up area each greenbelt area surrounds).
+
+- **Category:** Land & Land Use
+- **Secondary Category:** Vegetation
+- **Provider:** Ministry of Housing, Communities & Local Government
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://www.planning.data.gov.uk/docs)
+- **Data link 2:** [Data link 2](https://www.planning.data.gov.uk/dataset/green-belt)
+- **Docs link:** [Docs link](https://design.planning.data.gov.uk/consideration/greenbelt)
+
+
+
 ## Sites of Special Scientific Interest
 
 Sites for wildlife and natural features in England, supporting many characteristic, rare and endangered species, habitats and natural features. Covers land notified as an SSSI under the Wildlife and Countryside Act (1981).
@@ -389,6 +405,20 @@ Less Favoured Areas (LFAs) are (mainly upland) areas where the natural character
 - **Data link 1:** [Data link 1](https://environment.data.gov.uk/explore/8dc2b71d-8cf5-427f-8af9-41a9dbba495a?download=true)
 - **Data link 2:** [Data link 2](https://environment.data.gov.uk/spatialdata/lfa-and-moorland-lines-layer/ogc/features/v1)
 - **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/8dc2b71d-8cf5-427f-8af9-41a9dbba495a)
+
+
+
+## Section 4 Conclusive Registered Common Land
+
+land mapped as Conclusive Registered Common Land under The Countryside and Rights of Way 2000 (CRoW) Act. Includes date, and name/description of land.
+
+- **Category:** Land & Land Use
+- **Secondary Category:** 
+- **Provider:** Rural Payments Agency
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://environment.data.gov.uk/spatialdata/crow-act-2000-section-4-conclusive-registered-common-land-england/ogc/features/v1)
+- **Data link 2:** [Data link 2](https://naturalengland-defra.opendata.arcgis.com/datasets/crow-act-2000-section-4-conclusive-registered-common-land/explore)
+- **Docs link:** [Docs link](https://environment.data.gov.uk/dataset/9b0384f8-2664-4a22-9d79-3fa9ca2a83eb)
 
 
 

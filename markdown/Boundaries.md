@@ -2,16 +2,46 @@
 title: Boundaries
 has_children: false
 parent: Catalist
-nav_order: 5
+nav_order: 4
 ---
 
 # Boundaries
 
-| Name                                                                              | Provider        | Licensing | Data link 1                                                                      | Data link 2                                                                                                                                                           | Docs link                                                                                   |
-| --------------------------------------------------------------------------------- | --------------- | --------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [OS NGD Admin & Statistical Units Theme](#os-ngd-admin-&-statistical-units-theme) | Ordnance Survey | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get) | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units)   |
-| [OS Open Built Up Areas](#os-open-built-up-areas)                                 | Ordnance Survey | Open      | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas)  | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)                                     | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-built-up-areas) |
-| [OS Boundaryline](#os-boundaryline)                                               | Ordnance Survey | Open      | [Data link 1](https://www.ordnancesurvey.co.uk/products/boundary-line)           | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)                                     | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/boundary-line)          |
+| Name                                                                              | Provider                       | Licensing | Data link 1                                                                                                                                                                                             | Data link 2                                                                                                                                                           | Docs link                                                                                                                                                 |
+| --------------------------------------------------------------------------------- | ------------------------------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ONS Boundaries](#ons-boundaries)                                                 | Office for National Statistics | Open      | [Data link 1](https://geoportal.statistics.gov.uk/search?collection=dataset&q=BDY_ADM&sort=Date%20Created%7Ccreated%7Cdesc&tags=Boundaries)                                                             |                                                                                                                                                                       | [Docs link](https://webarchive.nationalarchives.gov.uk/ukgwa/20160106185615/http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/index.html) |
+| [ONS UPRN Directory](#ons-uprn-directory)                                         | Office for National Statistics | Open      | [Data link 1](https://geoportal.statistics.gov.uk/search?categories=%252Fcategories%252Fuprn%2520products%252Fons%2520uprn%2520directory&q=ONS%20UPRN%20Directory&sort=Date%20Created%7Ccreated%7Cdesc) |                                                                                                                                                                       | [Docs link](https://geoportal.statistics.gov.uk/documents/ons::a-guide-to-ons-geography-postcode-products-1/about)                                        |
+| [OS NGD Admin & Statistical Units Theme](#os-ngd-admin-&-statistical-units-theme) | Ordnance Survey                | Premium   | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-ngd-api-features#get)                                                                                                                        | [Data link 2](https://docs.os.uk/osngd/getting-started/access-the-os-ngd-api/os-ngd-api-features/technical-specification/features#get-collections-collectionid-items) | [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units)                                                                 |
+| [OS Open Built Up Areas](#os-open-built-up-areas)                                 | Ordnance Survey                | Open      | [Data link 1](https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas)                                                                                                                         | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)                                     | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/os-open-built-up-areas)                                                               |
+| [OS Boundaryline](#os-boundaryline)                                               | Ordnance Survey                | Open      | [Data link 1](https://www.ordnancesurvey.co.uk/products/boundary-line)                                                                                                                                  | [Data link 2](https://docs.os.uk/os-apis/accessing-os-apis/os-downloads-api/technical-specification/download-an-opendata-product)                                     | [Docs link](https://docs.os.uk/os-downloads/addressing-and-location/boundary-line)                                                                        |
+
+## ONS Boundaries
+
+Geometry and codes for various administrative/census/electoral boundaries.
+
+- **Category:** Boundaries
+- **Secondary Category:** 
+- **Provider:** Office for National Statistics
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://geoportal.statistics.gov.uk/search?collection=dataset&q=BDY_ADM&sort=Date%20Created%7Ccreated%7Cdesc&tags=Boundaries)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://webarchive.nationalarchives.gov.uk/ukgwa/20160106185615/http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/index.html)
+
+
+
+## ONS UPRN Directory
+
+Lookups mapping Unique Property Reference Number (UPRN) for each GB address to a range of current statutory administrative, electoral, health and other statistical geographies. Includes Eastings and Northings.
+
+- **Category:** Boundaries
+- **Secondary Category:** Addressing
+- **Provider:** Office for National Statistics
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://geoportal.statistics.gov.uk/search?categories=%252Fcategories%252Fuprn%2520products%252Fons%2520uprn%2520directory&q=ONS%20UPRN%20Directory&sort=Date%20Created%7Ccreated%7Cdesc)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://geoportal.statistics.gov.uk/documents/ons::a-guide-to-ons-geography-postcode-products-1/about)
+
+
 
 ## OS NGD Admin & Statistical Units Theme
 
