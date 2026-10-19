@@ -13,6 +13,7 @@ nav_order: 15
 | [BlueSky Aerial Photography](#bluesky-aerial-photography)           | BlueSky               | Premium   | [Data link 1](https://www.blueskymapshop.com/maps/aerial-photo-hi-res)                                                                 | [Data link 2](https://www.blueskymapshop.com/account/register)                                       | [Docs link](https://www.blueskymapshop.com/products/aerial-photography)                                       |
 | [Sentinel 2 Imagery](#sentinel-2-imagery)                           | European Space Agency | Open      | [Data link 1](https://dataspace.copernicus.eu/news/2023-9-28-accessing-sentinel-mission-data-new-copernicus-data-space-ecosystem-apis) | [Data link 2](https://browser.dataspace.copernicus.eu/)                                              | [Docs link](https://documentation.dataspace.copernicus.eu/Data/SentinelMissions/Sentinel2.html)               |
 | [GetMapping Aerial Content](#getmapping-aerial-content)             | GetMapping            | Premium   | [Data link 1](https://www.getmapping.co.uk/contact-getmapping/)                                                                        | [Data link 2](https://www1.getmapping.com/Webshop/Web/Business/Getplanning.aspx)                     | [Docs link](https://www.getmapping.co.uk/aerial-content/)                                                     |
+| [Google Solar API](#google-solar-api)                               | Google                | Premium   | [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest/v1/dataLayers)                                     |                                                                                                      | [Docs link](https://developers.google.com/maps/documentation/solar/data-layers)                               |
 | [Pixxel Hyperspectral Imagery](#pixxel-hyperspectral-imagery)       | Pixxel                | Premium   | [Data link 1](https://www.pixxel.space/hyperspectral-imagery)                                                                          | [Data link 2](https://docs.pixxel.space/documentation)                                               | [Docs link](https://support.pixxel.space/hc/en-us/articles/9588039261724-Pixxel-Product-Specifications-Guide) |
 | [PlanetScope - Planet Monitoring](#planetscope---planet-monitoring) | Planet                | Premium   | [Data link 1](https://www.planet.com/products/satellite-monitoring/)                                                                   | [Data link 2](https://docs.planet.com/develop/apis/data/)                                            | [Docs link](https://docs.planet.com/data/imagery/planetscope/)                                                |
 | [SkySat - Planet Tasking](#skysat---planet-tasking)                 | Planet                | Premium   | [Data link 1](https://www.planet.com/products/high-resolution-satellite-imagery/)                                                      | [Data link 2](https://docs.planet.com/develop/apis/data/)                                            | [Docs link](https://docs.planet.com/data/imagery/skysat/)                                                     |
@@ -74,6 +75,20 @@ Aerial imagery across GB. Updated every three years. Includes a historic backlog
 - **Data link 1:** [Data link 1](https://www.getmapping.co.uk/contact-getmapping/)
 - **Data link 2:** [Data link 2](https://www1.getmapping.com/Webshop/Web/Business/Getplanning.aspx)
 - **Docs link:** [Docs link](https://www.getmapping.co.uk/aerial-content/)
+
+
+
+## Google Solar API
+
+A composite product of RGB imagery, DSM, building mask, annual/monthly flux, and building shade. Comprised of various providers depending on the terrain and the level of detail eg. Vantor/Airbus/GetMapping/Bluesky. The building mask layer indicates whether a pixel is considered part of a building roof.
+
+- **Category:** Satellite & Aerial Imagery
+- **Secondary Category:** 
+- **Provider:** Google
+- **Licensing:** Premium
+- **Data link 1:** [Data link 1](https://developers.google.com/maps/documentation/solar/reference/rest/v1/dataLayers)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://developers.google.com/maps/documentation/solar/data-layers)
 
 
 

@@ -20,7 +20,7 @@ nav_order: 12
 | [Overture Maps Places Layer](#overture-maps-places-layer)                   | Overture Maps Foundation | Open      | [Data link 1](https://docs.overturemaps.org/getting-data/)                                     | [Data link 2](https://github.com/OvertureMaps/overturemaps-py)                                                                                                        | [Docs link](https://docs.overturemaps.org/guides/places/)                                             |
 | [TomTom Places & POIs](#tomtom-places-&-pois)                               | TomTom                   | Premium   | [Data link 1](https://docs.tomtom.com/#:~:text=Documentation-,Places,-Batch%20Search%20API)    |                                                                                                                                                                       | [Docs link](https://www.tomtom.com/products/places-apis/)                                             |
 | [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions) | TripAdvisor              | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                       |                                                                                                                                                                       | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)                             |
-| [Wikidata](#wikidata)                                                       | Wikimedia Foundation     | Open      | [Data link 1](https://www.mediawiki.org/wiki/Wikidata_Query_Service/User_Manual)               | [Data link 2](https://query.wikidata.org/)                                                                                                                            | [Docs link](https://www.wikidata.org/wiki/Wikidata:Main_Page)                                         |
+| [Wikidata](#wikidata)                                                       | Wikimedia Foundation     | Open      | [Data link 1](https://www.mediawiki.org/wiki/Wikidata_Query_Service/User_Manual)               | [Data link 2](https://enterprise.wikimedia.com/docs/api/#description/introduction)                                                                                    | [Docs link](https://www.wikidata.org/wiki/Wikidata:Main_Page)                                         |
 | [X API](#x-api)                                                             | X                        | Premium   | [Data link 1](https://developer.x.com/en/portal/dashboard)                                     |                                                                                                                                                                       | [Docs link](https://docs.x.com/x-api/introduction)                                                    |
 
 ## Expedia & Vrbo Property Content
@@ -179,14 +179,14 @@ Name, address, rating, URLs, reviews and photos of various attractions and locat
 
 ## Wikidata
 
-A structured graph of connected references for Wikimedia entries. Includes locations where present, ID references for internal and external pages about entities. The data can be queried using SPARQL, including geospatial filtering.
+A structured graph of connected references for Wikimedia entries. Includes locations where present, and ID references for internal and external pages about the entities. The data can be queried using SPARQL, including geospatial filtering.
 
 - **Category:** Places & Points-of-Interest
 - **Secondary Category:** 
 - **Provider:** Wikimedia Foundation
 - **Licensing:** Open
 - **Data link 1:** [Data link 1](https://www.mediawiki.org/wiki/Wikidata_Query_Service/User_Manual)
-- **Data link 2:** [Data link 2](https://query.wikidata.org/)
+- **Data link 2:** [Data link 2](https://enterprise.wikimedia.com/docs/api/#description/introduction)
 - **Docs link:** [Docs link](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 

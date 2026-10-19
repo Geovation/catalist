@@ -42,6 +42,7 @@ nav_order: 11
 | [UKCEH Land Cover Map](#ukceh-land-cover-map)                                                           | UK Centre for Ecology & Hydrology                   | Open      | [Data link 1](https://www.ceh.ac.uk/data-request-form)                                                                                                                                | [Data link 2](https://catalogue.ceh.ac.uk/documents/c0078881-7d5a-4641-91e2-c271426bc8a1)                                                                             | [Docs link](https://www.ceh.ac.uk/data/ukceh-land-cover-maps)                                                                                    |
 | [UKCEH Land Cover Plus - Crops](#ukceh-land-cover-plus---crops)                                         | UK Centre for Ecology & Hydrology                   | Premium   | [Data link 1](https://www.ceh.ac.uk/data-request-form)                                                                                                                                |                                                                                                                                                                       | [Docs link](https://www.ceh.ac.uk/data/ceh-land-cover-plus-crops-2015)                                                                           |
 | [Spatial Signatures](#spatial-signatures)                                                               | Urban Grammar                                       | Open      | [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196) | [Data link 2](https://github.com/urbangrammarai/spatial_signatures)                                                                                                   | [Docs link](https://urbangrammarai.xyz/story/)                                                                                                   |
+| [VO Rating List](#vo-rating-list)                                                                       | Valuation Office                                    | Open      | [Data link 1](https://voaratinglists.blob.core.windows.net/html/rlidata.htm#availabledownloads)                                                                                       |                                                                                                                                                                       | [Docs link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm#technicalguidance)                                                     |
 | [Verisk UKLand](#verisk-ukland)                                                                         | Verisk                                              | Premium   | [Data link 1](https://digimap.edina.ac.uk/verisk)                                                                                                                                     | [Data link 2](https://apicatalog.verisk.com/docs/uk-data-api/zi70nw727oya9-verisk-uk-claims-data-api)                                                                 | [Docs link](https://www.verisk.com/en-gb/products/ukland)                                                                                        |
 
 ## Lost Boundaries
@@ -503,6 +504,20 @@ The result of a research project (https://www.nature.com/articles/s41597-022-016
 - **Data link 1:** [Data link 1](https://figshare.com/articles/dataset/Geographical_Characterisation_of_British_Urban_Form_and_Function_using_the_Spatial_Signatures_Framework/16691575/3?file=36049196)
 - **Data link 2:** [Data link 2](https://github.com/urbangrammarai/spatial_signatures)
 - **Docs link:** [Docs link](https://urbangrammarai.xyz/story/)
+
+
+
+## VO Rating List
+
+Details about non-domestic/commercial properties, including address, Special Category (SCat) codes and description codes, Unique Address Reference Number (UARN), and ratable values, but not multiplier values. Change update files are published frequently, often bi-monthly. There is a separate file for historic entries for a hereditament, and for many properties there is data for summary valuations, providing component breakdown information for the hereditament's valuation, covering list entries (floor, description, area, price, value), plant & machinery, car parking, and adjustments.
+
+- **Category:** Retail
+- **Secondary Category:** Land & Land Use
+- **Provider:** Valuation Office
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://voaratinglists.blob.core.windows.net/html/rlidata.htm#availabledownloads)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm#technicalguidance)
 
 
 

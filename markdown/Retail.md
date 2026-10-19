@@ -19,6 +19,7 @@ nav_order: 13
 | [Airbnb Listings](#airbnb-listings)                                                                         | InsideAirbnb            | Open      | [Data link 1](https://insideairbnb.com/get-the-data)                                                                                       |                                                                            | [Docs link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit)                                                    |
 | [OS NGD Admin & Statistical Units - Functional Areas](#os-ngd-admin-&-statistical-units---functional-areas) | Ordnance Survey         | Premium   | [Data link 1](https://osdatahub.os.uk/data/downloads/recipe-library)                                                                       |                                                                            | [Docs link](https://docs.os.uk/osngd/data-structure/administrative-and-statistical-units/functional-areas)                                               |
 | [TripAdvisor Locations & Attractions](#tripadvisor-locations-&-attractions)                                 | TripAdvisor             | Premium   | [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)                                                                   |                                                                            | [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)                                                                                |
+| [VO Rating List](#vo-rating-list)                                                                           | Valuation Office        | Open      | [Data link 1](https://voaratinglists.blob.core.windows.net/html/rlidata.htm#availabledownloads)                                            |                                                                            | [Docs link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm#technicalguidance)                                                             |
 | [VOA Non-Domestic Valuations](#voa-non-domestic-valuations)                                                 | Valuation Office Agency | Open      | [Data link 1](https://voaratinglists.blob.core.windows.net/html/rlidata.htm)                                                               |                                                                            | [Docs link](https://voaratinglists.blob.core.windows.net/html/documents/Compiled%20Rating%20List%20and%20Summary%20Valuation%20Data%20Specification.pdf) |
 
 ## Expedia & Vrbo Property Content
@@ -158,6 +159,20 @@ Name, address, rating, URLs, reviews and photos of various attractions and locat
 - **Data link 1:** [Data link 1](https://www.tripadvisor.com/developers?screen=credentials)
 - **Data link 2:** 
 - **Docs link:** [Docs link](https://tripadvisor-content-api.readme.io/reference/overview)
+
+
+
+## VO Rating List
+
+Details about non-domestic/commercial properties, including address, Special Category (SCat) codes and description codes, Unique Address Reference Number (UARN), and ratable values, but not multiplier values. Change update files are published frequently, often bi-monthly. There is a separate file for historic entries for a hereditament, and for many properties there is data for summary valuations, providing component breakdown information for the hereditament's valuation, covering list entries (floor, description, area, price, value), plant & machinery, car parking, and adjustments.
+
+- **Category:** Retail
+- **Secondary Category:** Land & Land Use
+- **Provider:** Valuation Office
+- **Licensing:** Open
+- **Data link 1:** [Data link 1](https://voaratinglists.blob.core.windows.net/html/rlidata.htm#availabledownloads)
+- **Data link 2:** 
+- **Docs link:** [Docs link](https://voaratinglists.blob.core.windows.net/html/rlidata.htm#technicalguidance)
 
 
 
