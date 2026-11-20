@@ -29,7 +29,7 @@ nav_order: 7
 
 Near-real-time population count estimates, broken down by age, gender, home & work, international visitors and percentage of the dwelling population compared to the moving population. Data updated every 15 minutes. Figures aggregated to H3 grid size 10 (each hex is ~1.5% of a square kilometer), or to LSOA. BT supplies related products for footfall to/from specific locations of interest. Other mobile network providers offer similar products:
 O2 - https://www.o2.co.uk/business/solutions/mobile/data-mobile/o2-motion
-Vodafone - https://developer.vodafone.com/api-catalogue/vodafone-analytics-realtime-footfall/overview
+Vodafone - https://preprod.dmp.vodafone.com/api-catalogue/analytics/vodafone-analytics-realtime-footfall-overview
 
 - **Category:** Demographics
 - **Secondary Category:** Road & Transportation
